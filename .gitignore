@@ -1,0 +1,48 @@
+##################
+# intellij files #
+##################
+*.iws
+*.iml
+*.ipr
+!.idea/runConfigurations
+.idea/inspectionProfiles
+.idea/libraries
+.idea/codeStyles
+.idea/shelf
+.idea/*.*
+
+#####################
+# Book build output #
+#####################
+output
+output_backup
+
+######################
+# eBook build output #
+######################
+*.epub
+*.mobi
+*.pdf
+
+##############
+# .venv #
+##############
+.venv/
+.env
+
+##############
+# Logs files #
+##############
+*.log
+.skiplist
+logs/
+
+###############################
+# Ignore Hypothesis test data #
+###############################
+.hypothesis
+
+###############################
+# Ignore coverage test output #
+###############################
+/.coverage
