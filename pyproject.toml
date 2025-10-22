@@ -1,17 +1,52 @@
 [project]
-name = "write-book-template"  # TODO: replace with your actual project name
+name = "lebendes-stimmrecht"
 version = "0.1.0"
-description = "Template project for writing and publishing books using markdown and automation tools"  # TODO: customize
-authors = [
-    { name = "Asterios Raptis", email = "asteri.raptis@gmail.com" }
-]
+escription = "Konzept und Grundlagen eines Bürgerstaates, in dem Macht beim Menschen verbleibt: das lebende Stimmrecht als permanente, unverlierbare Form demokratischer Teilhabe. Kein Parteienstaat, sondern echte Souveränität. Analyse des alten Systems und Architektur der Machtumkehr zugunsten der Bürger."
 readme = "README.md"
+[[project.authors]]
+name = "Asterios Raptis"
+email = "asteri.raptis@gmail.com"
+
+[build-system]
+requires = [ "poetry-core>=2.0.0,<3.0.0",]
+build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 package-mode = false
-packages = [
-    { include = "scripts" }
-]
+name = "lebendes-stimmrecht"
+description = "Konzept und Grundlagen eines Bürgerstaates, in dem Macht beim Menschen verbleibt: das lebende Stimmrecht als permanente, unverlierbare Form demokratischer Teilhabe. Kein Parteienstaat, sondern echte Souveränität. Analyse des alten Systems und Architektur der Machtumkehr zugunsten der Bürger."
+[[tool.poetry.packages]]
+include = "scripts"
+
+[tool.pandoc_batch]
+root = "manuscript"
+outdir = "output"
+to = "epub"
+metadata_file = "config/metadata.yaml"
+resource_path = [ "assets",]
+lang = "en"
+jobs = 4
+verbose = true
+standalone = true
+test_only = false
+patch_md = true
+fix_inplace = false
+
+[tool.mypy]
+python_version = "3.11"
+ignore_missing_imports = true
+no_implicit_optional = false
+check_untyped_defs = false
+warn_unused_ignores = false
+allow_redefinition = true
+[[tool.mypy.overrides]]
+module = "tests.*"
+disallow_untyped_defs = false
+check_untyped_defs = false
+
+[tool.ruff]
+fix = true
+unsafe-fixes = true
 
 [tool.poetry.dependencies]
 python = ">=3.9,<4.0"
@@ -24,23 +59,6 @@ toml = "^0.10.2"
 ftfy = "^6.3.1"
 questionary = "^2.1.1"
 pymupdf = "^1.26.4"
-
-[tool.poetry.group.dev.dependencies]
-hypothesis = "^6.138.13"
-types-pyyaml = "^6.0.12.20250915"
-types-toml = "^0.10.8.20240310"
-ruff = "^0.14.0"
-black = "^25.9.0"
-codespell = "^2.4.1"
-pre-commit = "^4.3.0"
-types-requests = "^2.32.4.20250913"
-mypy = "^1.11"
-
-[tool.poetry.group.test.dependencies]
-hypothesis = ">=6,<7"
-pytest = "^8.2"
-pytest-mock = "^3.10.0"
-pytest-cov = "^5.0.0"
 
 [tool.poetry.scripts]
 init-book-project = "scripts.init_book_project:main"
@@ -71,11 +89,8 @@ shortcuts-init = "scripts.shortcuts_init:main"
 shortcuts-translate = "scripts.shortcuts_translate:main"
 export-comic = "scripts.full_export_comic:main"
 shortcuts-export-comic = "scripts.shortcuts_export_comic:main"
-
-# 🏁 Export Comic Shortcuts
 export-comic-html = "scripts.shortcuts_export_comic:export_comic_html"
 export-comic-pdf = "scripts.shortcuts_export_comic:export_comic_pdf"
-# 🏁 Export Shortcuts
 export-epub = "scripts.shortcuts_export:export_epub"
 export-epub2 = "scripts.shortcuts_export:export_epub2"
 export-e = "scripts.shortcuts_export:export_epub"
@@ -97,7 +112,6 @@ export-print-version-paperback = "scripts.shortcuts_export:export_print_version_
 export-pvp = "scripts.shortcuts_export:export_print_version_paperback"
 export-print-version-hardcover = "scripts.shortcuts_export:export_print_version_hardcover"
 export-pvh = "scripts.shortcuts_export:export_print_version_hardcover"
-# Safe shortcuts (skip Step 1 & 4)
 export-pdf-safe = "scripts.shortcuts_export:export_pdf_safe"
 export-epub-safe = "scripts.shortcuts_export:export_epub_safe"
 export-es = "scripts.shortcuts_export:export_epub_safe"
@@ -107,68 +121,35 @@ export-pvp-safe = "scripts.shortcuts_export:export_print_version_paperback_safe"
 export-pvh-safe = "scripts.shortcuts_export:export_print_version_hardcover_safe"
 export-pvps = "scripts.shortcuts_export:export_print_version_paperback_safe"
 export-pvhs = "scripts.shortcuts_export:export_print_version_hardcover_safe"
-
-# Init Shortcuts
 update-mdv = "scripts.shortcuts_init:run_update_metadata_values"
 init-bp = "scripts.shortcuts_init:run_init_book_project"
-
-# Translation Shortcuts
-# Generic CLI Translation Shortcut
 translate = "scripts.shortcuts_translate:translate"
-# Verbose Translation Shortcuts
 translate_manuscript_to_german = "scripts.shortcuts_translate:translate_manuscript_to_german"
 translate_manuscript_from_german_to_english = "scripts.shortcuts_translate:translate_manuscript_from_german_to_english"
 translate_manuscript_from_english_to_spanish = "scripts.shortcuts_translate:translate_manuscript_from_english_to_spanish"
 translate_manuscript_from_german_to_spanish = "scripts.shortcuts_translate:translate_manuscript_from_german_to_spanish"
-# Short Translation Aliases
 translate-de-es = "scripts.shortcuts_translate:translate_manuscript_from_german_to_spanish"
 translate-en-es = "scripts.shortcuts_translate:translate_manuscript_from_english_to_spanish"
 translate-en-de = "scripts.shortcuts_translate:translate_manuscript_to_german"
 translate-de-en = "scripts.shortcuts_translate:translate_manuscript_from_german_to_english"
 
 [tool.pytest.ini_options]
-testpaths = ["tests"]
+testpaths = [ "tests",]
 addopts = "--cov=scripts --cov-report=term-missing"
 
-[build-system]
-requires = ["poetry-core>=2.0.0,<3.0.0"]
-build-backend = "poetry.core.masonry.api"
+[tool.poetry.group.dev.dependencies]
+hypothesis = "^6.138.13"
+types-pyyaml = "^6.0.12.20250915"
+types-toml = "^0.10.8.20240310"
+ruff = "^0.14.0"
+black = "^25.9.0"
+codespell = "^2.4.1"
+pre-commit = "^4.3.0"
+types-requests = "^2.32.4.20250913"
+mypy = "^1.11"
 
-[tool.pandoc_batch]
-root = "manuscript"
-outdir = "output"
-to = "epub"
-metadata_file = "config/metadata.yaml"
-resource_path = ["assets"]
-lang = "en"
-jobs = 4
-verbose = true
-standalone = true
-test_only = false
-patch_md = true
-fix_inplace = false
-
-#[tool.mypy]
-#python_version = "3.11"
-#warn_redundant_casts = true
-#warn_unused_ignores = true
-#no_implicit_optional = true
-#check_untyped_defs = false  # you can set it to true later
-#ignore_missing_imports = false
-
-[tool.mypy]
-python_version = "3.11"
-ignore_missing_imports = true
-no_implicit_optional = false
-check_untyped_defs = false
-warn_unused_ignores = false
-allow_redefinition = true
-
-[[tool.mypy.overrides]]
-module = "tests.*"
-disallow_untyped_defs = false
-check_untyped_defs = false
-
-[tool.ruff]
-fix = true
-unsafe-fixes = true
+[tool.poetry.group.test.dependencies]
+hypothesis = ">=6,<7"
+pytest = "^8.2"
+pytest-mock = "^3.10.0"
+pytest-cov = "^5.0.0"

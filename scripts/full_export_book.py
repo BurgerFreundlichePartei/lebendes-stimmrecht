@@ -66,17 +66,15 @@ FORMATS = {
 
 # Default section order (customizable)
 DEFAULT_SECTION_ORDER = [
-    "front-matter/imprint.md",
     "front-matter/toc.md",
-    "front-matter/preface.md",
     "front-matter/foreword.md",
     "chapters",  # Entire chapters folder
     "back-matter/epilogue.md",
     "back-matter/glossary.md",
-    "back-matter/appendix.md",
     "back-matter/acknowledgments.md",
     "back-matter/about-the-author.md",
     "back-matter/bibliography.md",
+    "back-matter/imprint.md",
 ]
 
 # New: explicit orders per product
@@ -84,17 +82,15 @@ DEFAULT_SECTION_ORDER = [
 EBOOK_SECTION_ORDER = DEFAULT_SECTION_ORDER
 # Paperback section order (customizable)
 PAPERBACK_SECTION_ORDER = [
-    "front-matter/imprint.md",
     "front-matter/toc_print_edition.md",  # <-- print ToC with page numbers
-    "front-matter/preface.md",
     "front-matter/foreword.md",
     "chapters",  # Entire chapters folder
     "back-matter/epilogue.md",
     "back-matter/glossary.md",
-    "back-matter/appendix.md",
     "back-matter/acknowledgments.md",
     "back-matter/about-the-author.md",
     "back-matter/bibliography.md",
+    "back-matter/imprint.md",
 ]
 
 # Hardcover section order (customizable)

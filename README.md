@@ -1,297 +1,50 @@
-# 📚 Write-Book-Template
+# 🗳️ Lebendes Stimmrecht
 
-This repository is a ready-to-use template for efficiently writing, organizing, and publishing books with modern
-tooling. It includes a structured directory layout, powerful automation scripts, and full integration
-with [Poetry](https://python-poetry.org/) via a `pyproject.toml` configuration.
+Ein Architekturkonzept für einen Bürgerstaat, in dem Macht nicht delegiert, sondern dauerhaft beim Menschen verbleibt.  
+Statt Wahlritualen: kontinuierliche, unverlierbare Bürgerbeteiligung – anonym, sicher, nicht manipulierbar.
 
-Authors can easily create, format, and export books in multiple formats like PDF, EPUB, MOBI, and DOCX.
+## Ziel
 
----
+Dieses Repository dokumentiert die Grundprinzipien, Mechanismen und institutionellen Voraussetzungen eines Staates, in
+dem der Bürger nicht Objekt politischer Verwaltung ist, sondern Auftraggeber staatlichen Handelns.
 
-## ✨ Features
+## Kernidee
 
-- 📂 **Structured Directory:** Predefined folders for chapters, front matter, back matter, and assets
-- 📝 **Markdown-Based Writing:** Compose in Markdown for clarity and compatibility
-- 🔄 **Automated Conversion:** Generate multiple output formats via Pandoc
-- 📜 **Dynamic Table of Contents:** Keep your structure organized and current
-- 📑 **Metadata Automation:** Easily inject book metadata with a script
-- 🚀 **Git Integration:** Seamless GitHub usage for versioning and collaboration
-- 🧰 **Poetry Integration:** Dependency and script management powered by Poetry
+Das **lebende Stimmrecht** ersetzt punktuelle Wahlen durch eine dauerhaft aktive, kryptographisch geschützte Stimme, die
+niemals erlischt und vom Bürger jederzeit aktualisiert werden kann.
 
----
+## Warum es dieses Projekt gibt
 
-## 🚦 Getting Started
+- Die heutige Demokratie ist nur formal.
+- Der Bürger verliert seine Mitsprache zwischen den Wahlen.
+- Der Staat kontrolliert den Bürger, nicht umgekehrt.
+- Dieses Projekt beschreibt die Umkehr: vom Untertan zum Auftraggeber.
 
-### 1️⃣ Create Your Book Repository from this Template
+## Grundpfeiler (Kurzüberblick)
 
-- Click on the green **`Use this template`** button at the top of this repository page.
-- Choose **`Create a new repository`** and name your book project.
-- Clone it locally:
+1. Bürger als Ursprung der Macht
+2. Staat als Dienstleister, nicht Besitzer
+3. Permanente Beteiligung statt Wahlintervallen
+4. Kryptographisch geschützte Privatsphäre
+5. Transparente Mittelverwendung
+6. Institutionelle Unkippbarkeit
+7. KI als Schutzschild – nicht als Überwacher
 
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_BOOK_REPO.git
-cd YOUR_BOOK_REPO
-```bash
+## Kapitel / Inhalte (coming soon)
 
----
+- Systemkritik (warum das alte Modell scheitern muss)
+- Architektur des Bürgerstaates
+- Rolle der Technologie
+- Verfassungs- und Rechtsprinzipien
+- Übergangsphasen
+- gesellschaftliche Verankerung
 
-### 2️⃣ Initialize Project Structure
+## Status
 
-> ⚠️ **Note:** The shell script `scripts/create_project_structure.sh` is now **deprecated** and will be removed in the future.
-> ✅ Please use the **Python script with Poetry integration** instead.
+📘 In Entwicklung – Grundlage für Buch, Manifest & politische Systemarchitektur.
 
-Run the following command to create the complete folder structure and all required files:
+## Lizenz
 
-```bash
-poetry run init-book-project
-```bash
-
-This will:
-
-- Create all necessary folders (`manuscript/`, `config/`, `assets/`, `output/`, etc.)
-
-- Generate chapter and front/back matter files
-
-- Create `metadata.yaml` and `metadata_values.json` with placeholders
-
-- Add a template for image generation prompts (`scripts/data/image_project_config.json`)
-
-- Prepare the project for exporting and translation
-
-📘 **Full guide available here:**
-👉 [📦 Project Initialization – Wiki](https://github.com/astrapi69/write-book-template/wiki/Project-Initialization)
+Folgt nach Fertigstellung des Basisteils (CC-BY-SA oder ähnliche Commons-Lizenz geplant).
 
 ---
-
-## ⚙️ Poetry-Based Setup
-
-This project is configured with **Poetry**. To install dependencies and use the automation scripts:
-
-```bash
-poetry install
-```
-
-Available scripts (defined in `pyproject.toml`):
-
-- `poetry run update-metadata-values` – injects structured metadata into your YAML file
-- `poetry run full-export` – exports your book to multiple formats
-- `poetry run print-version-build` – prints current version/build info
-
----
-
-### 3️⃣ Automate Metadata Population
-
-Replace placeholders in `config/metadata.yaml` using this command:
-
-```bash
-poetry run update-metadata-values
-```
-
-> This method ensures your virtual environment is used correctly and dependencies are managed by Poetry.
-
----
-
-#### What the script does
-
-- Loads metadata values from `config/metadata_values.json`
-- Replaces all placeholders like `{{BOOK_TITLE}}` in `metadata.yaml` with actual content
-- Properly formats lists such as `KEYWORDS` and `OUTPUT_FORMATS` to YAML list syntax
-- Automatically deletes the `metadata_values.json` file after successful population
-- Logs success and error messages to the console
-
-> 📘 Learn how this works in detail in the [Medium article](https://asterios-raptis.medium.com/automate-book-metadata-with-markdown-pandoc-ab78c03f58db)
-
-### 4️⃣ Example Metadata Structure
-
-After running the Python script, `metadata.yaml` will look like this:
-
-```yaml
-title: "Your Book Title"
-subtitle: "A short subtitle describing your book"
-author: "Your Name"
-isbn: "Your ISBN Number"
-edition: "Your Edition (e.g., 1st Edition, 2nd Edition)"
-publisher: "Your Publisher Name"
-date: "YYYY-MM-DD"
-language: "en"
-description: "Provide a detailed description of your book."
-keywords:
-  - "AI"
-  - "machine learning"
-  - "automation"
-cover_image: "assets/covers/cover.jpg"
-output_formats:
-  - "pdf"
-  - "epub"
-  - "mobi"
-kdp_enabled: true
-```
-
-### 5️⃣ Convert the Book to PDF/EPUB/MOBI
-
-Once your book is written, export it:
-
-```bash
-poetry run full-export
-```
-
-The generated files will be available in the `output/` folder.
-
----
-
-### 7️⃣ Push to GitHub
-
-Commit and push your changes manually to GitHub:
-
-```bash
-git add .
-git commit -m "Add new content or update chapters"
-git push
-```
-
----
-
-## ✍️ Start Writing
-
-- Add chapters in `manuscript/chapters/`
-- Edit `manuscript/front-matter/toc.md` for your table of contents
-- Add illustrations or diagrams under `assets/`
-
-## 📖 Documentation
-
-The full documentation is available in the [Wiki](https://github.com/astrapi69/write-book-template/wiki).
-Here are the main sections to get you started:
-
-### 🏁 Getting Started
-
-- [Home](https://github.com/astrapi69/write-book-template/wiki)
-- [Project Initialization](https://github.com/astrapi69/write-book-template/wiki/Project-Initialization)
-- [How to Write a Book](https://github.com/astrapi69/write-book-template/wiki/How-to-Write-a-Book)
-- [Generate Project Structure](https://github.com/astrapi69/write-book-template/wiki/Generate-Project-Structure)
-
-### ✏️ Writing Tools
-
-- [Chapter File Generator](https://github.com/astrapi69/write-book-template/wiki/Chapter-File-Generator)
-- [Generate Images](https://github.com/astrapi69/write-book-template/wiki/Generate-Images)
-
-### 🌐 Translation
-
-- [Translate Markdown with DeepL](https://github.com/astrapi69/write-book-template/wiki/Translate-Markdown-with-DeepL)
-- [Translate with LM Studio](https://github.com/astrapi69/write-book-template/wiki/Translate-with-LM‐Studio)
-- [Translation CLI Commands & Shortcuts](https://github.com/astrapi69/write-book-template/wiki/Translation-CLI-Commands-Shortcuts)
-- [Shortcuts for Translation](https://github.com/astrapi69/write-book-template/wiki/Shortcuts-For-Translation)
-
-### 📤 Exporting Your Book
-
-- [Automatically Export Book](https://github.com/astrapi69/write-book-template/wiki/Automatically-Export-Book)
-- [Shortcuts for Export](https://github.com/astrapi69/write-book-template/wiki/Shortcuts-For-Export)
-- [Export HTML Chapters from Your Comic](https://github.com/astrapi69/write-book-template/wiki/Export-HTML-Chapters-from-your-comic)
-- [Export to EPUB 2](https://github.com/astrapi69/write-book-template/wiki/Export-to-EPUB-2)
-- [Exporting HTML Books to PDF with Puppeteer (KDP Ready)](https://github.com/astrapi69/write-book-template/wiki/Exporting-HTML-Books-to-PDF-with-Puppeteer-(KDP-Ready))
-
-### ⚡ Project Shortcuts
-
-- [Shortcuts for Initialization](https://github.com/astrapi69/write-book-template/wiki/Shortcuts-For-Initialization)
-
----
-
-## 📁 Directory Structure
-
-```tree
-write-book-template/
-│── manuscript/
-│   ├── chapters/
-│   │   ├── 01-introduction.md
-│   │   ├── 02-chapter.md
-│   │   ├── ...
-│   ├── front-matter/
-│   │   ├── toc.md
-│   │   ├── preface.md
-│   │   ├── foreword.md
-│   │   ├── acknowledgments.md
-│   ├── back-matter/
-│   │   ├── about-the-author.md
-│   │   ├── appendix.md
-│   │   ├── bibliography.md
-│   │   ├── faq.md
-│   │   ├── glossary.md
-│   │   ├── index.md
-│   ├── figures/
-│   │   ├── fig1.png
-│   │   ├── fig2.svg
-│   │   ├── ...
-│   ├── tables/
-│   │   ├── table1.csv
-│   │   ├── table2.csv
-│   │   ├── ...
-│   ├── references.bib  # If using citations (e.g., BibTeX, APA, MLA formats supported)
-│── assets/ # Images, media, illustrations (for book content, cover design, and figures)
-│   ├── covers/
-│   │   ├── cover-design.png
-│   ├── figures/
-│   │   ├── diagrams/
-│   │   ├── infographics/
-│── config/ # Project configuration (metadata, styling, and optional Pandoc settings)
-│   ├── metadata.yaml   # Title, author, ISBN, etc. (used for all formats: PDF, EPUB, MOBI)
-│   ├── styles.css      # Custom styles for PDF/eBook
-│   ├── template.tex    # LaTeX template (if needed)
-│── output/             # Compiled book formats
-│   ├── book.pdf
-│   ├── book.epub
-│   ├── book.mobi
-│   ├── book.docx
-│── scripts/ # Scripts and tools (initialize project, convert book, update metadata, and export formats)
-│   ├── convert_book.sh                # Converts Markdown to multiple formats
-│   ├── convert_img_tags.sh            # Converts the paths of the img tags
-│   ├── convert_to_absolute.sh         # Converts the relative paths to absolute paths of the md images
-│   ├── convert_to_relative.sh         # Converts back the absolute paths to relative paths of the md images
-│   ├── create_project_structure.sh    # Initializes project structure
-│   ├── full_export_book.py            # Exports book to all publishing formats with backup
-│   ├── metadata_values_example.json   # example metadata values json file
-│   ├── update_metadata_values.py      # Automates metadata population
-│── LICENSE                                   # If open-source
-│── pyproject.toml                            # Configuration file for poetry
-│── README.md                                 # Project description
-```
-
----
-
-## 🎨 Customization
-
-- **Metadata:** Modify `config/metadata.yaml` to personalize your book details (title, author, etc.)
-- **Styles:** Edit `config/styles.css` to tailor your book’s appearance and formatting.
-- **Scripts:** Customize conversion settings and output options as needed.
-
----
-
-## 🛠 Requirements
-
-- [Poetry](https://python-poetry.org/) (for managing this Python project)
-- Python 3.x (for advanced automation with `full_export_book.py`)
-- [Pandoc](https://pandoc.org/installing.html) for manuscript conversion.
-- [Calibre](https://calibre-ebook.com/download) specifically for MOBI conversions.
-- [GitHub CLI (`gh`)](https://cli.github.com/) for managing repositories (optional but recommended).
-
----
-
-## ⚠️ Troubleshooting
-
-Refer
-to [Full Export Documentation](https://github.com/astrapi69/write-book-template/wiki/Automatically-Export-Book#%EF%B8%8F-troubleshooting)
-for detailed error handling and solutions regarding export scripts.
-
----
-
-## 🤝 Contributing
-
-Found a bug or want to contribute? Pull requests and suggestions are welcome!
-
----
-
-## 📄 License
-
-Released under the MIT License. Please see the `LICENSE` file for details.
-
----
-
-🚀 **Happy writing! Start your book today!**

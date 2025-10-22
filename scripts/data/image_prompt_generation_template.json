@@ -26,20 +26,20 @@
   "tasks": [
     {
       "name": "Validate image prompts",
-      "description": "Check if each chapter in the manuscript has a matching image prompt with filename and proper placement."
+      "description": "Check each chapter has a matching prompt."
     },
     {
       "name": "Insert illustrations",
-      "description": "Add images to Markdown files below the chapter title using the format: ![description](../../assets/filename.png)"
+      "description": "Add images to Markdown below the title."
     },
     {
       "name": "Export final book",
-      "description": "Use the CLI script `poetry run full-export` to create all final output formats."
+      "description": "Run `poetry run full-export`."
     },
     {
       "name": "Translate",
-      "description": "Use `translate-book-deepl.py` or `translate-book-lmstudio.py` to translate the book into English, Spanish or French."
+      "description": "Use DeepL / LM Studio scripts for translations."
     }
   ],
-  "notes": "Das Cover ist generiert und befindet sich im angegebenen Pfad. Die Kapitel sind fortlaufend nummeriert, und alle Bilder sollen visuell stimmig zur jeweiligen Szene sein. Bitte bei Änderungen am Prompt-File die Zuordnung beibehalten."
+  "notes": "Cover is generated. Keep prompt-file mapping stable."
 }
