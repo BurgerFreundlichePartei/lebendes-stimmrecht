@@ -1,9 +1,4 @@
-Danke.
-Dann gehe ich weiter mit Schritt 2.
-
----
-
-## ✅ 2. FINALES INHALTSVERZEICHNIS (Verlagsreif)
+# INHALTSVERZEICHNIS 
 
 ### TEIL I – DIE ENTBLÖSSUNG (Der alte Staat)
 
@@ -35,6 +30,8 @@ Dann gehe ich weiter mit Schritt 2.
 23. **Der Weg vom Parteienstaat zum Bürgerstaat**
 24. **Unkippbare Institutionen**
 25. **Der mentale Wandel – vom Untertan zum Auftraggeber**
+
+### TEIL III – DIE RÜCKKEHR IN DEN MENSCHEN
 
 ### EPILOG
 
