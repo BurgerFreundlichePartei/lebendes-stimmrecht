@@ -1,76 +1,56 @@
-# KAPITEL 2 
+# KAPITEL 2
 
-**„Beschaffungsstaat – nicht Bürgerstaat“**
+**„Beschaffungsstaat, nicht Bürgerstaat"**
 
----
+***
 
-Der Staat präsentiert sich als Hüter des Gemeinwohls.
-In Wahrheit verwaltet er nicht das Gemeinwohl,
-sondern **die eigenen Versorgungsstrukturen**.
+Der Staat inszeniert sich als selbstloser Hüter des Gemeinwohls. In der Realität jedoch verwaltet er nicht primär das
+Gemeinwohl, sondern vor allem **seine eigenen Versorgungsstrukturen**.
 
-Ein Bürgerstaat würde Ressourcen dahin leiten,
-wo sie den Menschen direkt nutzen.
-Ein Beschaffungsstaat leitet Ressourcen dorthin,
-wo er sich selbst erhält.
+Ein authentischer Bürgerstaat würde Ressourcen gezielt dorthin lenken, wo sie den Menschen unmittelbar zugutekommen. Ein
+Beschaffungsstaat hingegen kanalisiert Ressourcen systematisch dorthin, wo sie seinen eigenen Erhalt sichern.
 
-Es ist nicht die Verwaltung des Landes,
-sondern die Verwaltung **der Verwaltung**.
+Es handelt sich nicht um die Verwaltung des Landes für seine Bürger, sondern um die selbstreferenzielle Verwaltung **der
+Verwaltung selbst**.
 
----
+***
 
 ### Öffentliche Aufträge oder staatliche Selbstversorgung?
 
-Der Bürger glaubt, er finanziere Infrastruktur.
-Doch in Wahrheit finanziert er **Verteilungsnetzwerke**:
+Der Bürger glaubt, er finanziere öffentliche Infrastruktur. Doch in Wahrheit finanziert er **institutionelle
+Verteilungsnetzwerke**:
 
-Nicht die beste Lösung erhält Mittel,
-sondern die bestvernetzte Struktur.
+Nicht die beste Lösung erhält staatliche Mittel, sondern die bestvernetzte Struktur.
 
-Subventionen, Fördergelder, Bauaufträge, Digitalisierungsprojekte –
-all das folgt nicht Effizienz,
-sondern **Zugangsprivilegien**.
+Subventionen, Fördergelder, Bauaufträge, Digitalisierungsprojekte: All dies folgt nicht dem Prinzip der Effizienz,
+sondern dem System der **Zugangsprivilegien**.
 
----
+***
 
 ### Der Bürger ist Zahler, nicht Teilhaber
 
-Wenn ein Staat Infrastruktur baut,
-bekommt der Bürger nicht Anteil –
-er bekommt Rechnung.
+Wenn der Staat Infrastruktur errichtet, erhält der Bürger keinen Anteil, sondern lediglich die Rechnung.
 
-Wenn ein Projekt scheitert,
-haftet nicht der Ausführende –
-sondern der Steuerzahler.
+Wenn ein Projekt scheitert, haftet nicht der Ausführende, sondern der Steuerzahler.
 
-Verlust ist also garantiert öffentlich,
-Gewinn dagegen privat.
+Der Verlust ist also garantiert öffentlich, der Gewinn dagegen bleibt privat.
 
----
+***
 
-### Vorausdeutung (dezent, wie geplant)
+### Vorausdeutung
 
-In einem Bürgerstaat wäre es umgekehrt:
-Der Bürger würde nicht nur finanzieren,
-sondern **dirigieren**.
+In einem Bürgerstaat wäre das Verhältnis umgekehrt: Der Bürger würde nicht nur finanzieren, sondern **dirigieren**.
 
-Nicht Verwaltung hätte Priorität,
-sondern Ergebnis.
+Nicht die Verwaltung hätte institutionelle Priorität, sondern das gesellschaftliche Ergebnis.
 
-Nicht „Versorgung“ der Apparate,
-sondern **Beauftragung** durch den Souverän.
+Nicht die „Versorgung" bürokratischer Apparate, sondern die **Beauftragung** durch den Souverän selbst.
 
-Das Fehlen dieser Mechanik
-ist kein Fehler –
-es ist das Fundament des alten Modells.
+Das Fehlen dieser Mechanik ist kein zufälliger Fehler. Es ist das tragende Fundament des alten Modells.
 
----
+***
 
 ### Kernbotschaft von Kapitel 2
 
-Ein System, das sich zuerst selbst finanziert,
-kann niemals bürgerzentriert sein.
+Ein System, das sich zuerst selbst finanziert, kann strukturell niemals bürgerzentriert sein.
 
-Erst wenn der Bürger wieder Auftraggeber ist,
-kann der Staat wieder Dienstleister werden.
-
----
+Erst wenn der Bürger wieder Auftraggeber ist, kann der Staat wieder zum Dienstleister werden.
