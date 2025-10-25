@@ -1,8 +1,8 @@
 # INHALTSVERZEICHNIS
 
-0. [Vorwort](#vorwort)
+[Vorwort](#vorwort)
 
-### [TEIL I – DIE ENTBLÖSSUNG (Der alte Staat)](#teil-1)
+[TEIL I – DIE ENTBLÖSSUNG (Der alte Staat)](#teil-1)
 
 1. [Der Staat als stiller Miteigentümer deines Lebens](#kapitel-1)
 2. [Beschaffungsstaat statt Bürgerstaat](#kapitel-2)
@@ -16,7 +16,7 @@
 10. [Der Staat als Selbsterhaltungsapparat](#kapitel-10)
 11. [Vom Bürger zur Verfügungsmasse](#kapitel-11)
 
-### [TEIL II – DIE UMKEHR (Der neue Staat)](#teil-2)
+[TEIL II – DIE UMKEHR (Der neue Staat)](#teil-2)
 
 12. [Der Staat von unten nach oben](#kapitel-12)
 13. [Souveränität als Besitz – nicht als Symbol](#kapitel-13)
@@ -33,19 +33,14 @@
 24. [Unkippbare Institutionen](#kapitel-24)
 25. [Der mentale Wandel – vom Untertan zum Auftraggeber](#kapitel-25)
 
-### [TEIL III – DIE RÜCKKEHR IN DEN MENSCHEN](#teil-3)
+[TEIL III – DIE RÜCKKEHR IN DEN MENSCHEN](#teil-3)
 
-### [EPILOG](#epilog)
+[EPILOG](#epilog)
 
-**Würde als politisches Eigentum**
+[MANIFEST](#manifest)
 
-### [MANIFEST](#manifest)
+[GLOSSAR](#glossar)
 
-**Die 10 Prinzipien des Bürgerstaates**
+[DANKSAGUNG](#danksagung)
 
-### [GLOSSAR](#glossar)
-
-### [DANKSAGUNG](#danksagung)
-
-### [ÜBER DEN AUTOR](#autor)
-
+[ÜBER DEN AUTOR](#autor)
