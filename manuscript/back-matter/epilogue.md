@@ -120,7 +120,7 @@ sondern **anerkannt wird**.
 > Wer Freiheit verliert, verliert nicht Politik –
 > er verliert **sich selbst**.
 
-### Manifest (Kurzform) {#manifest}
+## Manifest {#manifest}
 
 1. **Der Bürger ist Ursprung der Macht.**
 2. Der Staat ist Werkzeug, nicht Herr.

@@ -1,4 +1,4 @@
-## ÜBER DEN AUTOR {#autor}
+# ÜBER DEN AUTOR {#autor}
 
 Asterios Raptis ist Autor, Systemanalytiker und Mitbegründer einer neuen politischen Kultur, die den Bürger nicht als
 Objekt staatlicher Verwaltung, sondern als Ursprung politischer Autorität versteht.
