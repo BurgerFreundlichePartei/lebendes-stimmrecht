@@ -1,4 +1,4 @@
-## Kapitel 20 
+# Kapitel 20 {#kapitel-20}
 
 **„Steuern als Auftrag, nicht als Zugriff – das lebende Stimmrecht steuert den Staat“**
 

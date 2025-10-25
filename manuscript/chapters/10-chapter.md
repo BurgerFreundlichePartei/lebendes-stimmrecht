@@ -1,4 +1,4 @@
-# KAPITEL 10 
+# KAPITEL 10 {#kapitel-10}
 
 **„Der Staat als Selbsterhaltungsapparat – Macht ohne Außenkontrolle“**
 

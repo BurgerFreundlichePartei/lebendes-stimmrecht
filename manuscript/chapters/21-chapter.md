@@ -1,4 +1,4 @@
-## Kapitel 21 – Rohfassung
+# Kapitel 21 {#kapitel-21}
 
 **„Schutz der Minderheiten – Privatsphäre, Missbrauchsbarrieren und die Verteidigung gegen politischen Zugriff“**
 
@@ -7,8 +7,10 @@
 ### These
 
 Ein lebendes Stimmrecht funktioniert nur mit absoluter Datensouveränität.
-Wenn das persönliche politische Profil für den Staat sichtbar oder zugreifbar wäre, entstünde genau das Repressionsinstrument, vor dem moderne Demokratien schützen müssen — das Gegenteil von Beteiligung.
-Historische Beispiele (totalitäre Regime) zeigen: wer private Überzeugungen kennt, kann Menschen systematisch ausschließen oder vernichten. Das muss in einem Bürgerstaat technisch, rechtlich und organisatorisch unmöglich sein.
+Wenn das persönliche politische Profil für den Staat sichtbar oder zugreifbar wäre, entstünde genau das
+Repressionsinstrument, vor dem moderne Demokratien schützen müssen — das Gegenteil von Beteiligung.
+Historische Beispiele (totalitäre Regime) zeigen: wer private Überzeugungen kennt, kann Menschen systematisch
+ausschließen oder vernichten. Das muss in einem Bürgerstaat technisch, rechtlich und organisatorisch unmöglich sein.
 
 ---
 
@@ -27,7 +29,8 @@ Das lebende Stimmrecht darf nicht zur digitalen „Liste von Andersdenkenden“ 
 
 1. **Nicht-Einsicht für den Staat**: Individuelle Profile sind dem Staat NICHT zugänglich.
 2. **Anonymisierte Aggregation**: Entscheidungen werden aus aggregierten, nicht individualisierbaren Signalen gebildet.
-3. **Kryptographische Unabänderlichkeit**: Nur der Bürger kontrolliert sein Profil; Änderungen sind nachprüfbar, aber nicht auslesbar.
+3. **Kryptographische Unabänderlichkeit**: Nur der Bürger kontrolliert sein Profil; Änderungen sind nachprüfbar, aber
+   nicht auslesbar.
 4. **Rechtsstaatliche Absicherung**: Verfassungsrang, unabhängige Aufsicht, Strafandrohung für Missbrauch.
 5. **Technische Transparenz**: Die Algorithmen zur Aggregation sind öffentlich, prüfbar und auditierbar — nicht geheim.
 
@@ -42,27 +45,33 @@ Das lebende Stimmrecht darf nicht zur digitalen „Liste von Andersdenkenden“ 
 
 **B. Anonyme / pseudonyme Identitätsschicht**
 
-* Nutzung von digitalen Identitäten (z. B. DID-Konzepte) mit starken Authentifizierungsmethoden, aber mit Trennung von Identität und politischer Angabe.
+* Nutzung von digitalen Identitäten (z. B. DID-Konzepte) mit starken Authentifizierungsmethoden, aber mit Trennung von
+  Identität und politischer Angabe.
 * Authentifizierung ≠ Offenlegung politischer Präferenz.
 
 **C. Aggregation durch Verifiable Computation**
 
-* Die Auswertung erfolgt als Verifiable Computation: das System beweist, dass es die Aggregation korrekt ausgeführt hat, ohne einzelne Beiträge offenzulegen.
-* Beispiele: Zero-Knowledge-Proofs oder Multi-Party-Computation (MPC), sodass das Ergebnis korrekt ist, aber keine Einzelwerte rekonstruierbar sind.
+* Die Auswertung erfolgt als Verifiable Computation: das System beweist, dass es die Aggregation korrekt ausgeführt hat,
+  ohne einzelne Beiträge offenzulegen.
+* Beispiele: Zero-Knowledge-Proofs oder Multi-Party-Computation (MPC), sodass das Ergebnis korrekt ist, aber keine
+  Einzelwerte rekonstruierbar sind.
 
 **D. Differential Privacy & minimale Datenspeicherung**
 
-* Ergebnisse werden mit Differential-Privacy-Schwellen versehen, damit bei kleinen Gruppen keine Rückschlüsse möglich sind.
+* Ergebnisse werden mit Differential-Privacy-Schwellen versehen, damit bei kleinen Gruppen keine Rückschlüsse möglich
+  sind.
 * Rohdaten werden nicht dauerhaft gespeichert (limitiertes, gesetzlich geregeltes Ephemer-Speicherfenster).
 
 **E. Dezentrale / föderierte Infrastruktur**
 
-* Keine zentrale Profil-Datenbank, sondern föderierte/vertrauensgeteilte Speicherung (z. B. Kombination aus Bürger-Wallets und verteilten Aggregatoren), reduziert Zielscheiben für staatliche Angriffe.
+* Keine zentrale Profil-Datenbank, sondern föderierte/vertrauensgeteilte Speicherung (z. B. Kombination aus
+  Bürger-Wallets und verteilten Aggregatoren), reduziert Zielscheiben für staatliche Angriffe.
 
 **F. Audit- und Beweissysteme**
 
 * Alle Auswertungen sind öffentlich auditierbar (Open Source Aggregationscode, Revisions-Kette, Prüfsummen).
-* Unabhängige Prüfer (Gericht, Ombudsmann, zivilgesellschaftliche Auditoren) können Korrektheit verifizieren, ohne individuelle Profile zu sehen.
+* Unabhängige Prüfer (Gericht, Ombudsmann, zivilgesellschaftliche Auditoren) können Korrektheit verifizieren, ohne
+  individuelle Profile zu sehen.
 
 ---
 
@@ -70,28 +79,35 @@ Das lebende Stimmrecht darf nicht zur digitalen „Liste von Andersdenkenden“ 
 
 1. **Verfassungsrechtliche Verankerung**
 
-   * Das Lebende Stimmrecht und die Unzugänglichkeit individueller Profile erhalten Verfassungsrang.
+    * Das Lebende Stimmrecht und die Unzugänglichkeit individueller Profile erhalten Verfassungsrang.
 2. **Strenge Zweckbindung & Verbotsnormen**
 
-   * Profile dürfen niemals für Verwaltungszwecke, Strafverfolgung, Berufsauflagen, Überwachungsmaßnahmen oder Ermittlungen nutzbar sein.
+    * Profile dürfen niemals für Verwaltungszwecke, Strafverfolgung, Berufsauflagen, Überwachungsmaßnahmen oder
+      Ermittlungen nutzbar sein.
 3. **Unabhängige Datenschutz-Kontrolle**
 
-   * Eine entkoppelte Aufsichtsbehörde mit Prüf- und Sanktionsbefugnissen (kein Innenministerium, sondern unabhängiger Verfassungswächter).
+    * Eine entkoppelte Aufsichtsbehörde mit Prüf- und Sanktionsbefugnissen (kein Innenministerium, sondern unabhängiger
+      Verfassungswächter).
 4. **Sanktionen bei Missbrauch**
 
-   * Massive strafrechtliche Folgen für Beamte/Institutionen, die individuelle Profile auslesen oder missbrauchen; zivilrechtlicher Schadenersatz.
+    * Massive strafrechtliche Folgen für Beamte/Institutionen, die individuelle Profile auslesen oder missbrauchen;
+      zivilrechtlicher Schadenersatz.
 5. **Bürgerrechte & Rechtswege**
 
-   * Jeder Bürger hat sofortigen Rechtsweg, Audit-Zugang und Herausgaberechte. Missbrauchsfälle werden öffentlich gemacht.
+    * Jeder Bürger hat sofortigen Rechtsweg, Audit-Zugang und Herausgaberechte. Missbrauchsfälle werden öffentlich
+      gemacht.
 
 ---
 
 ### Operative Vorkehrungen gegen Profil-Missbrauch
 
 * **Keine Single-Point-of-Failure:** Verteilte Infrastruktur, kryptographische Schlüssel auf Bürgerseite.
-* **Minimale Datensichtbarkeit:** Behörden erhalten nur signalisierte Entscheidungen (z. B. „Mehrheit unterstützt Projekt X“), nie individuelle Präferenzen.
-* **Schwellwert-Regeln:** Bei kleinen Gruppen (<X Personen) werden Entscheidungen nicht automatisch umgesetzt, sondern einem menschlichen Revisionsmechanismus unterstellt, um Rückschlüsse zu verhindern.
-* **Blinde Protokolle für Ausnahmen:** Jede Ausnahme (z. B. Sicherheitsintervention) muss öffentlich begründet und gerichtlich genehmigt werden; Ausnahmen sind dokumentiert und reversibel.
+* **Minimale Datensichtbarkeit:** Behörden erhalten nur signalisierte Entscheidungen (z. B. „Mehrheit unterstützt
+  Projekt X“), nie individuelle Präferenzen.
+* **Schwellwert-Regeln:** Bei kleinen Gruppen (<X Personen) werden Entscheidungen nicht automatisch umgesetzt, sondern
+  einem menschlichen Revisionsmechanismus unterstellt, um Rückschlüsse zu verhindern.
+* **Blinde Protokolle für Ausnahmen:** Jede Ausnahme (z. B. Sicherheitsintervention) muss öffentlich begründet und
+  gerichtlich genehmigt werden; Ausnahmen sind dokumentiert und reversibel.
 
 ---
 
@@ -122,8 +138,11 @@ Transparenz über Technik + permanente Bildung reduziert das Risiko politischer 
 ### Fazit (Kernaussage dieses Kapitels)
 
 Das Lebende Stimmrecht ist nur dann demokratisch, wenn es zugleich privat ist.
-Datensouveränität, technische Anonymisierung, dezentrale Architektur und harte rechtliche Schranken formen das unverzichtbare Schutznetz.
-Ohne diese Schutzschichten würde ein System, das Beteiligung ermöglichen soll, zur Waffe gegen abweichende Meinungen werden — genau das, was totalitäre Regime taten. Ein Bürgerstaat muss daher Datenschutz, Transparenz und Rechenschaftspflicht gleichzeitig garantieren: nur so bleibt Partizipation sicher.
+Datensouveränität, technische Anonymisierung, dezentrale Architektur und harte rechtliche Schranken formen das
+unverzichtbare Schutznetz.
+Ohne diese Schutzschichten würde ein System, das Beteiligung ermöglichen soll, zur Waffe gegen abweichende Meinungen
+werden — genau das, was totalitäre Regime taten. Ein Bürgerstaat muss daher Datenschutz, Transparenz und
+Rechenschaftspflicht gleichzeitig garantieren: nur so bleibt Partizipation sicher.
 
 ---
 
@@ -146,8 +165,10 @@ Ich mache das in **3 Stufen**, damit du es später 1:1 ins Parteiprogramm übern
 > (1) Das lebende Stimmrecht ist ein dauerhaftes politisches Beteiligungsrecht jedes Bürgers.
 > (2) Individuelle politische Präferenzen und Profile sind dem Staat inhaltlich nicht zugänglich.
 > (3) Die Teilnahme an politischen Entscheidungen erfolgt anonymisiert und darf keiner Person zugeordnet werden.
-> (4) Eine Identifikation politischer Haltung zu Zwecken der Überwachung, Diskriminierung oder Repression ist verfassungswidrig.
-> (5) Jede Erhebung, Speicherung oder Auswertung individueller politischer Profile durch staatliche Stellen ist verboten und strafbar.
+> (4) Eine Identifikation politischer Haltung zu Zwecken der Überwachung, Diskriminierung oder Repression ist
+> verfassungswidrig.
+> (5) Jede Erhebung, Speicherung oder Auswertung individueller politischer Profile durch staatliche Stellen ist verboten
+> und strafbar.
 > (6) Die Bürger kontrollieren den Staat; der Staat kontrolliert niemals ihre Gesinnung.
 
 Mit diesem einen Artikel ist jede spätere Missbrauchsmöglichkeit verfassungsrechtlich blockiert.
@@ -157,7 +178,7 @@ Mit diesem einen Artikel ist jede spätere Missbrauchsmöglichkeit verfassungsre
 ### 2. Gesetzliche Umsetzung (Rahmen)
 
 | Schutzebene        | Inhalt                             | Zweck                       |
-| ------------------ | ---------------------------------- | --------------------------- |
+|--------------------|------------------------------------|-----------------------------|
 | Primärrecht        | Verfassungsartikel                 | absolute Unantastbarkeit    |
 | Sekundärrecht      | Schutzgesetz „Lebendes Stimmrecht“ | konkrete Umsetzung          |
 | Organisationsrecht | Unabhängige Kontrollbehörde        | externer Wächter            |

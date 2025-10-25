@@ -1,4 +1,4 @@
-# Kapitel 25
+# Kapitel 25 {#kapitel-25}
 
 **„Der mentale Wandel – vom Untertan zum Auftraggeber“**
 

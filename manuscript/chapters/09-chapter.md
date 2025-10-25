@@ -1,4 +1,4 @@
-# KAPITEL 9 
+# KAPITEL 9 {#kapitel-9}
 
 **„Der Mensch als Rohstoff – Staatliche Verwertung statt staatlicher Fürsorge“**
 

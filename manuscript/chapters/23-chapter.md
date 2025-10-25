@@ -1,4 +1,4 @@
-## Kapitel 23 – Rohfassung
+# Kapitel 23 {#kapitel-23}
 
 **„Der Weg vom Parteienstaat zum Bürgerstaat – evolutionär, nicht revolutionär“**
 

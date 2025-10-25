@@ -1,4 +1,4 @@
-# Kapitel 19 
+# Kapitel 19 {#kapitel-19}
 
 **„Demokratie als ständige Kontrolle – nicht als Wahlritual“**
 

@@ -1,4 +1,4 @@
-# VORWORT
+# Vorwort {#vorwort}
 
 Es gibt Momente im Leben, in denen wir nicht politisch denken, sondern zutiefst menschlich fühlen. Ein diffuses
 Unbehagen breitet sich aus, das sich keiner Partei, keiner Ideologie, keiner politischen Richtung zuordnen lässt. Das
