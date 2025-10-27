@@ -146,16 +146,6 @@ Rechenschaftspflicht gleichzeitig garantieren: nur so bleibt Partizipation siche
 
 ---
 
-Alles klar — dann baue ich jetzt **den Praxisanhang zu Kapitel 21**, wo wir aus Prinzip → **Recht + Technik** machen.
-
-Ich mache das in **3 Stufen**, damit du es später 1:1 ins Parteiprogramm übernehmen kannst:
-
-1. Mini-Verfassungstext (Artikel → Grundrechteformulierung)
-2. Gesetzliche Rahmenstruktur (wie es rechtlich implementierbar wird)
-3. Technische Architektur (verständlich, aber präzise — kein Marketing, sondern Systembeschreibung)
-
----
-
 ## Praxisanhang zu Kapitel 21
 
 ### 1. Verfassungsrang (Entwurf eines Artikels)

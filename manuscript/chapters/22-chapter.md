@@ -90,16 +90,12 @@ weil er dir gehört.“
 
 ---
 
-### Übergang / Cliffhanger für nächstes Kapitel
-
 Die nächste Frage lautet jetzt:
 
 > *Wie kommt man von der heutigen Ordnung zu dieser Form von Staat, ohne Chaos, Machtvakuum oder radikale Brüche?*
 
 Denn eine Alternative ist nur stark,
 wenn auch der Übergang stark ist.
-
-Darum:
 
 ---
 
