@@ -1,4 +1,4 @@
-# Kapitel 24 {#kapitel-24}
+# Kapitel 24 {#-kapitel-24}
 
 **„Die neue Architektur eines Bürgerstaates – Institutionen, die nicht gegen den Bürger kippen können“**
 

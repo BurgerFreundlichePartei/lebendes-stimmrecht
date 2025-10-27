@@ -1,4 +1,4 @@
-#  EINLEITUNG ZU TEIL II {#teil-2}
+#  EINLEITUNG ZU TEIL II {#-teil-2}
 
 ### TEIL II – *Die Umkehr*
 
@@ -48,7 +48,7 @@ sondern als Zustand.
 
 ---
 
-# Kapitel 12 {#kapitel-12}
+# Kapitel 12 {#-kapitel-12}
 
 **„Der Staat von unten nach oben – nicht von oben nach unten“**
 

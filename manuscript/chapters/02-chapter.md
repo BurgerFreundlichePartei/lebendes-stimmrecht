@@ -1,4 +1,4 @@
-# KAPITEL 2 {#kapitel-2}
+# KAPITEL 2 {#-kapitel-2}
 
 **„Beschaffungsstaat, nicht Bürgerstaat"**
 

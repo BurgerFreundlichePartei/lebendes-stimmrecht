@@ -1,4 +1,4 @@
-# KAPITEL 3 {#kapitel-3}
+# KAPITEL 3 {#-kapitel-3}
 
 **„Regulierung als versteckte Steuer: Die Einpreisung des Bürgers"**
 

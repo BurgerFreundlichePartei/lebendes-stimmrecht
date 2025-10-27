@@ -1,4 +1,4 @@
-# Kapitel 15 {#kapitel-15}
+# Kapitel 15 {#-kapitel-15}
 
 **„Rente und Vorsorge als Eigentum – digitale Absicherung statt systemische Enteignung“**
 

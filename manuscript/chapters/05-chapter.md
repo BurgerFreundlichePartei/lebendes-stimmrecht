@@ -1,4 +1,4 @@
-# KAPITEL 5 {#kapitel-5}
+# KAPITEL 5 {#-kapitel-5}
 
 **„Rente als Einwegprodukt – Lebensleistung ohne Eigentum“**
 

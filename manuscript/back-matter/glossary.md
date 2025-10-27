@@ -1,4 +1,4 @@
-# GLOSSAR {#glossar}
+# GLOSSAR {#-glossar}
 
 Dieses Glossar dient nicht nur der Begriffserklärung, sondern der Klärung von Zuständigkeit.
 Begriffe steuern Wahrnehmung, und wer die Sprache kontrolliert, kontrolliert das Verständnis von Realität. Viele der

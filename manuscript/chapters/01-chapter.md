@@ -1,4 +1,4 @@
-# EINLEITUNG ZU TEIL I {#teil-1}
+# EINLEITUNG ZU TEIL I {#-teil-1}
 
 ### TEIL I – *Die Entblößung*
 
@@ -34,7 +34,7 @@ tut, sondern **warum** er es strukturell tun kann.
 Und erst wenn vollständig klar geworden ist, wie diese Entmachtung konkret aussieht, wird sichtbar, wo die Rückkehr zur
 Souveränität beginnen muss.
 
-# KAPITEL 1 {#kapitel-1}
+# KAPITEL 1 {#-kapitel-1}
 
 **„Der Staat als stiller Miteigentümer deines Lebens"**
 

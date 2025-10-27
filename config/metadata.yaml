@@ -23,5 +23,8 @@ keywords:
   - politische Entmachtung
   - Staatsversagen
   - Reformarchitektur
+cover_image: "assets/covers/cover.png"
 output_formats: [ "pdf", "epub", "docx" ]
 kdp_enabled: false
+css:
+  - config/styles.css

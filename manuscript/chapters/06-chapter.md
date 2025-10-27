@@ -1,4 +1,4 @@
-# KAPITEL 6 {#kapitel-6}
+# KAPITEL 6 {#-kapitel-6}
 
 **„Pflege als Rückholsystem – wenn Fürsorge zur Bilanz wird“**
 

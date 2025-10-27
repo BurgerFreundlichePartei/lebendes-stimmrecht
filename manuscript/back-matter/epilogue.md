@@ -1,4 +1,4 @@
-# EINLEITUNG ZU TEIL III {#teil-3}
+# EINLEITUNG ZU TEIL III {#-teil-3}
 
 ### TEIL III – *Die Rückkehr in den Menschen*
 
@@ -56,7 +56,7 @@ und damit von Freiheit.
 
 ---
 
-# Epilog {#epilog}
+# Epilog {#-epilog}
 
 **„Was wir zurückholen, ist nicht der Staat – sondern unsere Würde.“**
 
@@ -120,7 +120,7 @@ sondern **anerkannt wird**.
 > Wer Freiheit verliert, verliert nicht Politik –
 > er verliert **sich selbst**.
 
-## Manifest {#manifest}
+## Manifest {#-manifest}
 
 1. **Der Bürger ist Ursprung der Macht.**
 2. Der Staat ist Werkzeug, nicht Herr.

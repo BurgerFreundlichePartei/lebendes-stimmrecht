@@ -1,4 +1,4 @@
-# Kapitel 11 {#kapitel-11}
+# Kapitel 11 {#-kapitel-11}
 
 **„Vom Bürger zur Verfügungsmasse – die Neutralisierung von Würde“**
 

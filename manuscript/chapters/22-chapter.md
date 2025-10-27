@@ -1,4 +1,4 @@
-# Kapitel 22 {#kapitel-22}
+# Kapitel 22 {#-kapitel-22}
 
 **„Der Bürgerstaat im Alltag – wie sich Freiheit anfühlt, wenn sie real ist“**
 

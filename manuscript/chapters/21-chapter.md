@@ -1,4 +1,4 @@
-# Kapitel 21 {#kapitel-21}
+# Kapitel 21 {#-kapitel-21}
 
 **„Schutz der Minderheiten – Privatsphäre, Missbrauchsbarrieren und die Verteidigung gegen politischen Zugriff“**
 
