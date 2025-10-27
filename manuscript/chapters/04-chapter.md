@@ -1,4 +1,4 @@
-## ✅ KAPITEL 4 (Finale Version)
+# KAPITEL 4 {#-kapitel-4}
 
 **„Schulden vererbbar – Rechte nicht“**
 

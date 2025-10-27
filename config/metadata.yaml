@@ -1,16 +1,30 @@
 title: "Das lebende Stimmrecht – Vom Untertan zum Auftraggeber"
-subtitle: ""
+subtitle: "Die Wiederherstellung echter Souveränität"
 author: "Asterios Raptis"
 isbn:
   ebook: ""
   paperback: ""
   hardcover: ""
-edition: "1"
-publisher: ""
+edition: "1. Auflage"
+publisher: "Conscious Path Publishing"
 date: "2025"
-language: "en"
+language: "de"
 description: "Konzept und Grundlagen eines Bürgerstaates, in dem Macht beim Menschen verbleibt: das lebende Stimmrecht als permanente, unverlierbare Form demokratischer Teilhabe. Kein Parteienstaat, sondern echte Souveränität. Analyse des alten Systems und Architektur der Machtumkehr zugunsten der Bürger."
-keywords: []
+keywords:
+  - Souveränität
+  - Bürgerstaat
+  - Machtumkehr
+  - Selbstbestimmung
+  - Demokratie jenseits Parteien
+  - Staatskritik
+  - Verwaltungsapparat
+  - Bürgerrechte
+  - Korruption im Amt
+  - politische Entmachtung
+  - Staatsversagen
+  - Reformarchitektur
 cover_image: "assets/covers/cover.png"
-output_formats: ["pdf", "epub", "docx"]
+output_formats: [ "pdf", "epub", "docx" ]
 kdp_enabled: false
+css:
+  - config/styles.css

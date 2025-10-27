@@ -14,6 +14,7 @@ from scripts.validate_format import (
     validate_pdf,
     validate_markdown,
     validate_docx,
+    validate_html,
 )
 
 # replace with your data
@@ -62,10 +63,12 @@ FORMATS = {
     "pdf": "pdf",  # PDF format
     "epub": "epub",  # EPUB eBook format
     "docx": "docx",  # Microsoft Word format
+    "html": "html",  # html format
 }
 
 # Default section order (customizable)
 DEFAULT_SECTION_ORDER = [
+    "front-matter/first-page.md",
     "front-matter/toc.md",
     "front-matter/foreword.md",
     "chapters",  # Entire chapters folder
@@ -82,6 +85,7 @@ DEFAULT_SECTION_ORDER = [
 EBOOK_SECTION_ORDER = DEFAULT_SECTION_ORDER
 # Paperback section order (customizable)
 PAPERBACK_SECTION_ORDER = [
+    "front-matter/first-page.md",
     "front-matter/toc_print_edition.md",  # <-- print ToC with page numbers
     "front-matter/foreword.md",
     "chapters",  # Entire chapters folder
@@ -310,6 +314,14 @@ def compile_book(
     if format == "markdown":
         pandoc_cmd.append("--wrap=none")
 
+    if format == "html":
+        pandoc_cmd.extend(
+            [
+            "--standalone",  # Erzeugt vollständiges HTML-Dokument
+            "--css=assets/style.css",  # Optional: CSS-Datei einbinden (muss existieren)
+            "--metadata", f"lang={lang}",
+            ]
+        )
     # Run Pandoc and log output
     try:
         with open(LOG_FILE, "a") as log_file:
@@ -596,6 +608,14 @@ def main():
                 daemon=False,
             )
             print("🧩 Markdown generated. Validation running in background...")
+        elif fmt == "html":
+            thread = threading.Thread(
+                target=validate_html,
+                args=(output_path,),
+                name="Validate-HTML",
+                daemon=False,
+            )
+            print("🧩 HTML generated. Validation running in background...")
         else:
             continue  # Skip unknown formats
 

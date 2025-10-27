@@ -103,11 +103,13 @@ __all__ = [
     "export_print_version_hardcover_safe",
     "export_safe",
     # Safe aliases:
+    "export_html_safe",
     "export_pdf_safe",
     "export_epub_safe",
     "export_docx_safe",
     "export_markdown_safe",
     # Compat aliases:
+    "export_html",
     "export_pdf",
     "export_epub",
     "export_docx",
@@ -224,6 +226,16 @@ def export_docx(*extra: str):
 def export_markdown(*extra: str):
     """Back-compat alias for tests/old scripts."""
     return export("markdown", None, *extra)
+
+
+def export_html(*extra: str):
+    """Export as HTML via full_export_book.py."""
+    return export("html", None, *extra)
+
+
+def export_html_safe(*extra: str):
+    """Export as HTML in safe mode."""
+    return export_safe("html", *extra)
 
 
 def all_formats_with_cover(*extra: str):

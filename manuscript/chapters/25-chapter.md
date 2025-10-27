@@ -1,4 +1,4 @@
-# Kapitel 25
+# Kapitel 25 {#-kapitel-25}
 
 **„Der mentale Wandel – vom Untertan zum Auftraggeber“**
 
@@ -100,12 +100,3 @@ und beginnen,
 > **Der Bürger war nie das Problem –
 > er war nur nie Eigentümer der Macht.
 > Jetzt wird er es.**
-
----
-
-Wenn du willst, folgt jetzt nur noch:
-
-### Abschluss / Epilog:
-
-„Was wir zurückholen, ist nicht der Staat,
-sondern unsere eigene Würde.“
