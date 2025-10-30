@@ -52,9 +52,9 @@ Damit entsteht eine permanente Repräsentation ohne Teilnahmezwang: **Abwesenhei
 
 Wesentlich ist: **Der Bürger bleibt Herr über den Vertretungsmodus**. Er kann konfigurieren:
 
-* dass er **immer persönlich** explizit entscheidet (Profil nur als Fallback)
-* dass das **Profil automatisch** entscheidet (explizite Teilnahme nur bei Ausnahmen)
-* ein **hybrides Modell**: persönlich bei Grundsatzfragen, automatisiert bei Routinefragen
+• dass er **immer persönlich** explizit entscheidet (Profil nur als Fallback)  
+• dass das **Profil automatisch** entscheidet (explizite Teilnahme nur bei Ausnahmen)  
+• ein **hybrides Modell**: persönlich bei Grundsatzfragen, automatisiert bei Routinefragen  
 
 Politiker können weiterhin existieren – aber sie sind nicht mehr Stellvertreter einer „stummen Masse“.
 Da das lebende Stimmrecht ständig aktiv ist, **nimmt der Bürger immer teil**, auch ohne physische Anwesenheit oder Wahltermin.
@@ -66,10 +66,10 @@ das jederzeit geändert werden kann.
 
 Dieses Profil gibt an:
 
-* welche politischen Prioritäten jemand unterstützt
-* welche Ausgaben er bevorzugt
-* welche Grenzen/No-Go’s bestehen
-* welche Art Staat ein Bürger will (sozial, minimal, familienorientiert etc.)
+• welche politischen Prioritäten jemand unterstützt  
+• welche Ausgaben er bevorzugt  
+• welche Grenzen/No-Go’s bestehen  
+• welche Art Staat ein Bürger will (sozial, minimal, familienorientiert etc.)  
 
 Wenn er NICHT aktiv abstimmt,
 entscheidet **sein Profil trotzdem für ihn**.
@@ -99,9 +99,9 @@ Die Souveränität ist nicht mehr ausgeliehen, sondern **strukturell verankert**
 
 Juristisch betrachtet verschiebt sich der Charakter der Demokratie:
 
-* nicht mehr *periodische Legitimation*, sondern **kontinuierliche Legitimität**
-* nicht Repräsentation auf Zeit, sondern **ständiger Anschluss des Ursprungswillens**
-* nicht Herrschaft über Mandat, sondern **Ausführung eines lebenden Auftrags**
+• nicht mehr *periodische Legitimation*, sondern **kontinuierliche Legitimität**  
+• nicht Repräsentation auf Zeit, sondern **ständiger Anschluss des Ursprungswillens**  
+• nicht Herrschaft über Mandat, sondern **Ausführung eines lebenden Auftrags**  
 
 Dadurch entsteht keine „Algorithmendemokratie“, sondern eine **willensbasierte Durchschaltung**:
 Die Bürgerautorität bleibt präsent, und der Staat wird zur Exekution des aktualisierten Mehrheitswillens – nicht zu dessen Ersatz.
@@ -129,12 +129,12 @@ sondern **der Bürgerauftrag**.
 KI sorgt nicht für Entscheidung –
 sie sorgt für **Unbestechlichkeit der Entscheidung**:
 
-* fälschungssichere Aggregation der Bürgerprofile
-* automatische Verteilung nach Wählerprioritäten
-* nachvollziehbare Mittelströme (Geld-Tracking öffentlich)
-* keine politische Manipulation möglich
+• fälschungssichere Aggregation der Bürgerprofile  
+• automatische Verteilung nach Wählerprioritäten  
+• nachvollziehbare Mittelströme (Geld-Tracking öffentlich)  
+• keine politische Manipulation möglich  
 
-KI = demokratische Abwicklung
+KI = demokratische Abwicklung  
 nicht politische Lenkung.
 
 ---

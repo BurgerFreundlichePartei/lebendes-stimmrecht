@@ -135,9 +135,9 @@ Ein Beamter galt nicht als Schreibtischtäter, sondern als **Stellvertreter der 
 Verriet er dieses Vertrauen, verriet er *den Souverän selbst*.
 Die Strafe war nicht verwaltungstechnisch – sie war existenziell.
 
-* Verlust der Ehre → gesellschaftlicher Tod
-* Verlust des Vermögens → wirtschaftlicher Tod
-* Verbannung oder Kerker → sozialer Tod
+• Verlust der Ehre → gesellschaftlicher Tod  
+• Verlust des Vermögens → wirtschaftlicher Tod  
+• Verbannung oder Kerker → sozialer Tod  
   In schweren Fällen: körperliche Strafen oder Hinrichtung.
 
 Damals wusste jeder:
@@ -149,9 +149,9 @@ Im späten Monarchismus und frühen Verfassungsstaat wandelte sich die Begründu
 Der Beamte war „Diener des Staates“, und Korruption galt als Entehrung des Amtes.
 Ein einziger Vorfall konnte:
 
-* Pension kosten
-* lebenslange Ächtung auslösen
-* gesellschaftliche Rehabilitierung unmöglich machen
+• Pension kosten  
+• lebenslange Ächtung auslösen  
+• gesellschaftliche Rehabilitierung unmöglich machen  
 
 Die Strafe begann nicht im Gerichtssaal, sondern im Ruf.
 **Das System schützte den Bürger, nicht den Täter.**

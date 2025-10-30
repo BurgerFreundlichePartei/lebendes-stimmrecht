@@ -97,7 +97,7 @@ Denn erst **nach Kontrolle** folgt **Verteilung**.
 
 Hier erkläre ich:
 
-* warum Steuern heute Enteignung sind
-* wie sie im Bürgerstaat Auftrag werden
-* wie KI Korruption verhindert
-* wie Budgettransparenz den Staat entwaffnet
+• warum Steuern heute Enteignung sind  
+• wie sie im Bürgerstaat Auftrag werden  
+• wie KI Korruption verhindert  
+• wie Budgettransparenz den Staat entwaffnet  

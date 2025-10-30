@@ -27,12 +27,12 @@ Das lebende Stimmrecht darf nicht zur digitalen „Liste von Andersdenkenden“ 
 
 ### Grundprinzipien des Schutzes (unverhandelbar)
 
-1. **Nicht-Einsicht für den Staat**: Individuelle Profile sind dem Staat NICHT zugänglich.
-2. **Anonymisierte Aggregation**: Entscheidungen werden aus aggregierten, nicht individualisierbaren Signalen gebildet.
-3. **Kryptographische Unabänderlichkeit**: Nur der Bürger kontrolliert sein Profil; Änderungen sind nachprüfbar, aber
-   nicht auslesbar.
-4. **Rechtsstaatliche Absicherung**: Verfassungsrang, unabhängige Aufsicht, Strafandrohung für Missbrauch.
-5. **Technische Transparenz**: Die Algorithmen zur Aggregation sind öffentlich, prüfbar und auditierbar — nicht geheim.
+• **Nicht-Einsicht für den Staat**: Individuelle Profile sind dem Staat NICHT zugänglich.  
+• **Anonymisierte Aggregation**: Entscheidungen werden aus aggregierten, nicht individualisierbaren Signalen gebildet.  
+• **Kryptographische Unabänderlichkeit**: Nur der Bürger kontrolliert sein Profil; Änderungen sind nachprüfbar, aber
+   nicht auslesbar.  
+• **Rechtsstaatliche Absicherung**: Verfassungsrang, unabhängige Aufsicht, Strafandrohung für Missbrauch.  
+• **Technische Transparenz**: Die Algorithmen zur Aggregation sind öffentlich, prüfbar und auditierbar — nicht geheim.  
 
 ---
 
@@ -40,38 +40,38 @@ Das lebende Stimmrecht darf nicht zur digitalen „Liste von Andersdenkenden“ 
 
 **A. Client-first & End-to-end-Design**
 
-* Profile werden auf dem Gerät des Bürgers (Client) erstellt und signiert.
-* Der Staat empfängt nur kryptographisch geschützte Beiträge, keine Klartextprofile.
+• Profile werden auf dem Gerät des Bürgers (Client) erstellt und signiert.  
+• Der Staat empfängt nur kryptographisch geschützte Beiträge, keine Klartextprofile.  
 
 **B. Anonyme / pseudonyme Identitätsschicht**
 
-* Nutzung von digitalen Identitäten (z. B. DID-Konzepte) mit starken Authentifizierungsmethoden, aber mit Trennung von
-  Identität und politischer Angabe.
-* Authentifizierung ≠ Offenlegung politischer Präferenz.
+• Nutzung von digitalen Identitäten (z. B. DID-Konzepte) mit starken Authentifizierungsmethoden, aber mit Trennung von
+  Identität und politischer Angabe.  
+• Authentifizierung ≠ Offenlegung politischer Präferenz.  
 
 **C. Aggregation durch Verifiable Computation**
 
-* Die Auswertung erfolgt als Verifiable Computation: das System beweist, dass es die Aggregation korrekt ausgeführt hat,
-  ohne einzelne Beiträge offenzulegen.
-* Beispiele: Zero-Knowledge-Proofs oder Multi-Party-Computation (MPC), sodass das Ergebnis korrekt ist, aber keine
-  Einzelwerte rekonstruierbar sind.
+• Die Auswertung erfolgt als Verifiable Computation: das System beweist, dass es die Aggregation korrekt ausgeführt hat,
+  ohne einzelne Beiträge offenzulegen.  
+• Beispiele: Zero-Knowledge-Proofs oder Multi-Party-Computation (MPC), sodass das Ergebnis korrekt ist, aber keine
+  Einzelwerte rekonstruierbar sind.  
 
 **D. Differential Privacy & minimale Datenspeicherung**
 
-* Ergebnisse werden mit Differential-Privacy-Schwellen versehen, damit bei kleinen Gruppen keine Rückschlüsse möglich
-  sind.
-* Rohdaten werden nicht dauerhaft gespeichert (limitiertes, gesetzlich geregeltes Ephemer-Speicherfenster).
+• Ergebnisse werden mit Differential-Privacy-Schwellen versehen, damit bei kleinen Gruppen keine Rückschlüsse möglich
+  sind.  
+• Rohdaten werden nicht dauerhaft gespeichert (limitiertes, gesetzlich geregeltes Ephemer-Speicherfenster).  
 
 **E. Dezentrale / föderierte Infrastruktur**
 
-* Keine zentrale Profil-Datenbank, sondern föderierte/vertrauensgeteilte Speicherung (z. B. Kombination aus
-  Bürger-Wallets und verteilten Aggregatoren), reduziert Zielscheiben für staatliche Angriffe.
+• Keine zentrale Profil-Datenbank, sondern föderierte/vertrauensgeteilte Speicherung (z. B. Kombination aus
+  Bürger-Wallets und verteilten Aggregatoren), reduziert Zielscheiben für staatliche Angriffe.  
 
 **F. Audit- und Beweissysteme**
 
-* Alle Auswertungen sind öffentlich auditierbar (Open Source Aggregationscode, Revisions-Kette, Prüfsummen).
-* Unabhängige Prüfer (Gericht, Ombudsmann, zivilgesellschaftliche Auditoren) können Korrektheit verifizieren, ohne
-  individuelle Profile zu sehen.
+• Alle Auswertungen sind öffentlich auditierbar (Open Source Aggregationscode, Revisions-Kette, Prüfsummen).  
+• Unabhängige Prüfer (Gericht, Ombudsmann, zivilgesellschaftliche Auditoren) können Korrektheit verifizieren, ohne
+  individuelle Profile zu sehen.  
 
 ---
 

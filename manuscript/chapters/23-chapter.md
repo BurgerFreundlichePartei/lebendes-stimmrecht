@@ -114,9 +114,9 @@ sondern durch Machtverteilung.
 
 Jetzt, da:
 
-* Machtumkehr philosophisch erklärt,
-* Strukturen technisch abgesichert
-* Übergangspfad definiert ist,
+• Machtumkehr philosophisch erklärt,  
+• Strukturen technisch abgesichert  
+• Übergangspfad definiert ist,  
 
 kommt der letzte Schritt:
 

@@ -75,9 +75,9 @@ Wenn der Staat Risiko trägt,
 beginnt er wieder,
 wie jeder andere Akteur zu handeln:
 
-* abwägen statt durchregieren
-* verantworten statt verstecken
-* dienen statt dominieren
+• abwägen statt durchregieren  
+• verantworten statt verstecken  
+• dienen statt dominieren  
 
 ---
 
@@ -98,6 +98,6 @@ täglich, nicht alle vier Jahre.
 
 Hier zeige ich:
 
-* warum echte Demokratie **kontinuierlich** ist
-* wie Bürger in Entscheidungen eingebunden werden
-* wie KI demokratische Beteiligung sicher, anonym und fälschungssicher machen kann
+• warum echte Demokratie **kontinuierlich** ist  
+• wie Bürger in Entscheidungen eingebunden werden  
+• wie KI demokratische Beteiligung sicher, anonym und fälschungssicher machen kann  

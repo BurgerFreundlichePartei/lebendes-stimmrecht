@@ -97,7 +97,7 @@ Darum:
 
 Hier führe ich ein:
 
-* Mandate ohne Beutestruktur
-* kein finanzieller Anreiz zur Machtakkumulation
-* KI-Transparenz gegen Hinterzimmer
-* Politik als Dienst, nicht als Karriereweg
+• Mandate ohne Beutestruktur  
+• kein finanzieller Anreiz zur Machtakkumulation  
+• KI-Transparenz gegen Hinterzimmer  
+• Politik als Dienst, nicht als Karriereweg

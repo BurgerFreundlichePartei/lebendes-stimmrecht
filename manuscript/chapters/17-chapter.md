@@ -63,9 +63,9 @@ sondern die **schwerste Verantwortung**.
 
 KI liefert **Beweissicherung statt Gerüchte**.
 
-* Jede Sitzung = automatisch dokumentiert
-* Jeder Lobbykontakt = öffentlich sichtbar
-* Jede Mittelvergabe = nachvollziehbar
+• Jede Sitzung = automatisch dokumentiert  
+• Jeder Lobbykontakt = öffentlich sichtbar  
+• Jede Mittelvergabe = nachvollziehbar  
 
 Transparenz nicht als Bitte,
 sondern als **Systemstandard**.
@@ -103,6 +103,6 @@ ein Staat, der **Haftung** übernimmt.
 
 Hier zeige ich:
 
-* heute: Bürger trägt immer das Risiko
-* Bürgerstaat: Staat trägt institutionelle Verantwortung
-* KI = Revisionsschutz / Dokumentation / Audit-Werkzeug
+• heute: Bürger trägt immer das Risiko  
+• Bürgerstaat: Staat trägt institutionelle Verantwortung  
+• KI = Revisionsschutz / Dokumentation / Audit-Werkzeug  

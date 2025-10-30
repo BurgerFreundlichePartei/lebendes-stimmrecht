@@ -45,16 +45,16 @@ KI ermöglicht **Transparenz + Fairness**, statt Bürokratie + Verschleppung.
 
 Konkreter Nutzen:
 
-1. **Echtzeit-Rentenübersicht**
+• **Echtzeit-Rentenübersicht**
    Jeder Bürger sieht seine Ansprüche 24/7 – nicht Schätzung, sondern Bilanz.
 
-2. **Automatische Vererbbarkeit**
+• **Automatische Vererbbarkeit**
    Beim Tod → automatische Übertragung an Erben, ohne Antrag, ohne Streit.
 
-3. **Individuelle Absicherung statt Pflichtkollektiv**
+• **Individuelle Absicherung statt Pflichtkollektiv**
    KI berechnet faire Beiträge, ohne starre Einheitslogik.
 
-4. **Bürgerentlastung, nicht Kontrolle**
+• **Bürgerentlastung, nicht Kontrolle**
    KI ersetzt nicht Menschen – sie ersetzt Bürokratie.
 
 ---
@@ -101,7 +101,7 @@ Genau dort setzt Kapitel 16 an:
 
 Hier fließt wieder KI ein:
 
-* als Rechtsschutz
-* als Ressourcen-Optimierer
-* als menschenwürdige Assistenz
-* statt kafkaesker Bürokratie
+• als Rechtsschutz  
+• als Ressourcen-Optimierer  
+• als menschenwürdige Assistenz  
+• statt kafkaesker Bürokratie  
