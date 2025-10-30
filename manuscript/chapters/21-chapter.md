@@ -16,9 +16,9 @@ ausschließen oder vernichten. Das muss in einem Bürgerstaat technisch, rechtli
 
 ### Was es zu verhindern gilt (klare Gefährdungslinie)
 
-* **Identifikation politischer Gegner** → Selektive Verfolgung, Berufsverbote, Überwachung.
-* **Profilbasierte Diskriminierung** → Ausschluss von Sozialleistungen, Arbeit, Bildung.
-* **Denunziation und Stigmatisierung** → gesellschaftliche Ächtung gesteuert durch Staat.
+• **Identifikation politischer Gegner** → Selektive Verfolgung, Berufsverbote, Überwachung.  
+• **Profilbasierte Diskriminierung** → Ausschluss von Sozialleistungen, Arbeit, Bildung.  
+• **Denunziation und Stigmatisierung** → gesellschaftliche Ächtung gesteuert durch Staat.  
   Kurz: Sichtbare Profile = Werkzeug der politischen Verfolgung (vgl. klassische totalitäre Muster).
 
 Das lebende Stimmrecht darf nicht zur digitalen „Liste von Andersdenkenden“ werden.
@@ -105,13 +105,13 @@ Das lebende Stimmrecht darf nicht zur digitalen „Liste von Andersdenkenden“ 
 
 ### Operative Vorkehrungen gegen Profil-Missbrauch
 
-* **Keine Single-Point-of-Failure:** Verteilte Infrastruktur, kryptographische Schlüssel auf Bürgerseite.
-* **Minimale Datensichtbarkeit:** Behörden erhalten nur signalisierte Entscheidungen (z. B. „Mehrheit unterstützt
-  Projekt X“), nie individuelle Präferenzen.
-* **Schwellwert-Regeln:** Bei kleinen Gruppen (<X Personen) werden Entscheidungen nicht automatisch umgesetzt, sondern
-  einem menschlichen Revisionsmechanismus unterstellt, um Rückschlüsse zu verhindern.
-* **Blinde Protokolle für Ausnahmen:** Jede Ausnahme (z. B. Sicherheitsintervention) muss öffentlich begründet und
-  gerichtlich genehmigt werden; Ausnahmen sind dokumentiert und reversibel.
+• **Keine Single-Point-of-Failure:** Verteilte Infrastruktur, kryptographische Schlüssel auf Bürgerseite.  
+• **Minimale Datensichtbarkeit:** Behörden erhalten nur signalisierte Entscheidungen (z. B. „Mehrheit unterstützt
+  Projekt X“), nie individuelle Präferenzen.  
+• **Schwellwert-Regeln:** Bei kleinen Gruppen (<X Personen) werden Entscheidungen nicht automatisch umgesetzt, sondern
+  einem menschlichen Revisionsmechanismus unterstellt, um Rückschlüsse zu verhindern.  
+• **Blinde Protokolle für Ausnahmen:** Jede Ausnahme (z. B. Sicherheitsintervention) muss öffentlich begründet und
+  gerichtlich genehmigt werden; Ausnahmen sind dokumentiert und reversibel.  
 
 ---
 
@@ -131,9 +131,9 @@ Niemand (auch nicht der Staat) kann einzelne Profile rekonstruieren — und das 
 
 Technik allein reicht nicht. Bürger müssen:
 
-* wissen, wie ihre Daten geschützt sind,
-* verstehen, wie sie ihr Profil kontrollieren,
-* und misstrauen gegenüber jeder Forderung nach „Zugriff“ schulen.
+• wissen, wie ihre Daten geschützt sind,  
+• verstehen, wie sie ihr Profil kontrollieren,  
+• und misstrauen gegenüber jeder Forderung nach „Zugriff“ schulen.  
 
 Transparenz über Technik + permanente Bildung reduziert das Risiko politischer Instrumentalisierung.
 
@@ -195,10 +195,11 @@ Mit diesem einen Artikel ist jede spätere Missbrauchsmöglichkeit verfassungsre
 [ Öffentliches Ergebnis ]
 ```
 
-**Kein Punkt im System** kennt:
+**Kein Punkt im System** kennt:  
+
 • „wer“
 
-* „wie“
+• „wie“  
   → nur die Summe aller Stimmen.
 
 Kein Rückkanal möglich = keine Verfolgung möglich.

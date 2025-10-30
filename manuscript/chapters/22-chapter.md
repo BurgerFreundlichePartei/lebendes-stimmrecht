@@ -105,7 +105,7 @@ wenn auch der Übergang stark ist.
 
 Hier erkläre ich:
 
-* warum man Systeme nicht stürzt, sondern ablöst
-* Übergangsinstitutionen
-* Bürgerrechte im Aufbau
-* wie BFREI als Transformationspartei Katalysator, nicht Machthaber wäre
+• warum man Systeme nicht stürzt, sondern ablöst  
+• Übergangsinstitutionen  
+• Bürgerrechte im Aufbau  
+• wie BFREI als Transformationspartei Katalysator, nicht Machthaber wäre  

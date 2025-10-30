@@ -17,10 +17,10 @@ es ist **systemische Unkippbarkeit**.
 Demokratien scheitern nicht an Wahlen,
 sondern an **Institutionen ohne Rückbindung**.
 
-* Verwaltungen verselbstständigen sich
-* Parteien verselbstständigen sich
-* Gerichte kapseln sich ab
-* Kontrolle verdampft
+• Verwaltungen verselbstständigen sich  
+• Parteien verselbstständigen sich  
+• Gerichte kapseln sich ab  
+• Kontrolle verdampft  
 
 Das System dreht sich danach nicht **um den Bürger**,
 sondern **um sich selbst**.

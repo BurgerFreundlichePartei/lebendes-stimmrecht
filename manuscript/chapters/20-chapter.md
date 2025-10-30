@@ -141,16 +141,16 @@ nicht politische Lenkung.
 
 ### 5. Alltagsebene (B) – Was das für den Bürger bedeutet
 
-* Du zahlst Steuern →
+• Du zahlst Steuern →  
   **und sie werden so verwendet, wie du es politisch willst**
 
-* Du nimmst nicht teil an einer Abstimmung →
+• Du nimmst nicht teil an einer Abstimmung →  
   **dein Profil übernimmt automatisch und vertritt dich**
 
-* Du änderst deine Meinung →
+• Du änderst deine Meinung →  
   **dein Profil aktualisiert die Richtung sofort**
 
-* Politik kann nicht mehr gegen die Mehrheit regieren →
+• Politik kann nicht mehr gegen die Mehrheit regieren →  
   weil die Mehrheit **ständig sichtbar** ist, nicht nur an Wahltagen
 
 ---

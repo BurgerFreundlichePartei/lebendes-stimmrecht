@@ -327,10 +327,10 @@ wenn kollektives Bewusstsein den Punkt erreicht:
 
 Weil wir heute eine paradoxe Lage erreicht haben:
 
-* formal Souverän,
-* funktional Objekt der Verwaltung,
-* ohne direkte Durchgriffsmacht,
-* ohne echte Letztentscheidung.
+• formal Souverän,  
+• funktional Objekt der Verwaltung,  
+• ohne direkte Durchgriffsmacht,  
+• ohne echte Letztentscheidung.  
 
 Wenn der Bürger keine letzte Instanz mehr ist,
 ist die Souveränität nicht gelebt –

@@ -19,13 +19,13 @@ zum Bürger selbst.
 Teil II zeigt nicht mehr, was genommen wurde,
 sondern was zurückgeholt werden kann:
 
-* Kontrolle nicht punktuell, sondern dauerhaft
-* Absicherung nicht geduldet, sondern Eigentum
-* Stimme nicht sterblich, sondern verankert
-* Verwaltung nicht Hürde, sondern Dienstleistung
-* Pflege nicht Last, sondern Schutz
-* Politik nicht Karriere, sondern Verantwortung
-* Technologie nicht Überwachung, sondern Befreiung
+• Kontrolle nicht punktuell, sondern dauerhaft  
+• Absicherung nicht geduldet, sondern Eigentum  
+• Stimme nicht sterblich, sondern verankert  
+• Verwaltung nicht Hürde, sondern Dienstleistung  
+• Pflege nicht Last, sondern Schutz  
+• Politik nicht Karriere, sondern Verantwortung  
+• Technologie nicht Überwachung, sondern Befreiung  
 
 Der entscheidende Schritt ist die **Machtumkehr**:
 Staat nicht über dem Bürger,

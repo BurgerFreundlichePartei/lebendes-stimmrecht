@@ -19,11 +19,11 @@ Nicht weil Politiker versagen, sondern weil das System von Grund auf so konstrui
 
 Hier geht es nicht um einzelne Fehlentscheidungen, sondern um die grundlegende Architektur der Abhängigkeit:
 
-- Rente endet
-- Haftung bleibt
-- Rechte sind kündbar
-- Mitbestimmung ist temporär
-- Souveränität ist illusionär
+• Rente endet  
+• Haftung bleibt  
+• Rechte sind kündbar  
+• Mitbestimmung ist temporär  
+• Souveränität ist illusionär  
 
 Bevor wir verstehen können, wie Macht systematisch zurückgeführt werden kann, müssen wir präzise erkennen, **wo sie uns
 institutionell entzogen wurde**.
