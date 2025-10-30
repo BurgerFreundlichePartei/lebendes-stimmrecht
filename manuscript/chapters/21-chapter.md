@@ -77,24 +77,28 @@ Das lebende Stimmrecht darf nicht zur digitalen „Liste von Andersdenkenden“ 
 
 ### Rechtliche & organisatorische Schutzschichten
 
-1. **Verfassungsrechtliche Verankerung**
+• **Verfassungsrechtliche Verankerung**  
 
-    * Das Lebende Stimmrecht und die Unzugänglichkeit individueller Profile erhalten Verfassungsrang.
-2. **Strenge Zweckbindung & Verbotsnormen**
+    • Das Lebende Stimmrecht und die Unzugänglichkeit individueller Profile erhalten Verfassungsrang.  
 
-    * Profile dürfen niemals für Verwaltungszwecke, Strafverfolgung, Berufsauflagen, Überwachungsmaßnahmen oder
-      Ermittlungen nutzbar sein.
-3. **Unabhängige Datenschutz-Kontrolle**
+• **Strenge Zweckbindung & Verbotsnormen**  
 
-    * Eine entkoppelte Aufsichtsbehörde mit Prüf- und Sanktionsbefugnissen (kein Innenministerium, sondern unabhängiger
-      Verfassungswächter).
-4. **Sanktionen bei Missbrauch**
+    • Profile dürfen niemals für Verwaltungszwecke, Strafverfolgung, Berufsauflagen, Überwachungsmaßnahmen oder
+      Ermittlungen nutzbar sein.   
 
-    * Massive strafrechtliche Folgen für Beamte/Institutionen, die individuelle Profile auslesen oder missbrauchen;
+• **Unabhängige Datenschutz-Kontrolle**  
+
+    • Eine entkoppelte Aufsichtsbehörde mit Prüf- und Sanktionsbefugnissen (kein Innenministerium, sondern unabhängiger
+      Verfassungswächter).  
+
+• **Sanktionen bei Missbrauch**  
+
+    • Massive strafrechtliche Folgen für Beamte/Institutionen, die individuelle Profile auslesen oder missbrauchen;
       zivilrechtlicher Schadenersatz.
-5. **Bürgerrechte & Rechtswege**
 
-    * Jeder Bürger hat sofortigen Rechtsweg, Audit-Zugang und Herausgaberechte. Missbrauchsfälle werden öffentlich
+• **Bürgerrechte & Rechtswege**  
+
+    • Jeder Bürger hat sofortigen Rechtsweg, Audit-Zugang und Herausgaberechte. Missbrauchsfälle werden öffentlich
       gemacht.
 
 ---
