@@ -156,14 +156,14 @@ Rechenschaftspflicht gleichzeitig garantieren: nur so bleibt Partizipation siche
 
 > **Artikel X – Schutz des lebenden Stimmrechts**
 >
-> (1) Das lebende Stimmrecht ist ein dauerhaftes politisches Beteiligungsrecht jedes Bürgers.
-> (2) Individuelle politische Präferenzen und Profile sind dem Staat inhaltlich nicht zugänglich.
-> (3) Die Teilnahme an politischen Entscheidungen erfolgt anonymisiert und darf keiner Person zugeordnet werden.
-> (4) Eine Identifikation politischer Haltung zu Zwecken der Überwachung, Diskriminierung oder Repression ist
-> verfassungswidrig.
-> (5) Jede Erhebung, Speicherung oder Auswertung individueller politischer Profile durch staatliche Stellen ist verboten
+> • Das lebende Stimmrecht ist ein dauerhaftes politisches Beteiligungsrecht jedes Bürgers.  
+> • Individuelle politische Präferenzen und Profile sind dem Staat inhaltlich nicht zugänglich.  
+> • Die Teilnahme an politischen Entscheidungen erfolgt anonymisiert und darf keiner Person zugeordnet werden.  
+> • Eine Identifikation politischer Haltung zu Zwecken der Überwachung, Diskriminierung oder Repression ist
+> verfassungswidrig.  
+> • Jede Erhebung, Speicherung oder Auswertung individueller politischer Profile durch staatliche Stellen ist verboten
 > und strafbar.
-> (6) Die Bürger kontrollieren den Staat; der Staat kontrolliert niemals ihre Gesinnung.
+> • Die Bürger kontrollieren den Staat; der Staat kontrolliert niemals ihre Gesinnung.  
 
 Mit diesem einen Artikel ist jede spätere Missbrauchsmöglichkeit verfassungsrechtlich blockiert.
 
