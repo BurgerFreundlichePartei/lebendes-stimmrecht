@@ -28,7 +28,7 @@ wo das System beginnt zu rechnen.
 ### Wo Pflege entlarvt wird
 
 | offizielles Narrativ | reale Funktion                   |
-| -------------------- | -------------------------------- |
+|----------------------|----------------------------------|
 | „Schutz im Alter“    | Zugriff auf Vermögen             |
 | „Solidarität“        | Kostenverlagerung auf Angehörige |
 | „Fürsorge“           | Rückholmechanik                  |
@@ -50,29 +50,22 @@ ist ökonomisch „frei verfügbar“.
 
 ---
 
-### Vorausdeutung
+## **Schlussverdichtung**
 
-In einem Bürgerstaat würde Pflege
-nicht Rückgriff bedeuten,
-sondern Schutz.
+Pflege ist nicht der Test menschlicher Würde, sondern der Test staatlicher Prioritäten.
+Wer ein Leben lang einzahlt und am Ende wie ein Kostenfaktor behandelt wird, erfährt keine Fürsorge, sondern
+Rückforderung in moralischer Verpackung.
 
-Vermögen wäre unantastbar,
-weil Absicherung nicht aus „Rückzahlung“ besteht,
-sondern aus **Bürgerwürde**.
+Im Alter wird der Mensch nicht begleitet, sondern bilanziert.
+Pflege wird nicht gewährt, sie wird geprüft, verzögert, belegt und bepreist.
+Nicht dein Bedürfnis entscheidet, sondern die Kalkulation, wie viel von dir noch zurückgeholt werden kann.
 
-Pflege hätte einen Auftrag:
-den Menschen schützen –
-nicht das Budget schonen.
+Ein System, das im Moment größter Verletzlichkeit Vermögen abschöpft, schützt nicht Menschen, sondern Budgets.
+Es betrachtet Alter nicht als verdiente Ruhe, sondern als Liquidationsphase einer Lebensleistung.
 
----
+Pflege, die Besitz frisst und Familien belastet, ist keine soziale Errungenschaft, sondern administrierte
+Restverwertung.
+Solange Fürsorge an Bedingungen geknüpft ist, dient sie nicht dem Menschen, sondern der Kasse.
 
-### Kernbotschaft von Kapitel 6
-
-Solange Pflege Kostenlogik bleibt,
-bleibt Alter ökonomisches Risiko vor dem Gesetz.
-
-Erst wenn der Bürger als Souverän gilt,
-kann Pflege wieder Mensch sein –
-nicht Posten.
-
----
+Ein Staat, der im Alter zugreift, hat im Leben nicht unterstützt.
+Wer am Ende als Rechnung behandelt wird, war nie Ziel des Systems — nur Mittel.

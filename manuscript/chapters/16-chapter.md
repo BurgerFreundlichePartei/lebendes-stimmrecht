@@ -18,7 +18,7 @@ Pflege schützt Familien – sie frisst sie nicht auf.
 ### Wo die heutige Logik pervertiert ist
 
 | Heute                                   | Wirkung                   |
-| --------------------------------------- | ------------------------- |
+|-----------------------------------------|---------------------------|
 | Pflegekosten haben Vorrang vor Eigentum | Enteignung durch Pflege   |
 | Rückgriff auf Angehörige                | familiäre Armutsvererbung |
 | Verwaltung statt Versorgung             | Zermürbung statt Hilfe    |
@@ -32,7 +32,7 @@ indem er Familien **belastet**.
 ### Die bürgerfreundliche Gegenlösung
 
 | Prinzip                                   | Umsetzung                                          |
-| ----------------------------------------- | -------------------------------------------------- |
+|-------------------------------------------|----------------------------------------------------|
 | Pflege als Absicherung, nicht Zugriff     | kein Vermögensverzehr                              |
 | Familienkasse, nicht Staatskasse          | Leistungen gehen an Angehörige zur Organisation    |
 | Leistung automatisch, nicht beantragt     | Schutz beginnt mit Diagnose, nicht mit Papierkrieg |
@@ -80,24 +80,24 @@ nicht Angst vor dem Altwerden.
 
 ---
 
-### Brücke zum nächsten Kapitel
+## **Schlussverdichtung**
 
-Jetzt, da der Bürger im Alter nicht mehr Opfer staatlicher Rückforderung ist,
-stellt sich die Anschlussfrage:
+Pflege, die Vermögen aufzehrt, schützt nicht den Menschen, sondern das Budget.
+Sie prüft nicht Bedürftigkeit, sondern Verwertbarkeit.
+Ein System, das erst entlastet und dann zurückholt, nennt seine Bilanz Fürsorge und seinen Zugriff Solidarität.
 
-**Wie verhindert man, dass Politiker das System wieder korrumpieren?**
+Wer sein Leben lang einzahlt und im Alter enteignet wird, war nie Empfänger eines Systems, sondern Garant seiner
+Finanzierung.
+Pflege wird zum Test, ob du mehr Wert hast als du kostest, nicht ob du Recht auf Würde hast.
+Der Mensch wird nicht begleitet, sondern bilanziert bis zum letzten Cent.
 
-Darum:
+Solange Hilfe davon abhängt, was noch zu holen ist, bleibt Fürsorge administrierte Verwertung.
+Solange Familien für das Alter ihrer Angehörigen finanziell haften, schützt der Staat nicht die Schwachen, sondern sich
+selbst.
 
----
+Würde endet dort, wo Pflege den Charakter einer Rückforderung annimmt.
+Ein Gemeinwesen, das Menschen am Ende ihres Lebens auskleidet, hat ihre Lebensleistung nie anerkannt, sondern nur
+genutzt.
 
-## Nächstes Kapitel
-
-**17 – „Politik ohne Beute – Ämter als Verantwortung, nicht Versorgungsposten“**
-
-Hier führe ich ein:
-
-• Mandate ohne Beutestruktur  
-• kein finanzieller Anreiz zur Machtakkumulation  
-• KI-Transparenz gegen Hinterzimmer  
-• Politik als Dienst, nicht als Karriereweg
+Pflege ist kein Kostenpunkt, sondern ein Maß moralischer Ordnung.
+Ein Staat, der im Alter zugreift, hat im Leben nicht gedient.

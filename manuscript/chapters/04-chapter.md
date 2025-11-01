@@ -19,7 +19,7 @@ aber nicht seine Haftung.
 ### Die Asymmetrie
 
 | Beim Tod des Bürgers         | Folge                    |
-| ---------------------------- | ------------------------ |
+|------------------------------|--------------------------|
 | Rente                        | erlischt                 |
 | Ansprüche                    | gelöscht                 |
 | Einzahlungen                 | verfallen                |
@@ -58,34 +58,22 @@ ist der Mensch enteignbar.
 
 ---
 
-### Vorausdeutung
+## **Schlussverdichtung**
 
-In einem Bürgerstaat würde Rente nicht verfallen,
-sondern **vererbt**.
-Weil sie Eigentum wäre –
-nicht Nutzungsduldung.
+Ein Staat, der Ansprüche löscht, aber Pflichten vererbt, betrachtet den Menschen nicht als Träger von Würde, sondern als
+fortführbare Haftungsposition. Rechte enden mit dem Tod, Verpflichtungen nicht. Das ist keine soziale Ordnung, das ist
+asymmetrische Eigentumslogik zu Gunsten des Systems.
 
-Und das lebende Stimmrecht würde verhindern,
-dass der Staat jemals über das Erbe des Bürgers
-mehr Anspruch hat als seine Familie.
+Die Familie erbt nicht Sicherheit, sondern Risiko.
+Der Staat erbt nicht Verantwortung, sondern Zugriff.
+Würde gilt nur für Lebende, aber Haftung überdauert sie.
 
----
+Ein Gemeinwesen, das deine Lebensleistung konfiszieren kann, während es deine Rechte nicht fortführt, besitzt nicht
+deinen Schutz, sondern deine Bilanz.
 
-### Kernbotschaft von Kapitel 4
+Solange der Mensch sterblich ist, seine Ansprüche aber sterblicher sind als er, bleibt er verwaltete Ressource in einem
+Kreislauf, der ihn nur so lange respektiert, wie er nutzbar ist.
+Wer im Tod verliert, war im Leben nie Eigentümer.
 
-Der Staat „erbt“ heute Bürger –
-aber der Bürger erbt nie den Staat.
-
-Macht, einmal entzogen,
-ist endgültig verloren.
-
-Darum muss sie zukünftig nicht delegiert werden –
-sondern **behalten werden**.
-
----
-
-Wenn diese Version sitzt,
-mache ich weiter mit Kapitel 5.
-
-Bitte kurz bestätigen:
-**„Weiter mit Kapitel 5“**
+Ein Staat, der Schulden vererbt, aber Rechte nicht, dient sich selbst.
+Das ist keine Fürsorge, sondern Priorisierung der Struktur über den Menschen.

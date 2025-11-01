@@ -50,21 +50,19 @@ Regulierung entspricht der Berechenbarmachung von Menschen.
 
 ***
 
-### Dezente Vorausdeutung
+## **Schlussverdichtung**
 
-In einem authentischen Bürgerstaat wäre Regulierung nicht Kontrolle über Menschen, sondern **Schutz vor
-Machtkonzentration**.
+Regulierung verkauft sich als Ordnung, doch sie dient als stiller Tributmechanismus.
+Der Staat muss nicht nehmen, wenn er genehmigen kann. Er muss nicht verbieten, wenn er lizenzieren kann. Er muss nicht
+enteignen, wenn er Bedingungen definieren kann, die du zu erfüllen hast, um handeln zu dürfen.
 
-Staatliche Eingriffe wären legitimiert durch expliziten Bürgerauftrag, nicht durch abstraktes Staatsinteresse.
+So entsteht kein Rechtsraum, sondern ein Erlaubnisraum.
+Freiheit wird nicht vorausgesetzt, sondern gewährt.
+Nicht du bist Ursprung des Rechts, sondern die Verwaltung ist Ursprung deiner Handlungsspielräume.
 
-Regulierung wäre demokratisches Werkzeug, nicht administrativer Zugriff.
+Ein Staat, der Rechte in Genehmigungen verwandelt, verschiebt die Achse der Macht:
+Bürger werden Antragsteller, nicht Eigentümer ihrer Freiheit.
+Und wer seine Freiheit nur auf Bewilligung hin ausüben darf, besitzt sie nicht.
 
-***
-
-### Kernbotschaft von Kapitel 3
-
-Der Staat kassiert nicht nur dein materielles Vermögen, sondern auch deine **Handlungserlaubnis**.
-
-Er besteuert nicht nur ökonomisches Eigentum, sondern individuellen Handlungsspielraum.
-
-Und damit wird der Bürger nicht nur zum Zahler, sondern zum **Eingebundenen** im ursprünglichen Wortsinn: gefesselt.
+Regulierung ohne Rückkopplung an den Souverän ist kein Schutz, sondern Kontrolle.
+Ein System, das Freiheit portioniert, hat sie bereits eingezogen.

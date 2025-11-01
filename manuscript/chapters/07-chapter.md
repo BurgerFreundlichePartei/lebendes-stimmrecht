@@ -18,7 +18,7 @@ bekommt ein Risiko.
 ### Die Klassentrennung
 
 | Bürger           | Beamter        |
-| ---------------- | -------------- |
+|------------------|----------------|
 | Rente            | Pension        |
 | Risiko           | Garantie       |
 | Beitrag          | Anspruchstitel |
@@ -59,27 +59,26 @@ sondern rechtlich.
 
 ---
 
-### Vorausdeutung
+## **Schlussverdichtung**
 
-In einem Bürgerstaat gäbe es nicht zwei getrennte Systeme –
-den sicheren Staat und den unsicheren Bürger –
-sondern **eine einzige Absicherungsordnung**,
-deren Maßstab nicht Dienstgrad ist,
-sondern Menschenwürde.
+Wenn ein Staat seinen eigenen Dienern bessere Sicherheit gibt als denen, die ihn tragen, offenbart er seine wahre
+Loyalität.
+Nicht zum Bürger, sondern zu seinem Apparat. Nicht zu Leistung, sondern zu Zugehörigkeit.
 
-Absicherung wäre Ableitung aus Bürgerstatus,
-nicht aus Staatszugehörigkeit.
+Ein System, das Beamte privilegiert und Bürger vertröstet, kennt seine Priorität:
+Schutz nach innen, Belastung nach außen.
+Die Garantie gilt nicht dem Menschen, sondern der Struktur.
 
----
+Der Unterschied zwischen Pension und Rente ist kein technischer Mechanismus, sondern ein moralisches Geständnis:
+Der Staat vertraut seinem eigenen Modell nicht.
+Darum baut er für sich eine zweite Ordnung, eine sichere, eine ohne Risiko, eine, in der Verpflichtung Eigentum wird und
+Anspruch bleibt.
 
-### Kernbotschaft von Kapitel 7
+Wer innerhalb steht, ist versorgt.
+Wer außerhalb steht, ist austauschbar.
 
-Ein Staat, der sich selbst besser schützt als den Menschen,
-ist kein Sozialstaat –
-sondern ein Machtstaat.
+Solange die Verwaltung mehr Zukunft hat als der Bürger, ist Macht nicht delegiert, sondern abgezogen.
+Eine Ordnung, die sich selbst besser schützt als den Menschen, dem sie dienen soll, ist keine Republik, sondern ein
+Selbsthaltungsapparat mit Öffentlichkeit als Kulisse.
 
-Und Macht, die sich absichert,
-hat bereits erklärt,
-wem sie dient.
-
----
+Ein Staat, der seine Diener über seine Bürger stellt, hat den Ursprung seiner Legitimation bereits verlassen.

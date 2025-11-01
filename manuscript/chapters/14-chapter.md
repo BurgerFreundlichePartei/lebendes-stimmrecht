@@ -29,7 +29,7 @@ sondern ein Überordnungsverhältnis.
 ### Wie Verwaltung aussehen müsste
 
 | Heute             | Bürgerstaat                |
-| ----------------- | -------------------------- |
+|-------------------|----------------------------|
 | Antrag stellen    | Anspruch abrufen           |
 | Nachweise bringen | System holt Daten selbst   |
 | Misstrauen        | Standard: Vertrauen        |
@@ -81,17 +81,26 @@ sondern durch **Barrierefreiheit**.
 
 ---
 
-### Brücke ins nächste Kapitel
+## **Schlussverdichtung**
 
-Der nächste Schritt betrifft die Lebensleistung selbst:
-Wie schützt man Bürger vor Enteignung im Alter?
+Eine Verwaltung, die geprüft werden muss, bevor sie hilft, dient nicht dem Menschen, sondern ihrer eigenen Existenz.
+Sie verwaltet Ansprüche, statt sie auszulösen. Sie bewertet Bürger, statt ihnen zu dienen.
+Nicht Bedarf bestimmt den Vorgang, sondern die Pflicht des Bürgers, sich als würdig zu beweisen.
 
----
+Service, der verteidigt werden muss, ist kein Service.
+Hilfe, die erkämpft werden muss, ist kein Recht.
+Und Unterstützung, die an Misstrauen gebunden ist, ist kein Gemeinwesen, sondern administrative Vorranglogik.
 
-## Nächstes Kapitel
+Wo der Staat Dienst verspricht, aber Berechtigung prüft, entsteht kein Vertrauen, sondern Unterordnung.
+Der Bürger wird nicht unterstützt, sondern gefiltert. Nicht begleitet, sondern bewertet.
+Er arbeitet nicht mit dem Staat, sondern gegen seine Hürden.
 
-**15 – „Rente und Vorsorge als Eigentum – nicht als verlorener Beitrag“**
+Rechte, die Antragsbedingungen brauchen, sind formal, nicht real.
+Eine Ordnung, die Beweise verlangt, bevor sie Pflichten erfüllt, verwechselt Schutz mit Kontrolle und Service mit
+Schikane.
 
-Hier beginnt die Lösungsebene direkt an jenem Punkt,
-der im alten System die größte Habgier erzeugt:
-Altersabsicherung.
+Ein Staat, der helfen will, liefert ohne Kampf.
+Ein Staat, der dominiert, definiert zunächst die Hürde und nennt sie Ordnung.
+
+Solange Verwaltung Zugang kontrolliert statt Leistung erbringt, bleibt der Bürger Untertan im Verfahren, nicht
+Auftraggeber im System.

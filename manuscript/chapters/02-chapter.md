@@ -37,20 +37,18 @@ Der Verlust ist also garantiert öffentlich, der Gewinn dagegen bleibt privat.
 
 ***
 
-### Vorausdeutung
+### **Schlussverdichtung**
 
-In einem Bürgerstaat wäre das Verhältnis umgekehrt: Der Bürger würde nicht nur finanzieren, sondern **dirigieren**.
+Ein Staat, der zuerst sich selbst finanziert, arbeitet nicht für den Menschen, sondern für seine Struktur. Er verteilt
+nicht zum Wohl der Bevölkerung, sondern zur Stabilisierung des Apparates, der ihn trägt. Der Bürger ist Zahler ohne
+Anteil, Mitträger ohne Mitsprache, Investor ohne Eigentumsrecht.
 
-Nicht die Verwaltung hätte institutionelle Priorität, sondern das gesellschaftliche Ergebnis.
+Ein System, das Ressourcen zuerst in seine eigenen Kanäle leitet, ist keine öffentliche Ordnung, sondern eine
+geschlossene Versorgungspyramide mit Pflichtmitgliedschaft.
 
-Nicht die „Versorgung" bürokratischer Apparate, sondern die **Beauftragung** durch den Souverän selbst.
+Solange der Staat sich selbst als primären Begünstigten betrachtet, bleibt der Bürger Mittel, nicht Zweck.
+Und ein Gemeinwesen, das seinen Ursprung nicht im Menschen sieht, hat seine Legitimation bereits verloren, auch wenn die
+Rituale der Demokratie weiterlaufen.
 
-Das Fehlen dieser Mechanik ist kein zufälliger Fehler. Es ist das tragende Fundament des alten Modells.
-
-***
-
-### Kernbotschaft von Kapitel 2
-
-Ein System, das sich zuerst selbst finanziert, kann strukturell niemals bürgerzentriert sein.
-
-Erst wenn der Bürger wieder Auftraggeber ist, kann der Staat wieder zum Dienstleister werden.
+Ein Staat, der sich selbst versorgt, dient niemandem.
+Er verwaltet Macht, weil er ihre Quelle vergessen hat.
