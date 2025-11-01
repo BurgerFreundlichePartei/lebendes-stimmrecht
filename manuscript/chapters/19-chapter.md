@@ -18,7 +18,7 @@ sondern **Machtkontrolle in Echtzeit**.
 ### Warum die heutige Demokratie nur Fassade ist
 
 | Heute                        | Wirkung                      |
-| ---------------------------- | ---------------------------- |
+|------------------------------|------------------------------|
 | Wahl alle paar Jahre         | Simulation von Beteiligung   |
 | Danach: Bürger ohne Zugriff  | Politiker ohne Korrektiv     |
 | Kontrolle nur auf dem Papier | praktisch nicht durchsetzbar |
@@ -32,7 +32,7 @@ und verliert sie für Jahre vollständig.
 ### Was echte Bürgerkontrolle bedeutet
 
 | Ritualdemokratie | Kontrollierte Demokratie  |
-| ---------------- | ------------------------- |
+|------------------|---------------------------|
 | Stimme geben     | Entscheidung beeinflussen |
 | Mandat abgeben   | Mandat überprüfbar halten |
 | Versprechen      | Liefertreue               |
@@ -60,7 +60,7 @@ wenn sie **nicht entzogen werden kann**.
 KI macht echte Demokratie **praktisch umsetzbar**, indem sie ermöglicht:
 
 | Anwendung                                     | Nutzen                            |
-| --------------------------------------------- | --------------------------------- |
+|-----------------------------------------------|-----------------------------------|
 | fälschungssichere Online-Abstimmungen         | direkte Beteiligung ohne Hürde    |
 | Bürgerfeedback in Echtzeit                    | Reaktionen statt Ignoranz         |
 | öffentliche Stimmregister (anonymisiert)      | Transparenz                       |
@@ -82,22 +82,24 @@ sondern eine **Dauerschranke gegen Machtmissbrauch**.
 
 ---
 
-### Übergang
+## **Schlussverdichtung**
 
-Wenn Kontrolle gesichert ist,
-kann man auch das Steuersystem fair machen.
+Demokratie, die nur im Moment der Wahl existiert, ist keine Kontrolle, sondern Unterbrechung der Kontrolle.
+Zwischen den Wahlakten regiert nicht das Volk, sondern der Apparat, und der Apparat handelt nicht nach Auftrag, sondern
+nach Eigendynamik.
+Teilnahme verliert ihren Wert, wenn sie nicht dauerhaft wirkt.
 
-Denn erst **nach Kontrolle** folgt **Verteilung**.
+Macht, die nur bestätigt, aber nie widerrufen wird, ist nicht geliehen, sondern entzogen.
+Ein System, das Beteiligung auf Termine begrenzt, hält Bürger nicht für Souveräne, sondern für gelegentliche Beobachter.
+Pflicht zur Zustimmung ersetzt nicht das Recht zur Korrektur.
 
----
+Politische Legitimität entsteht nicht in Zyklen, sondern im Fortbestand der Einflussmöglichkeit.
+Nur Kontrolle, die jederzeit greifen kann, ist Kontrolle.
+Nur Stimme, die nicht verstummt, ist Souveränität.
+Nur Bürger, die eingreifen können, regieren tatsächlich.
 
-## Nächstes Kapitel
+Demokratie ist kein Ereignis, sondern ein Zustand.
+Wo sie nicht permanent wirkt, wird sie verwaltet.
+Und ein verwalteter Souverän ist keiner.
 
-**20 – „Steuern als Auftrag, nicht als Zugriff – Bürger entscheidet, wofür sein Geld verwendet wird“**
-
-Hier erkläre ich:
-
-* warum Steuern heute Enteignung sind
-* wie sie im Bürgerstaat Auftrag werden
-* wie KI Korruption verhindert
-* wie Budgettransparenz den Staat entwaffnet
+Solange politische Macht nicht dauerhaft gebunden ist, bleibt der Bürger nur Anlass der Legitimation, nicht ihr Träger.

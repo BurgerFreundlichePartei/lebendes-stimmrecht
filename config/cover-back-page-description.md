@@ -1,24 +1,18 @@
-**HABGIERIG – Der Staat als Erbe unserer Lebensleistung**
-*Vom Untertan zum Auftraggeber*
+**Das lebende Stimmrecht – Vom Untertan zum Auftraggeber**
 
-Der Staat verlangt Verantwortung – doch übernimmt keine.
-Er vererbt Schulden, löscht Ansprüche und verwaltet Menschen nicht als Bürger,
-sondern als Verfügungsmasse. Rente endet mit dem Tod, aber Verpflichtungen bleiben.
-Was wie Sozialstaat wirkt, ist in Wahrheit ein Zwangssystem mit asymmetrischer Moral:  
-Der Staat gewinnt immer, der Bürger nur solange er zahlt.
+Der heutige Staat fordert Verantwortung, vermeidet aber eigene.
+Er verwaltet Menschen als Ressource, vererbt Verpflichtungen, nicht Rechte, und behandelt Lebensleistung als fiskalische
+Reserve.
 
-Dieses Buch bricht diese Täuschung auf.
-Es zeigt, warum das System nicht reformiert werden kann –  
-und wie ein Bürgerstaat entsteht, in dem Souveränität *nicht versprochen*,
-sondern **ausgeübt** wird: täglich, dauerhaft, unbestechlich.
+Dieses Buch zeigt, warum klassische Reformen scheitern und wie ein Bürgerstaat entsteht, in dem Autorität nicht
+delegiert, sondern behalten wird.
 
-Herzstück ist das **lebende Stimmrecht**:
-ein politisches Profil, das jeder Mensch besitzt und jederzeit ändern kann –
-anonym, unverfolgbar und ständig wirksam.
-Damit geht keine Stimme je verloren.
-Der Bürger wird nicht mehr repräsentiert –
-er repräsentiert sich selbst.
+Kern ist das Konzept des **lebenden Stimmrechts**:
+eine dauerhafte, aktive und individuelle politische Mitbestimmung, die nicht übertragen, eingefroren oder verloren gehen
+kann. Jeder Mensch entscheidet jederzeit selbst – direkt, anonym, überprüfbar.
 
-Freiheit ist das wertvollste Gut des Menschen.
-Für sie haben unzählige vor uns ihr Leben gegeben.
-Jetzt ist es Zeit, sie zurückzunehmen.
+Staatliche Macht wird Auftrag, nicht Eigentum.
+Bürger sind nicht zu verwaltende Masse, sondern Quelle politischer Legitimation.
+
+Wer Verantwortung fordert, muss sie auch gewähren.
+Dieses Werk ist eine Anleitung für echte Souveränität im 21. Jahrhundert.

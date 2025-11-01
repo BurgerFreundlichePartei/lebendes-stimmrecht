@@ -18,7 +18,7 @@ nicht vor Missbrauch.
 ### Der geschlossene Machtkreislauf
 
 | Ebene           | kontrolliert              |
-| --------------- | ------------------------- |
+|-----------------|---------------------------|
 | Regierung       | sich selbst               |
 | Verwaltung      | sich selbst               |
 | Parteien        | sich gegenseitig          |
@@ -57,26 +57,24 @@ unter dem Etikett „Mitbestimmung“.
 
 ---
 
-### Vorausdeutung
+## **Schlussverdichtung**
 
-In einem Bürgerstaat wäre Kontrolle kein „Wunsch“,
-sondern **Grundfunktion**.
+Ein System, das nur sich selbst kontrolliert, kann nicht korrigiert werden.
+Nicht, weil niemand Fehler sieht, sondern weil niemand außerhalb befugt ist, ihre Folgen zu erzwingen.
+Macht bleibt dort, wo sie entsteht, und sie überprüft nur sich selbst, nicht ihre Berechtigung.
 
-Der Bürger hätte nicht Beobachtungsrecht,
-sondern **Rückholrecht**.
+Der Bürger darf beobachten, aber nicht eingreifen.
+Er besitzt Stimme ohne Wirkung, Rechte ohne Hebel, Präsenz ohne Zugriff.
+So wird Demokratie zur Kulisse, während Entscheidungen in einem geschlossenen Kreis rotieren, geschützt durch Verfahren,
+Schichten, Zuständigkeiten und abgesicherte Intransparenz.
 
-Und Staatlichkeit wäre nicht Selbsterhalt,
-sondern Rechenschaft.
+Ein Staat ohne externe Kontrolle definiert seine Wahrheit selbst.
+Er kann sich bestätigen, freisprechen, legitimieren, rechtfertigen, und gleichzeitig jede Form von Korrektur als Störung
+klassifizieren.
+So entsteht Stabilität nicht durch Vertrauen, sondern durch Ausschluss.
 
----
+Macht, die nicht von außen begrenzt wird, bleibt nicht im Dienst.
+Sie bleibt bestehen, weil sie sich selbst genügt.
+Und eine Ordnung, die nur sich selbst beaufsichtigt, regiert nicht im Namen des Bürgers, sondern über ihn hinweg.
 
-### Kernbotschaft von Kapitel 10
-
-Ein Staat ohne externe Kontrolle
-ist definitionsgemäß eine **Selbsterhaltungsmaschine**.
-
-Nur wenn die Kontrolle wieder **außerhalb** liegt –
-beim Bürger –
-kann Macht wieder dienen.
-
----
+Solange Kontrolle im System bleibt, bleibt der Mensch Objekt seiner Verwaltung.

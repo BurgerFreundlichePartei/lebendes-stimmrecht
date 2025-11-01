@@ -33,7 +33,7 @@ sondern an Restnutzwert gemessen.
 ### Warum Rente nicht „für dich“ existiert
 
 | Mythos                            | Realität                          |
-| --------------------------------- | --------------------------------- |
+|-----------------------------------|-----------------------------------|
 | „Du sparst für dich“              | Du finanzierst andere             |
 | „Du erhältst Sicherheit“          | Bis du das System zu viel kostest |
 | „Du hast Anspruch“                | Nur solange du atmest             |
@@ -58,26 +58,22 @@ sondern **zeitlich begrenzte Rückgabe**.
 
 ---
 
-### Vorausdeutung
+## **Schlussverdichtung**
 
-In einem Bürgerstaat wäre Altersvorsorge
-nicht Verlust durch Sterben,
-sondern **vererbbares Eigentum** –
-familiäre Würde, nicht Kassenstand.
+Ein System, das Versorgung verspricht, aber Eigentum verweigert, bindet Menschen an Bedingungen, nicht an Würde. Rente
+existiert nur solange du atmest, nicht solange du gelebt hast. Deine Lebensleistung wird nicht anerkannt, sondern
+verwaltet und bei Gelegenheit bilanziell entsorgt.
 
-Und sie wäre nicht abhängig vom Wohlwollen des Staates,
-sondern gesichert durch das lebende Stimmrecht –
-also durch Bürgerkontrolle an der Quelle.
+Wenn ein Mensch stirbt und sein Vermögen in Familienhand bleibt, doch seine eingezahlte Zukunft nicht, dann war sie nie
+sein Eigentum.
+Ein Modell, das vom frühen Tod profitiert, schützt nicht den Menschen, sondern seine Kalkulation.
 
----
+Absicherung, die endet, wenn du sie am meisten brauchst, ist keine Sicherheit, sondern ein Kredit, den du mit Zeit statt
+Geld bezahlt hast. Und jedes System, das dir Zeit nimmt, ohne dir Eigentum zu geben, hat dich bereits enteignet, bevor
+du alt wirst.
 
-### Kernbotschaft von Kapitel 5
+Ein Staat, der deine Jahre beansprucht, aber deinen Anspruch löscht, behandelt Alter nicht als Lebensleistung, sondern
+als Belastungsfaktor.
+Solange Lebenszeit nicht Eigentum bildet, bleibt Arbeit Abgabe und Alter Risiko.
 
-Eine Stimme, die nur lebt, solange du atmest,
-schützt nie deine Zukunft –
-und erst recht nicht die deiner Kinder.
-
-Erst wenn Macht nicht erlischt,
-kann Absicherung **vererbt** werden.
-
----
+Eine Rente, die nicht bleibt, hat nie dir gehört.

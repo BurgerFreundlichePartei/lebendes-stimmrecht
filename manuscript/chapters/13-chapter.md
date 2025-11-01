@@ -15,7 +15,7 @@ sondern beim **Kontrollieren** und **Korrigieren**.
 ### Der Unterschied (formell vs. real)
 
 | Status heute                    | Status in einem bürgergelenkten Staat |
-| ------------------------------- | ------------------------------------- |
+|---------------------------------|---------------------------------------|
 | Bürger wählt                    | Bürger steuert                        |
 | Politiker vertreten             | Bürger beauftragen                    |
 | Staat erklärt                   | Bürger genehmigen                     |
@@ -85,17 +85,25 @@ wird der Staat Verwalter **für** ihn.
 
 ---
 
-### Übergang zur Lösungsebene
+## **Schlussverdichtung**
 
-Im nächsten Kapitel zeige ich, wie Verwaltung sich ändert,
-sobald der Staat nicht mehr über, sondern **unter** dem Bürger steht.
+Souveränität existiert nicht im Anspruch, sondern in der Möglichkeit, Macht zu entziehen.
+Ein System, das Entscheidungen delegiert, aber nicht zurückholen lässt, kennt keinen Souverän, sondern nur Untertanen
+mit Wahltermin.
 
----
+Eine Stimme, die nur wirkt, wenn sie gerufen wird, ist keine Machtbasis, sondern ein Signal für Erlaubnis.
+Solange Zustimmung nur episodisch wirksam ist, bleibt jede Regierung Herr über Zeit, Agenda und Richtung.
+Der Bürger tritt auf, aber er bleibt nicht. Das System bleibt, und es kontrolliert den Raum zwischen den Momenten der
+Beteiligung.
 
-## Nächstes Kapitel
+Wer Macht nicht dauerhaft halten kann, verleiht sie, statt sie auszuüben.
+Und verliehene Macht ist immer unter fremder Verwaltung, auch wenn sie im Namen des Volks ausgeübt wird.
 
-**14 – „Verwaltung als Dienstleistung – ein Staat, der arbeitet wie ein Service, nicht wie ein Hindernis“**
+Politische Autorität ohne Abrufbarkeit ist kein Mandat, sondern Besitzstand.
+Ein Bürger, der nur zustimmen darf, ist nicht Ursprung, sondern Publikum.
 
-Hier beginnt der wirklich greifbare Teil:
-Wie fühlt sich ein Bürgerstaat im Alltag an?
-Wie sieht eine Behörde aus, die dir **dient**, statt dich prüft?
+Souveränität beginnt nicht beim Wählen, sondern beim **Nicht-Verlieren** der Entscheidungshoheit.
+Solange der Bürger die Regierung bestätigt, statt sie zu kontrollieren, bleibt Macht dort, wo sie verweilt, nicht dort,
+wo sie entsteht.
+
+Wer Macht nicht zurückholen kann, hat sie nie besessen.

@@ -50,7 +50,7 @@ sondern **zur Bevölkerung selbst**.
 ### Drei-Phasen-Modell des Übergangs
 
 | Phase                | Rolle                                  | Ergebnis                                 |
-| -------------------- | -------------------------------------- | ---------------------------------------- |
+|----------------------|----------------------------------------|------------------------------------------|
 | 1. Bewusstseinsphase | Bürger erkennt Machtasymmetrie         | Legitimitätsverlust des alten Systems    |
 | 2. Parallelphase     | Bürgerrechte werden parallel aufgebaut | der Staat verliert die Exklusivkontrolle |
 | 3. Übergabestufe     | Verwaltungslogik wird umgedreht        | der Bürger übernimmt, ohne Bruch         |
@@ -72,7 +72,7 @@ sie beendet sie.
 ### Die entscheidende Abgrenzung
 
 | Klassische Partei        | Bürgerpartei (BFREI)              |
-| ------------------------ | --------------------------------- |
+|--------------------------|-----------------------------------|
 | will steuern             | will abgeben                      |
 | beansprucht Macht        | überführt Macht                   |
 | spricht für Bürger       | gibt Bürger Rückspracheinstrument |
@@ -110,20 +110,32 @@ sondern durch Machtverteilung.
 
 ---
 
-### Brücke zum finalen Kapitelteil
+## **Schlussverdichtung**
 
-Jetzt, da:
+Der Übergang vom Parteienstaat zum Bürgerstaat ist kein Stimmungswechsel, sondern ein Machtwechsel.
+Er beginnt nicht mit neuen Programmen, sondern mit dem Entzug des Monopols auf politische Wirkung.
+Parteien verlieren nicht ihr Recht zu existieren, sondern ihr Recht, zwischen Bürger und Entscheidung zu stehen.
 
-* Machtumkehr philosophisch erklärt,
-* Strukturen technisch abgesichert
-* Übergangspfad definiert ist,
+Solange politische Organisationen die Filter zwischen Volk und Steuerung bilden, bleibt Repräsentation Hierarchie und
+nicht Durchgriff.
+Nicht Wählerwillen regiert, sondern Organisationsinteresse.
+Nicht Freiheit sichert den Prozess, sondern Zugehörigkeit.
 
-kommt der letzte Schritt:
+Bürgerstaat bedeutet nicht Zerstörung der Struktur, sondern ihre Unterordnung.
+Institutionen bleiben, aber sie verlieren ihre Vorrangstellung.
+Entscheidungswege bleiben, aber sie verlieren ihr Exklusivrecht.
+Verwaltung bleibt, aber sie verliert ihre Distanz.
 
-**Wie sieht die rechtliche, institutionelle und kulturelle Verankerung aus, damit es dauerhaft bleibt?**
+Reformen verändern Abläufe.
+Souveränität verändert Eigentumsverhältnisse der Macht.
 
----
+Ein System, das Parteimacht als notwendige Vorstufe zur Staatlichkeit behandelt, verwechselt Beteiligung mit Erlaubnis.
+Souveränität entsteht nicht durch Zugehörigkeit zu einer Organisation, sondern durch unmittelbaren Zugriff auf die
+politische Funktion.
 
-## Nächstes Kapitel (24)
+Die Zukunft beginnt nicht mit der Abschaffung des politischen Apparates, sondern mit seiner Rückführung auf seine
+ursprüngliche Aufgabe: Ausführung statt Delegation.
+Der Bürger verliert nicht Struktur, er gewinnt Priorität.
 
-**„Die neue Architektur eines Bürgerstaates – Institutionen, die nicht gegen den Bürger kippen können“**
+Ein Staat, der nicht mehr verwaltet, wer sprechen darf, sondern nur noch ausführt, was gesprochen wurde, hat seine Form
+vollzogen, nicht verloren.

@@ -5,49 +5,80 @@ Unbehagen breitet sich aus, das sich keiner Partei, keiner Ideologie, keiner pol
 Gefühl, dass etwas Grundlegendes nicht stimmt: dass wir zwar funktionieren, aber nicht wirklich teilhaben. Dass wir
 zahlen, aber nicht mitgestalten. Dass wir physisch anwesend sind, und doch politisch unsichtbar bleiben.
 
-Viele Menschen glauben, sie seien „enttäuscht von der Politik". In Wahrheit sind sie enttäuscht von ihrer eigenen
-Ohnmacht: von der wiederholten Erfahrung, dass ihre Stimme nur dann zählt, wenn das System sie kurzzeitig braucht, um
-danach wieder zum Verstummen gebracht zu werden.
+Viele Menschen glauben, sie seien „enttäuscht von der Politik“.
+In Wahrheit sind sie enttäuscht von ihrer eigenen Ohnmacht:
+von der wiederholten Erfahrung, dass ihre Stimme nur dann zählt, wenn das System sie kurzzeitig braucht, um danach
+wieder zum Verstummen gebracht zu werden.
 
-***
+---
 
-Die Geschichte lehrt uns eine unbequeme Wahrheit: Freiheit war niemals selbstverständlich. Sie war nie bloße
-Verwaltungsangelegenheit, sie war stets ein Preis, ein Wagnis, ein Opfer.
+Die Geschichte lehrt eine unbequeme Wahrheit: Freiheit war niemals selbstverständlich. Sie war nie bürokratisches
+Routineprodukt, sondern immer Wagnis, Preis und Entscheidung. Menschen starben nicht für Institutionen, nicht für
+Parlamentsgebäude, nicht für Verwaltungssysteme, sondern für ein fundamentales Recht:
 
-Unzählige Menschen starben nicht für abstrakte Institutionen, nicht für Parlamentsgebäude, nicht für bürokratische
-Apparate, sondern für ein fundamentales Recht: **das Recht, sich selbst zu gehören.**
+**das Recht, sich selbst zu gehören.**
 
-Ein Staat, der den Menschen lediglich verwaltet, raubt ihm genau dies: die Selbstzugehörigkeit, und damit die Freiheit
-selbst.
+Ein Staat, der Menschen verwaltet, entzieht ihnen genau dies:
+Selbstzugehörigkeit — und damit Freiheit.
 
-***
+---
 
-Die Krise, vor der wir stehen, ist keine moralische, sie ist eine strukturelle. Der Bürger verliert seine Macht nicht
-aus eigener Schwäche, sondern weil das System über keinen Mechanismus verfügt, der diese Macht dauerhaft zu speichern
-vermag.
+Die Krise ist keine moralische, sondern eine strukturelle.
+Der Bürger verliert seine Macht nicht, weil er schwach wäre,
+sondern weil das System keinerlei Mechanismus besitzt, sie dauerhaft zu speichern.
 
-Eine Demokratie, die ausschließlich an Wahltagen existiert, ist keine echte Demokratie. Sie ist lediglich ein
-Beruhigungsversprechen, ein demokratisches Sedativ.
+Eine Demokratie, die nur an Wahltagen existiert, ist keine demokratische Ordnung,
+sondern ein Sedativum, ein Beruhigungsinstrument in staatlicher Verpackung.
 
-Solange die Stimme des Bürgers vergeht, vergeht auch seine Souveränität.
+Solange die Stimme vergeht, vergeht auch die Souveränität.
 
-***
+---
 
-Dieses Buch entstand aus einer Frage, die lange Zeit unausgesprochen im Raum stand, aber nicht länger verdrängt werden
-darf:
+Dieses Buch beginnt mit einer Frage, die lange vermieden wurde,
+doch nicht länger verdrängt werden kann:
 
-> *Was geschieht, wenn der Bürger seine Macht nicht mehr periodisch abgibt, sondern dauerhaft behält?*
+> **Was geschieht, wenn der Bürger seine Macht nicht mehr abgibt — sondern behält?**
 
-Was wäre, wenn Demokratie kein singuläres Event mehr wäre, sondern ein permanenter Zustand?
+Was wäre, wenn Demokratie kein Ereignis mehr wäre,
+sondern **dauerhafter Zustand**?
 
-Wenn der Staat nicht länger Vormund wäre, sondern reines Werkzeug?
+Wenn der Staat kein Vormund mehr wäre, sondern Werkzeug?
 
-Wenn die Stimme nicht flüchtiger Moment wäre, sondern unveräußerliches Eigentum?
+Wenn die Stimme nicht flüchtig wäre,
+sondern **unveräußerliches Eigentum**?
 
-***
+---
 
-Dieses Buch beschreibt nicht nur Missstände. Es beschreibt eine Rückkehr: vom verwalteten Menschen zum souveränen
-Menschen.
+Dieses Buch beschreibt keinen Protest der Unzufriedenen.
+Es beschreibt die Rückkehr des Eigentümers.
 
-Nicht Revolution, sondern Rückführung. Nicht Protest, sondern Eigentum an politischer Würde. Die Zukunft ist keine
-Partei, sie ist **der Bürger selbst**.
+Nicht Revolution.
+**Rückführung.**
+
+Nicht Hoffnung.
+**Anspruch.**
+
+Nicht Bitte.
+**Macht.**
+
+---
+
+Solange Macht nur temporär verliehen wird, bleibt sie nicht beim Menschen.
+Solange die Stimme vergeht, bleibt der Bürger verwaltet.
+Solange Teilnahme episodisch bleibt, ist Souveränität Illusion.
+
+Dieses Werk stellt daher nicht die Frage, *ob* Macht zurückkehrt.
+Es zeigt, **warum sie zurückkehren muss**  
+und wie sie verankert wird, ohne jemals wieder entzogen zu werden.
+
+Dies ist kein Appell.
+Es ist die Wiederherstellung.
+
+Nicht Widerstand.
+**Rücknahme.**
+
+---
+
+**Teil I beginnt dort, wo die höfliche Fiktion endet.**
+
+---

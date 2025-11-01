@@ -19,11 +19,11 @@ Nicht weil Politiker versagen, sondern weil das System von Grund auf so konstrui
 
 Hier geht es nicht um einzelne Fehlentscheidungen, sondern um die grundlegende Architektur der Abhängigkeit:
 
-- Rente endet
-- Haftung bleibt
-- Rechte sind kündbar
-- Mitbestimmung ist temporär
-- Souveränität ist illusionär
+• Rente endet  
+• Haftung bleibt  
+• Rechte sind kündbar  
+• Mitbestimmung ist temporär  
+• Souveränität ist illusionär
 
 Bevor wir verstehen können, wie Macht systematisch zurückgeführt werden kann, müssen wir präzise erkennen, **wo sie uns
 institutionell entzogen wurde**.
@@ -74,16 +74,18 @@ endgültig. Du darfst fragen, aber niemals bestimmen.
 
 ***
 
-### Erste Vorausdeutung
+### Schlussverdichtung
 
-Die Ursache liegt nicht in einzelnen Gesetzen, nicht in inkompetenten Politikern.
+Der Staat spricht von Eigentum — und beginnt mit dem Abzug.  
+Er spricht von Souveränität — und gewährt sie nur situativ.  
+Er spricht von Freiheit — und misst sie in Genehmigungsformularen.
 
-Die Ursache liegt darin, **wo die Macht institutionell verortet ist**.
+Macht, die du nicht behalten darfst, war nie deine.
 
-Solange Macht beim Staat *gelagert* ist und nicht beim Bürger *verbleibt*, kann der Staat dich jederzeit als Objekt
-behandeln.
+Solange der Staat dein Eigentum vor dir beanspruchen kann, bist du kein Souverän, sondern ein **bilanziertes Subjekt**
+mit Duldungsrechten.
 
-Dieses Kapitel beschreibt die sichtbare Oberfläche des Problems. Die späteren Teile zeigen, dass es nur eine echte
-Lösung gibt: **Macht muss zurückkehren dorthin, wo sie ursprünglich hingehört.**
+Souveränität beginnt dort, wo Zugriff endet — und wo der Mensch nicht mehr verwertet wird, bevor er sterben darf.
 
-Zum Menschen selbst.
+Dieses Kapitel benennt den Zustand.
+Die nächsten Kapitel legen offen, warum er **kein Unfall**, sondern **Konstruktionsprinzip** ist.
