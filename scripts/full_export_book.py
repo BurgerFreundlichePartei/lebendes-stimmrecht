@@ -18,10 +18,10 @@ from scripts.validate_format import (
 )
 
 # replace with your data
-DEFAULT_METADATA = """title: 'CHANGE TO YOUR TITLE'
-author: 'YOUR NAME'
+DEFAULT_METADATA = """title: 'Das lebende Stimmrecht – Vom Untertan zum Auftraggeber'
+author: 'Asterios Raptis'
 date: '2025'
-lang: 'en'
+lang: 'de'
 """
 
 # Change the current working directory to the root directory of the project
