@@ -58,32 +58,51 @@ ist keine Souveränität.
 
 ## **Schlussverdichtung**
 
-Entmachtung zeigt sich dort,  
-wo Rechte ihre Wirkung verlieren.
+Entmachtung zeigt sich nicht dort,  
+wo Rechte gestrichen werden,  
+sondern dort, wo sie ihre Wirkung verlieren.
 
-Der Bürger verliert nicht Stimme, sondern Hebel.  
-Nicht Eigentum, sondern Verfügung.  
-Nicht Würde, sondern Durchsetzungskraft.
+Der Bürger verliert nicht seine Stimme,  
+sondern ihren Hebel.  
+Er verliert nicht sein Eigentum,  
+sondern die Verfügung darüber.  
+Er verliert nicht seine Würde,  
+sondern ihre Durchsetzungskraft.
 
 Man lässt dir Rechte,  
 solange sie nichts bewirken.  
 Man lässt dir Freiheit,  
 solange sie folgenlos bleibt.
 
-Die wirksamste Herrschaftsform ist nicht Verbot,  
-sondern Wirkungslosigkeit.
+Die wirksamste Herrschaftsform  
+ist nicht Verbot, sondern Wirkungslosigkeit –  
+nicht Zwang, sondern Ohnmacht.
+
+Ein Mensch, dem die Möglichkeit zur Durchsetzung fehlt,  
+besitzt nichts dauerhaft,  
+auch wenn Gesetze ihm Rechte aufzählen.
+
+Souveränität besteht nicht im Anspruch,  
+sondern in der Unmöglichkeit, entmachtet zu werden.
+
+Solange der Staat definieren kann,  
+wann du wirken darfst,  
+bist du kein Ursprung der Ordnung,  
+sondern Bestandteil ihrer Funktionslogik.
+
+Nicht der Verlust der Stimme enteignet den Bürger,  
+sondern ihre Sterblichkeit.
 
 Wer seine Macht nur zeitweise ausüben darf,  
 hat sie nie besessen.
 
 ---
 
-**Übergang:**  
+## **Übergang**
+
 Die stille Entmachtung bleibt abstrakt,  
 solange ihr Mechanismus nicht konkret wird.  
-Erst an der Alltagspraxis zeigt sich,  
+Erst in der Alltagspraxis zeigt sich,  
 wie aus Bürgern Verfügungsmasse wird.
 
-Genau dort beginnt das nächste Kapitel.
-
----
+Genau dort setzt das nächste Kapitel an.

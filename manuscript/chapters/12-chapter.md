@@ -65,8 +65,8 @@ aus Macht ohne Risiko.
 
 Die heutige Unangreifbarkeit  
 ist kein Zufall,  
-sondern Ergebnis einer langen Verschiebung:  
-von Verantwortung → zu Immunität.
+sondern Ergebnis einer langen Verschiebung –  
+von Verantwortung zu Immunität.
 
 ---
 
@@ -77,21 +77,31 @@ Verriet er dieses Vertrauen,
 verriet er den Souverän.
 
 Die Konsequenzen waren existenziell:
+
 - Verlust der Ehre → gesellschaftlicher Tod
 - Verlust des Vermögens → wirtschaftlicher Tod
 - Verbannung oder Kerker → sozialer Tod  
   In schweren Fällen: körperliche Strafen.
 
+Damals galt unausgesprochen:  
 **Wer den Bürger betrügt, verrät den Herrscher.**
 
 ---
 
 ### **Vor 100–150 Jahren**
 
-Im frühen Verfassungsstaat blieb die Härte bestehen:
-- Verlust der Pension
-- lebenslange Ächtung
-- kaum Rehabilitierung möglich
+Im frühen Verfassungsstaat  
+änderte sich die Begründung –  
+nicht die Härte.
+
+Der Beamte war „Diener des Staates“,  
+und Korruption galt als Entehrung des Amtes.
+
+Ein einziger Vorfall konnte:
+
+- die Pension kosten,
+- lebenslange Ächtung auslösen,
+- gesellschaftliche Rehabilitierung unmöglich machen.
 
 Die Strafe begann im Ruf,  
 nicht im Gerichtssaal.
@@ -102,7 +112,7 @@ nicht im Gerichtssaal.
 
 ### **Heute**
 
-Der moralische Charakter der Tat ist verschwunden.  
+Der moralische Charakter der Tat ist entfernt worden.  
 Zurück bleibt der Verwaltungsakt.
 
 > Früher: Korruption = Verrat  
@@ -116,13 +126,15 @@ Verrat musste gesühnt werden.
 
 ## **Warum das System heute Täter schützt**
 
-| Faktor                                 | Mechanismus                                   | Folge                      |
-|----------------------------------------|-----------------------------------------------|----------------------------|
-| Staat ist Richter in eigener Sache     | Disziplinarbehörden Teil derselben Hierarchie | System schützt sich selbst |
-| Unkündbarkeit + Pensionsprivilegien    | Verlustangst minimal                          | Fehlanreiz: kein Risiko    |
-| Kein Bürgeranspruch auf echte Sanktion | Bürger ist Beobachter, nicht Partei           | Ohnmacht als Zustand       |
+| Faktor                                 | Mechanismus                                        | Folge                      |
+|----------------------------------------|----------------------------------------------------|----------------------------|
+| Staat ist Richter in eigener Sache     | Disziplinarbehörden sind Teil derselben Hierarchie | System schützt sich selbst |
+| Unkündbarkeit + Pensionsprivilegien    | Verlustangst minimal                               | Fehlanreiz: kaum Risiko    |
+| Kein Bürgeranspruch auf echte Sanktion | Bürger ist Beobachter, nicht Partei                | Ohnmacht als Systemzustand |
 
-Der Beamte verlor früher **alles**.  
+Der Beamte verlor früher **alles**,  
+wenn er das Vertrauen missbrauchte.
+
 Heute verliert er **wenig bis nichts**,  
 solange die Tat administrativ „bereinigt“ wird.
 
@@ -131,13 +143,20 @@ solange die Tat administrativ „bereinigt“ wird.
 ## **Schlussverdichtung**
 
 Korruption ist heute kein individueller Absturz,  
-sondern ein strukturelles Ergebnis  
-aus Macht ohne Risiko  
-und Sanktion ohne Wirkung.
+sondern ein strukturelles Ergebnis:  
+Macht ohne Risiko,  
+Sanktion ohne Wirkung.
+
+Nicht Moral begrenzt den Täter,  
+sondern das minimale Risiko, ertappt zu werden –  
+und selbst dieses Risiko  
+liegt in den Händen desselben Apparats,  
+dem er angehört.
 
 ---
 
-**Übergang:**  
+## **Übergang**
+
 Die Frage lautet nicht mehr,  
 warum Korruption entsteht –  
 sondern warum sie **risikoarm** bleibt.
@@ -146,6 +165,4 @@ Die Antwort liegt
 nicht in der Moral,  
 sondern im Recht.
 
-Damit beginnt das nächste Kapitel.
-
----
+Dort setzt das nächste Kapitel an.

@@ -1,11 +1,10 @@
-# **KAPITEL 13** {#-kapitel-13}
+# KAPITEL 13 {#-kapitel-13}
 
 ## **Der unvollendete Staat – Artikel 146 und die Rückkehr der Souveränität**
 
 Der Bürger ist formal „Souverän“,  
 in der Realität jedoch Objekt der Verwaltung.
 
-Die Wirksamkeit ist ausgehöhlt.  
 Die Form steht,  
 die Funktion fehlt.
 
@@ -23,7 +22,7 @@ Der Staat wechselte die Perspektive:
 
 Damit verschob sich die Opferrolle:  
 Nicht mehr *„Der Bürger wurde betrogen.“*  
-Sondern *„Der Staat hat ein internes Fehlverhalten.“*
+sondern *„Der Staat hat ein internes Fehlverhalten.“*
 
 Das Opfer verschwindet aus der Definition.
 
@@ -40,8 +39,9 @@ Artikel 146 beschreibt keinen Endpunkt,
 sondern eine **Rampe** –  
 ein Provisorium mit eingebauter Vollendung.
 
-Deutschland hat sich verpflichtet:  
-Es muss eine vom Volk beschlossene Verfassung geben.
+Deutschland hat sich damit verpflichtet:  
+Es muss eine vom Volk in freier Entscheidung  
+beschlossene Verfassung geben.
 
 Doch dieser Artikel wurde politisch neutralisiert,  
 ohne aufgehoben zu werden –  
@@ -66,7 +66,7 @@ Nicht der Staat schreibt die Verfassung.
 Die Wiedervereinigung hat das nicht erfüllt:  
 Es gab keinen Volksentscheid,  
 keine verfassungsgebende Versammlung,  
-keine neue Legitimation.
+keine neue direkte Legitimation.
 
 Der politische Trick:
 
@@ -76,14 +76,15 @@ Der politische Trick:
 
 ## **Wann ist der richtige Zeitpunkt?**
 
-Artikel 146 wird aktiviert,  
-sobald **wir** ihn aktivieren.
+Artikel 146 wird nicht automatisch wirksam.  
+Er wird aktiviert,  
+sobald **wir** ihn in Anspruch nehmen.
 
 Nicht Regierung,  
 nicht Parlament,  
 keine Behörde.
 
-Nur die Bevölkerung –  
+Sondern die Bevölkerung –  
 in **freier Entscheidung**.
 
 Historisch entstehen Verfassungen genau dann,  
@@ -97,10 +98,14 @@ trägt unsere Selbstbestimmung nicht mehr.“
 ## **Warum jetzt?**
 
 Heute haben wir eine paradoxe Lage:
+
 - formal Souverän,
-- funktional Objekt,
+- funktional Objekt der Verwaltung,
 - ohne Letztentscheidung,
-- ohne Durchgriffsmacht.
+- ohne direkte Durchgriffsmacht.
+
+Souveränität ist zur Formel geworden,  
+nicht zur gelebten Stellung.
 
 Demokratie endet nicht mit der Wahl,  
 sondern beginnt mit der Verfassungsgebung.
@@ -109,7 +114,7 @@ sondern beginnt mit der Verfassungsgebung.
 
 ## **Die Konsequenz**
 
-Wenn das Volk nie eine Verfassung beschlossen hat,  
+Wenn das Volk nie selbst eine Verfassung beschlossen hat,  
 ist seine politische Mündigkeit unvollständig.
 
 Artikel 146 ist kein Risiko,  
@@ -131,14 +136,18 @@ Daher gilt:
 Wir stehen nicht am Ende eines Systems,  
 sondern an der Schwelle zu seiner Vollendung.
 
-Artikel 146 zeigt nicht, *dass* etwas fehlt,  
-sondern **welcher Schritt als nächster folgen muss**.
+Artikel 146 zeigt nicht nur, *dass* etwas fehlt,  
+sondern **welcher Schritt als nächster folgen muss**:  
+dass der Souverän seine Rolle  
+nicht mehr nur zugesprochen bekommt,  
+sondern sie selbst in Kraft setzt.
 
 ---
 
 **Übergang:**  
 Von hier aus führt der Weg  
 nicht in Opposition,  
-sondern in Gestaltung:  
+sondern in Gestaltung:
+
 Wie sieht ein Staat aus,  
 der wieder vom Bürger her gedacht wird?
