@@ -2,7 +2,7 @@
 
 ## „Regulierung als versteckte Steuer: Die Einpreisung des Bürgers“
 
-***
+---
 
 Der Staat muss nicht zwingend „Steuer“ nennen, was er tatsächlich einzieht. Er benötigt lediglich ein
 Genehmigungsverfahren, eine Lizenz, eine Pflicht, ein Zertifikat oder eine Registrierung – und der Zahlungsstrom ist
@@ -11,7 +11,7 @@ etabliert.
 So entsteht systematische Finanzierung ohne demokratische Abstimmung und strukturelle Belastung ohne explizite
 Zustimmung.
 
-***
+---
 
 ### Bürokratische Steuer statt offener Steuer
 
@@ -21,7 +21,7 @@ unsichtbare Besteuerung: Die Steuer erscheint transparent, die Regulierung versc
 Pflichtgebühren erzwingen Zahlungen ohne öffentliche Debatte. Lizenzen errichten Zugangshürden mitten im Alltag.  
 Der Mechanismus ist identisch: Du zahlst – jedoch nicht als Bürger, sondern als **Genehmigungssuchender**.
 
-***
+---
 
 ### Kontrolle verpackt als „Schutz“
 
@@ -31,7 +31,7 @@ anschließend in regulierten Teilstücken zurückzuverkaufen.
 Er gewährt kein grundlegendes Recht, sondern vermietet temporären Handlungsspielraum.  
 Freiheit wird nicht vorausgesetzt, sondern muss „gestattet“ werden.
 
-***
+---
 
 ### Warum das System dies strukturell benötigt
 
@@ -40,7 +40,7 @@ Mensch ist **unkalkulierbar** – und damit nicht administrativ verwaltbar.
 
 Regulierung entspricht der Berechenbarmachung von Menschen.
 
-***
+---
 
 ## Schlussverdichtung
 
