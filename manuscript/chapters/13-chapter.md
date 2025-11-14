@@ -1,109 +1,144 @@
-# Kapitel 13 {#-kapitel-13}
+# **KAPITEL 13** {#-kapitel-13}
 
-**„Bürger als Eigentümer des Staates – echte Souveränität ist kein Symbol, sondern Zugriffsmacht“**
+## **Der unvollendete Staat – Artikel 146 und die Rückkehr der Souveränität**
 
----
+Der Bürger ist formal „Souverän“,  
+in der Realität jedoch Objekt der Verwaltung.
 
-### These
+Die Wirksamkeit ist ausgehöhlt.  
+Die Form steht,  
+die Funktion fehlt.
 
-Der Bürger ist heute nur „formaler Souverän“, aber kein realer.
-Echte Souveränität beginnt nicht beim Wählen,
-sondern beim **Kontrollieren** und **Korrigieren**.
-
----
-
-### Der Unterschied (formell vs. real)
-
-| Status heute                    | Status in einem bürgergelenkten Staat |
-|---------------------------------|---------------------------------------|
-| Bürger wählt                    | Bürger steuert                        |
-| Politiker vertreten             | Bürger beauftragen                    |
-| Staat erklärt                   | Bürger genehmigen                     |
-| Politik kontrolliert Verwaltung | Bürger kontrollieren Politik          |
-| Macht einmal vergeben           | Macht jederzeit widerrufbar           |
+Genau hier öffnet sich der Blick  
+auf die verfassungsrechtliche Ebene.
 
 ---
 
-### Was Souveränität **wirklich** bedeutet
+## **Der Systembruch**
 
-Nicht:
-„Wir dürfen wählen.“
+Der Staat wechselte die Perspektive:
 
-Sondern:
-„Wir dürfen entziehen, korrigieren, widerrufen, stoppen.“
+> **Früher**: Der Bürger ist der Souverän.  
+> **Heute**: Der Staat ist der Souverän.
 
-Echte Macht = **Möglichkeit zur Unterbrechung**.
+Damit verschob sich die Opferrolle:  
+Nicht mehr *„Der Bürger wurde betrogen.“*  
+Sondern *„Der Staat hat ein internes Fehlverhalten.“*
 
-Solange der Bürger keinen *Stop-Knopf* hat,
-ist er Zuschauer – kein Souverän.
-
----
-
-### Werkzeuge echter Bürger-Souveränität
-
-Ein bürgergelenkter Staat bräuchte:
-
-1. **Abwahlrecht jederzeit**, nicht alle 4 Jahre
-2. **Bürgerhaushalt** für direkte Verwendungsentscheidungen
-3. **Transparenzpflicht statt Informationsbitten**
-4. **Digitale Mitbestimmung ohne Hürden**
-5. **Verwaltung auf Knopfdruck prüfbar**
-6. **Verfassungsrang für Bürgerkontrolle**
-
-Nicht Beratung durch Politik –
-sondern **Überwachung der Politik**.
+Das Opfer verschwindet aus der Definition.
 
 ---
 
-### Der entscheidende Systemwechsel
+## **Das unvollendete Verfassungsversprechen**
 
-Heute:
-Der Staat bewertet den Bürger.
+> **„Dieses Grundgesetz verliert seine Gültigkeit an dem Tage,  
+> an dem eine Verfassung in Kraft tritt,  
+> die von dem deutschen Volke in freier Entscheidung beschlossen worden ist.“**  
+> *(Artikel 146 GG)*
 
-Bürgerstaat:
-Der Bürger bewertet den Staat.
+Artikel 146 beschreibt keinen Endpunkt,  
+sondern eine **Rampe** –  
+ein Provisorium mit eingebauter Vollendung.
+
+Deutschland hat sich verpflichtet:  
+Es muss eine vom Volk beschlossene Verfassung geben.
+
+Doch dieser Artikel wurde politisch neutralisiert,  
+ohne aufgehoben zu werden –  
+wie ein Schlüssel,  
+den niemand benutzen soll,  
+obwohl er offen auf dem Tisch liegt.
 
 ---
 
-### Juristische Logik des Wandels
+## **Was Artikel 146 tatsächlich bedeutet**
 
-Souveränität bedeutet nicht „abstrakte Volksherrschaft“.
-Souveränität bedeutet:
+Er sagt nicht:  
+„Das Grundgesetz *könnte irgendwann* ersetzt werden.“
 
-> **Rechtsanspruch auf Einfluss,
-> nicht Gnadenrecht auf Beteiligung.**
+Sondern:  
+„Es *muss* enden,  
+sobald das Volk *selbst* entscheidet.“
+
+Nicht der Staat schreibt die Verfassung.  
+**Das Volk ist der Urheber.**
+
+Die Wiedervereinigung hat das nicht erfüllt:  
+Es gab keinen Volksentscheid,  
+keine verfassungsgebende Versammlung,  
+keine neue Legitimation.
+
+Der politische Trick:
+
+> Aus „zu erfüllen“ wurde „gelten lassen“.
 
 ---
 
-### Wirkung
+## **Wann ist der richtige Zeitpunkt?**
 
-Solange der Bürger nur Stimmvieh ist,
-ist der Staat Vermögensverwalter **über** ihm.
+Artikel 146 wird aktiviert,  
+sobald **wir** ihn aktivieren.
 
-Sobald der Bürger Eigentümer ist,
-wird der Staat Verwalter **für** ihn.
+Nicht Regierung,  
+nicht Parlament,  
+keine Behörde.
+
+Nur die Bevölkerung –  
+in **freier Entscheidung**.
+
+Historisch entstehen Verfassungen genau dann,  
+wenn Menschen erkennen:
+
+„Die bestehende Rechtsform  
+trägt unsere Selbstbestimmung nicht mehr.“
+
+---
+
+## **Warum jetzt?**
+
+Heute haben wir eine paradoxe Lage:
+- formal Souverän,
+- funktional Objekt,
+- ohne Letztentscheidung,
+- ohne Durchgriffsmacht.
+
+Demokratie endet nicht mit der Wahl,  
+sondern beginnt mit der Verfassungsgebung.
+
+---
+
+## **Die Konsequenz**
+
+Wenn das Volk nie eine Verfassung beschlossen hat,  
+ist seine politische Mündigkeit unvollständig.
+
+Artikel 146 ist kein Risiko,  
+sondern der **Heimkehrpunkt der Souveränität**.
+
+Nicht der Staat verleiht dem Bürger Macht –  
+der Bürger verleiht dem Staat Existenz.
+
+Daher gilt:
+
+> Die Wiederherstellung echter Souveränität  
+> ist kein politisches Projekt,  
+> sondern verfassungsrechtlicher Auftrag.
 
 ---
 
 ## **Schlussverdichtung**
 
-Souveränität existiert nicht im Anspruch, sondern in der Möglichkeit, Macht zu entziehen.
-Ein System, das Entscheidungen delegiert, aber nicht zurückholen lässt, kennt keinen Souverän, sondern nur Untertanen
-mit Wahltermin.
+Wir stehen nicht am Ende eines Systems,  
+sondern an der Schwelle zu seiner Vollendung.
 
-Eine Stimme, die nur wirkt, wenn sie gerufen wird, ist keine Machtbasis, sondern ein Signal für Erlaubnis.
-Solange Zustimmung nur episodisch wirksam ist, bleibt jede Regierung Herr über Zeit, Agenda und Richtung.
-Der Bürger tritt auf, aber er bleibt nicht. Das System bleibt, und es kontrolliert den Raum zwischen den Momenten der
-Beteiligung.
+Artikel 146 zeigt nicht, *dass* etwas fehlt,  
+sondern **welcher Schritt als nächster folgen muss**.
 
-Wer Macht nicht dauerhaft halten kann, verleiht sie, statt sie auszuüben.
-Und verliehene Macht ist immer unter fremder Verwaltung, auch wenn sie im Namen des Volks ausgeübt wird.
+---
 
-Politische Autorität ohne Abrufbarkeit ist kein Mandat, sondern Besitzstand.
-Ein Bürger, der nur zustimmen darf, ist nicht Ursprung, sondern Publikum.
-
-Souveränität beginnt nicht beim Wählen, sondern beim **Nicht-Verlieren** der Entscheidungshoheit.
-Solange der Bürger die Regierung bestätigt, statt sie zu kontrollieren, bleibt Macht dort, wo sie verweilt, nicht dort,
-wo sie entsteht.
-
-Wer Macht nicht zurückholen kann, hat sie nie besessen.
+**Übergang:**  
+Von hier aus führt der Weg  
+nicht in Opposition,  
+sondern in Gestaltung:  
+Wie sieht ein Staat aus,  
+der wieder vom Bürger her gedacht wird?
