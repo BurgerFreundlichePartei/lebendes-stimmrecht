@@ -88,6 +88,10 @@ verwaltet der Staat Macht **über** ihm.
 Sobald der Bürger Eigentümer ist,  
 verwaltet der Staat Macht **für** ihn.
 
+Ein Bürger, der nur zustimmen darf,  
+ist nicht Ursprung,  
+sondern Publikum.
+
 ---
 
 ## Schlussverdichtung
@@ -97,7 +101,8 @@ sondern in der Fähigkeit, Macht zu entziehen.
 
 Ein System, das Entscheidungen delegieren,  
 aber nicht **zurückholen** lässt,  
-kennt keinen Souverän – nur Untertanen mit Wahltermin.
+kennt keinen Souverän –  
+sondern nur Untertanen mit Wahltermin.
 
 Eine Stimme, die nur wirkt, wenn sie gerufen wird,  
 ist kein Machtinstrument,  
