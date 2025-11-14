@@ -5,7 +5,7 @@
 ---
 
 Ein System, das sich selbst kontrolliert,  
-wird nie korrigiert.  
+wird nicht korrigiert.  
 Nicht weil niemand Fehler erkennt,  
 sondern weil niemand **außerhalb** des Systems  
 Korrektur erzwingen kann.
@@ -51,8 +51,8 @@ aber nicht funktional.
 Sie endet dort,  
 wo Kontrolle beginnen müsste.
 
-Solange Korrekturmacht fehlt,  
-existiert nur Zustimmungspflicht  
+Solange kein externes Korrektiv existiert,  
+bleibt Zustimmungspflicht  
 unter dem Etikett „Mitbestimmung“.
 
 ---
@@ -61,8 +61,9 @@ unter dem Etikett „Mitbestimmung“.
 
 Ein System, das nur sich selbst kontrolliert,  
 kann nicht korrigiert werden.  
-Nicht, weil niemand Fehler sieht,  
-sondern weil niemand außerhalb befugt ist, ihre Folgen zu erzwingen.
+Nicht, weil Fehler unsichtbar wären,  
+sondern weil niemand befugt ist,  
+ihre Folgen durchzusetzen.
 
 Macht bleibt dort, wo sie entsteht.  
 Sie überprüft nur sich selbst –  
@@ -81,8 +82,9 @@ Hierarchien,
 Zuständigkeitswirrwarr  
 und systematische Undurchsichtigkeit.
 
-Ein Staat ohne Außenkontrolle definiert seine Wahrheit selbst.  
-Er kann sich bestätigen, freisprechen, legitimieren und rechtfertigen –  
+Ein Staat ohne Außenkontrolle  
+definiert seine Wahrheit selbst.  
+Er kann sich bestätigen, freisprechen, legitimieren  
 und jede Form von Korrektur  
 als Störung klassifizieren.
 
@@ -94,7 +96,8 @@ bleibt nicht im Dienst.
 Sie bleibt bestehen,  
 weil sie sich selbst genügt.
 
-Und eine Ordnung, die nur sich selbst beaufsichtigt,  
+Und eine Ordnung,  
+die nur sich selbst beaufsichtigt,  
 regiert nicht im Namen des Bürgers,  
 sondern über ihn hinweg.
 
