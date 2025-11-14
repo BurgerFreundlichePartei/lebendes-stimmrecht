@@ -2,49 +2,63 @@
 
 ### TEIL II – *Die Umkehr*
 
-Ein System lässt sich nicht durch Reformen verändern,  
-wenn sein Kern unverändert bleibt.  
-Was in Teil I sichtbar wurde,  
-war nicht politisches Fehlverhalten,  
-sondern strukturelle Machtverlagerung weg vom Menschen.
+> **Übergang:**
+> *Wenn Kapitel 13 zeigt, dass Souveränität verfassungsrechtlich offensteht,
+> dann zeigt Teil II, wie sie politisch und strukturell zurückgeholt wird.*
 
-Die Lösung liegt daher nicht in „besserer Politik“,  
-sondern in **anderer Machtlogik**.
+---
 
-Ein Bürgerstaat entsteht nicht durch neue Gesichter,  
-sondern durch eine Rückführung der Souveränität  
-dorthin, wo sie ursprünglich hingehörte:  
+Ein System lässt sich nicht durch Reformen verändern,
+wenn sein Kern unverändert bleibt.
+Was in Teil I sichtbar wurde,
+war nicht politisches Fehlverhalten,
+sondern strukturelle Machtverlagerung –
+weg vom Menschen, hin zur Apparatur.
+
+Die Lösung liegt deshalb nicht in „besserer Politik“,
+sondern in **einer anderen Machtlogik**.
+
+Ein Bürgerstaat entsteht nicht durch neue Gesichter,
+sondern durch die Rückführung der Souveränität
+dorthin, wo sie ursprünglich hingehörte:
 zum Bürger selbst.
 
-Teil II zeigt nicht mehr, was genommen wurde,  
-sondern was zurückgeholt werden kann:
+Teil II zeigt nicht mehr, was entzogen wurde,
+sondern was **zurückgeholt** werden kann:
 
-• Kontrolle nicht punktuell, sondern dauerhaft  
-• Absicherung nicht geduldet, sondern unverzichtbar  
-• Stimme nicht sterblich, sondern verankert  
-• Verwaltung nicht Hürde, sondern Diener  
-• Pflege nicht Last, sondern Schutz  
-• Politik nicht Karriere, sondern Verantwortung  
+• Kontrolle nicht punktuell, sondern dauerhaft
+• Absicherung nicht geduldet, sondern als Eigentum verankert
+• Stimme nicht sterblich, sondern strukturell gesichert
+• Verwaltung nicht Hürde, sondern Dienstleistung
+• Pflege nicht Last, sondern Schutzraum
+• Politik nicht Karriere, sondern Verantwortung
 • Technologie nicht Überwachung, sondern Befreiung
 
-Der entscheidende Schritt ist die **Machtumkehr**:  
-Staat nicht über dem Bürger,  
-sondern **unter seinem Mandat**.
+Der entscheidende Schritt ist die **Machtumkehr**:
+Nicht der Staat über dem Bürger,
+sondern **der Staat unter seinem Mandat**.
 
-Diese Umkehr ist nicht Revolution,  
-sondern Rekonstruktion von Souveränität.
+Diese Umkehr ist keine Revolution,
+sondern die Rekonstruktion von Souveränität:
+geerdet, nachvollziehbar, konsequent.
 
-Der Bürger wird nicht angepasst,  
-sondern wieder **Subjekt**.  
-Der Staat wird nicht gestürzt,  
+Der Bürger wird nicht angepasst,
+sondern wieder **Subjekt**.
+Der Staat wird nicht gestürzt,
 sondern **untergeordnet**.
 
-Was in Teil I als Entzug sichtbar wurde,  
-wird in Teil II als unveräußerliches Recht wiederhergestellt.
+Was in Teil I als Entzug sichtbar wurde,
+wird in Teil II als unveräußerliches Recht
+und als tatsächliche Verfügungsmacht
+wiederhergestellt.
 
-Und erst an dieser Stelle beginnt echte Demokratie:  
-nicht als Ereignis,  
-sondern als Zustand.
+Echte Demokratie beginnt nicht mit der Wahl,
+sondern mit der Fähigkeit, Macht zu binden,
+zurückzuholen
+und neu zu legitimieren.
+
+Sie ist kein Ereignis,
+sondern ein Zustand.
 
 ---
 
@@ -111,7 +125,7 @@ Ein Staat, der den Bürger schützt, müsste so aufgebaut sein:
 
 1. **Bürger als Eigentümer der Macht, nicht nur als Wähler**
 2. **Mandate auf Zeit – mit sofortiger Abberufbarkeit**
-3. **Verwaltung als Diener – nicht als Hürde**
+3. **Verwaltung als Dienstleister – nicht als Hürde**
 4. **Transparenz als Standard, nicht als Gnade**
 5. **Rechte nicht nur auf dem Papier – sondern erzwingbar**
 
