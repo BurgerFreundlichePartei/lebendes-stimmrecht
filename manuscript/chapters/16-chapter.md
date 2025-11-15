@@ -96,8 +96,8 @@ Sie bewertet Bürger, statt ihnen zu dienen.
 
 Service, der erkämpft werden muss, ist kein Service.  
 Hilfe, die an Misstrauen gebunden ist, ist kein Recht.  
-Unterstützung, die zuerst Beweise verlangt, ist keine Solidarität,  
-sondern administrative Machtlogik.
+Unterstützung, die zuerst Beweise verlangt, ist kein Gemeinwesen,  
+sondern Ausdruck administrativer Vorranglogik.
 
 Wo der Staat Dienst verspricht, aber Berechtigung prüft,  
 entsteht kein Vertrauen, sondern Unterordnung.  
@@ -108,7 +108,7 @@ Eine Ordnung, die Beweise verlangt, bevor sie Pflichten erfüllt,
 verwechselt Schutz mit Kontrolle und Service mit Schikane.
 
 Ein Staat, der helfen will, liefert ohne Kampf.  
-Ein Staat, der dominiert, definiert die Hürde und nennt sie Ordnung.
+Ein Staat, der dominiert, setzt die Hürde und nennt sie Ordnung.
 
 Solange Verwaltung Zugang kontrolliert statt Leistung erbringt,  
 bleibt der Bürger Untertan im Verfahren –  
