@@ -4,6 +4,10 @@
 
 ---
 
+> *Wie kommen wir überhaupt dahin?*
+
+---
+
 ### These
 
 Staatliche Machtstrukturen lassen sich nicht stürzen –  
