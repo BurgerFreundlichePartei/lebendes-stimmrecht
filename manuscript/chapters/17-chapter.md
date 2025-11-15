@@ -12,7 +12,7 @@
 
 ### These
 
-Ein Staat, der den Bürger schützt, lässt seine Lebensleistung nicht verschwinden.  
+Ein Staat, der den Bürger schützt, darf seine Lebensleistung nicht verschwinden lassen.  
 Rente muss **Eigentum** sein – nicht verwalteter Anspruch.  
 Das bedeutet: vererbbar, transparent, verfügbar.
 
@@ -25,8 +25,8 @@ Du zahlst ein Leben lang – besitzt aber nichts.
 
 Das Ergebnis:
 
-* Stirbst du früher → Gewinn für den Staat
-* Überlebst du zu lange → Belastung für den Staat
+• Stirbst du früher → Gewinn für den Staat  
+• Überlebst du zu lange → Belastung für den Staat
 
 Ein System, das vom Tod profitiert,  
 ist kein Sozialsystem, sondern ein Bilanzsystem.
@@ -95,15 +95,15 @@ Es nennt die Einzahlung Pflicht, den Anspruch aber Gnade.
 Das ist kein Sozialmodell, sondern eine Umlenkung von Verantwortung –  
 weg vom Staat, hin zum Individuum, ohne dessen Rechte zu stärken.
 
-Solange Altersvorsorge nicht dir gehört, bist du nicht versorgt, sondern abhängig.  
-Solange dein Vermögen mit dir endet, war es nie dein Vermögen.
+Solange Altersvorsorge nicht dir gehört, sondern nur geduldet wird, bist du nicht versorgt, sondern abhängig.  
+Solange dein Vermögen mit dir endet, war es niemals dein Vermögen.
 
 Ein Recht, das stirbt, lohnt das Leben nicht.  
 Wer seine Zukunft nur so lange besitzt, wie er keine Kosten verursacht,  
-lebt nicht in Solidarität, sondern in einem Abrechnungsmechanismus.
+lebt nicht in einem solidarischen System, sondern in einem Abrechnungsmechanismus.
 
 Eigentum beginnt dort, wo der Staat nicht zugreifen kann.  
-Absicherung beginnt dort, wo deine Lebenszeit nicht verfällt.  
+Absicherung beginnt dort, wo deine Lebenszeit nicht verfallen kann.  
 Würde beginnt dort, wo Alter nicht Risiko ist, sondern Anerkennung gelebter Jahre.
 
 Ein System, das deine Arbeit nimmt, aber deinen Anspruch löscht,  
@@ -111,4 +111,4 @@ hat sich nie als Dienstleister verstanden.
 Es war Verwerter – von Anfang an.
 
 Solange Vorsorge nicht vererbbar ist,  
-bist du Ressource – nicht Eigentümer deines Lebenswegs.
+bist du Ressource – nicht Eigentümer deines Lebens.
