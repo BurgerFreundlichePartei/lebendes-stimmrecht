@@ -176,6 +176,15 @@ sondern **Exekutor** des Volksauftrags.
 
 ---
 
+> **Verweis auf Band II:**  
+> Die Architektur des lebenden Stimmrechts endet nicht hier.  
+> Was in diesem Band als Prinzip sichtbar wird,  
+> entfaltet sich im zweiten Band als präzise Form:  
+> das politische Profil, seine innere Grammatik,  
+> seine Selbstkorrektur und seine kryptographische Abschirmung.  
+> Dort wird aus der Idee ein System –  
+> und aus dem Souverän ein dauerhaft wirksamer Ursprung.
+
 ## Schlussverdichtung
 
 Steuern sind nur dort legitim, wo sie Auftrag sind.  
