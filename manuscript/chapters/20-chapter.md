@@ -4,14 +4,23 @@
 
 ---
 
+> **Übergang:**  
+> Wenn Politik nicht mehr Beute, sondern Verantwortung ist,  
+> muss diese Verantwortung auch rechtlich und materiell wirken:  
+> Ein Staat ohne eigenes Risiko bleibt immer Versuchslabor – nie Vertragspartner auf Augenhöhe.
+
+---
+
 ### These
 
-Heute trägt *ausschließlich* der Bürger Risiko:
+Heute trägt *ausschließlich* der Bürger Risiko:  
 wirtschaftlich, rechtlich, sozial.
-Der Staat und seine Funktionsträger tragen **kein persönliches Risiko** –
+
+Der Staat und seine Funktionsträger tragen **kein persönliches Risiko** –  
 und genau deshalb können sie folgenlos falsch oder gegen die Bürger handeln.
 
-Ein gerechter Staat braucht **Mithaftung**, sonst gibt es keine Verantwortung.
+Ein gerechter Staat braucht **Mithaftung**.  
+Ohne sie gibt es keine echte Verantwortung.
 
 ---
 
@@ -37,70 +46,73 @@ Die Botschaft ist indirekt, aber eindeutig:
 | Haftung nach oben | Staat trägt Folgen seines Handelns                     |
 | Rückwirkung       | Bürger können Entscheidungen kippen                    |
 | Regress           | Offizielle werden haftbar bei grober Pflichtverletzung |
-| Sorgfaltspflicht  | Dokumentation + KI = Nachweisbar                       |
-| Risiko-Symmetrie  | Bürger und Staat teilen Konsequenz                     |
+| Sorgfaltspflicht  | Dokumentation + KI sichern Nachweisbarkeit             |
+| Risiko-Symmetrie  | Bürger und Staat teilen Konsequenzen                   |
 
 ---
 
-### Warum Haftung = Wahrheitssicherung ist
+### Warum Haftung Wahrheit sichert
 
-Macht ohne Risiko erzeugt **Beliebigkeit**.
-Macht mit Risiko erzeugt **Verantwortung**.
+Macht ohne Risiko erzeugt **Beliebigkeit**.  
+Macht mit Risiko erzwingt **Verantwortung**.
 
-Heute wird Politik **ohne Einsatz** gespielt.
+Heute wird Politik **ohne Einsatz** gespielt.  
 Im Bürgerstaat muss sie **unter Einsatz** geführt werden.
 
 ---
 
 ### Rolle der KI
 
-KI wirkt hier nicht als Entscheidungsträger,
-sondern als **Beweisarchiv**:
+KI ist hier nicht Entscheidungsträger,  
+sondern **Beweisarchiv**:
 
-1. Jede Entscheidung nachvollziehbar
-2. Jede Abweichung prüfbar
-3. Jede Verschleierung unmöglich
-4. Jeder Schaden zurückverfolgbar
-5. Bürger können Revision einleiten
+1. Jede Entscheidung ist nachvollziehbar.
+2. Jede Abweichung ist prüfbar.
+3. Jede Verschleierung wird erschwert.
+4. Jeder Schaden bleibt rückverfolgbar.
+5. Bürger können auf Basis der Daten Revision einleiten.
 
-Dadurch entsteht echte Kontrollmacht:
-Nicht gefühlte „Demokratie“,
+So entsteht echte Kontrollmacht:  
+Nicht gefühlte „Demokratie“,  
 sondern dokumentierte **Rechenschaft**.
 
 ---
 
 ### Ergebnis
 
-Wenn der Staat Risiko trägt,
-beginnt er wieder,
-wie jeder andere Akteur zu handeln:
+Wenn der Staat Risiko trägt,  
+beginnt er wieder wie jeder andere Akteur zu handeln:
 
-• abwägen statt durchregieren  
-• verantworten statt verstecken  
-• dienen statt dominieren
+- abwägen statt durchregieren
+- verantworten statt verstecken
+- dienen statt dominieren
 
 ---
 
-## **Schlussverdichtung**
+## Schlussverdichtung
 
-Ein Staat, der Entscheidungen trifft, ohne ihre Folgen tragen zu müssen, schafft kein Gemeinwohl, sondern ein
-Haftungsvakuum.
-Dort, wo Verantwortung nicht rückwirkt, entsteht Macht ohne Konsequenz.
-Und Macht ohne Konsequenz folgt nicht der Vernunft, sondern der Bequemlichkeit.
+Ein Staat, der Entscheidungen trifft, ohne ihre Folgen tragen zu müssen, schafft kein Gemeinwohl,  
+sondern ein Haftungsvakuum.  
+Wo Verantwortung nicht rückwirkt, entsteht Macht ohne Konsequenz –  
+und Macht ohne Konsequenz folgt nicht der Vernunft, sondern der Bequemlichkeit.
 
-Solange Fehler kollektiv bezahlt, aber individuell verursacht werden, bleibt Politik ein folgenloses Experiment auf
-Kosten derer, die sich nicht entziehen können.
-Haftung trennt Entscheidung von Beliebigkeit und Verantwortung von persönlicher Vorteilssicherung.
-Ohne sie verliert jedes Amt sein Maß.
+Solange Fehler kollektiv bezahlt, aber individuell verursacht werden,  
+bleibt Politik ein folgenloses Experiment auf Kosten derer, die sich nicht entziehen können.  
+Haftung trennt Entscheidung von Beliebigkeit und Verantwortung von persönlicher Vorteilssicherung.  
+Ohne Haftung verliert jedes Amt sein Maß.
 
-Ein System, das Risiken nach unten durchreicht, produziert Gehorsam, nicht Führung.
-Es zwingt den Bürger zur Traglast, während es die Träger der Entscheidung vor Schneiden schützt.
+Ein System, das Risiken nach unten durchreicht, produziert Gehorsam, nicht Führung.  
+Es zwingt den Bürger zur Traglast,  
+während es die Träger der Entscheidungen vor Konsequenzen schützt.  
 So entsteht nicht Ordnung, sondern strukturelle Straffreiheit.
 
-Rechenschaft ist kein moralisches Prinzip, sondern ein Organisationsprinzip der Freiheit.
-Nur wer Folgen trägt, wägt ab.
-Nur wer verlieren kann, entscheidet ernsthaft.
+Rechenschaft ist kein moralischer Luxus,  
+sondern Organisationsprinzip der Freiheit.  
+Nur wer Folgen trägt, wägt ab.  
+Nur wer verlieren kann, entscheidet ernsthaft.  
 Nur wer nicht geschützt ist, kann dienen.
 
-Ein Staat, der Verantwortung teilt, statt sie abzuwälzen, erkennt den Bürger als Ursprung, nicht als Polster.
-Und dort, wo Herrschaft Risiko trägt, gewinnt Recht seine Bedeutung zurück.
+Ein Staat, der Verantwortung teilt statt sie abzuwälzen,  
+erkennt den Bürger als Ursprung – nicht als Polster.  
+Dort, wo Herrschaft Risiko trägt,  
+gewinnt Recht seine Bedeutung zurück.
