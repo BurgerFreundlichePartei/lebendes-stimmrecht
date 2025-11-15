@@ -76,7 +76,7 @@ DEFAULT_SECTION_ORDER = [
     "back-matter/glossary.md",
     "back-matter/acknowledgments.md",
     "back-matter/about-the-author.md",
-    "back-matter/bibliography.md",
+    "back-matter/other-publications.md",
     "back-matter/imprint.md",
 ]
 
@@ -93,7 +93,7 @@ PAPERBACK_SECTION_ORDER = [
     "back-matter/glossary.md",
     "back-matter/acknowledgments.md",
     "back-matter/about-the-author.md",
-    "back-matter/bibliography.md",
+    "back-matter/other-publications.md",
     "back-matter/imprint.md",
 ]
 
