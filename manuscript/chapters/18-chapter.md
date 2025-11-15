@@ -105,4 +105,4 @@ Würde endet dort, wo Pflege zur Rückforderung wird.
 Ein Gemeinwesen, das Menschen am Ende ihres Lebens auskleidet, hat ihre Lebensleistung nie anerkannt – nur genutzt.
 
 Pflege ist kein Kostenpunkt, sondern ein Maß moralischer Ordnung.  
-Ein Staat, der im Alter zugreift, hat im Leben nicht gedient.
+Ein Staat, der im Alter zugreift, hat im Leben **nie** gedient.
