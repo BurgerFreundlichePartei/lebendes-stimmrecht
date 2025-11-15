@@ -29,12 +29,12 @@ sondern **organisatorisch und technisch unmöglich** machen.
 
 ### Was verhindert werden muss
 
-• **Identifikation politischer Gegner** → Verfolgung, Ausschluss, Überwachung  
-• **Profilbasierte Diskriminierung** → Zugangsbeschränkungen bei Arbeit, Bildung, Sozialleistungen  
-• **Stigmatisierung & Denunziation** → gesellschaftlicher Druck als staatliches Werkzeug
+• **Identifikation politischer Gegner** → Selektive Verfolgung, Berufsverbote, Überwachung  
+• **Profilbasierte Diskriminierung** → Ausschluss von Sozialleistungen, Arbeit, Bildung  
+• **Denunziation und Stigmatisierung** → Gesellschaftliche Ächtung gesteuert durch staatliche Signalgebung
 
 Kurz:  
-**sichtbare Profile = Infrastruktur politischer Verfolgung.**
+**Sichtbare Profile = Infrastruktur politischer Verfolgung.**
 
 Das lebende Stimmrecht darf niemals als Katalog der Andersdenkenden erscheinen.
 
@@ -44,9 +44,9 @@ Das lebende Stimmrecht darf niemals als Katalog der Andersdenkenden erscheinen.
 
 • **Keine Einsicht durch den Staat** – individuelle Profile bleiben vollständig privat  
 • **Kryptographische Anonymisierung** – nur aggregierte Signale, nie Einzelpräferenzen  
-• **Unabänderlichkeit durch Signaturen** – Bürger kontrollieren ihr Profil selbst  
-• **Verfassungsrechtliche Sicherung** – Missbrauch ist nicht nur verboten, sondern strafbar  
-• **Technische Transparenz** – Algorithmen sind öffentlich, prüfbar und auditierbar
+• **Unabänderlichkeit durch Signaturen** – Bürger kontrollieren ihr Profil selbst; Änderungen sind nachprüfbar, aber nicht auslesbar  
+• **Verfassungsrechtliche Sicherung** – Missbrauch ist nicht nur verboten, sondern strafbar mit Verfassungsrang  
+• **Technische Transparenz** – Algorithmen zur Aggregation sind öffentlich, prüfbar und auditierbar – niemals geheim
 
 Diese Prinzipien bilden den Kern der Schutzarchitektur.
 
@@ -56,70 +56,84 @@ Diese Prinzipien bilden den Kern der Schutzarchitektur.
 
 **A. Client-first-Design**
 
-• Das Profil wird lokal erstellt und signiert.  
-• Der Staat sieht nur verschlüsselte Beiträge, keine Klartextinhalte.
+• Das Profil wird lokal auf dem Gerät des Bürgers erstellt und signiert.  
+• Der Staat empfängt nur kryptographisch geschützte Beiträge – niemals Klartextprofile.
 
 **B. Anonyme Identitätsschicht**
 
-• Starke Authentifizierung ohne Offenlegung politischer Präferenzen.  
-• Identität und Meinung sind technisch getrennt.
+• Starke Authentifizierung (z. B. DID-Konzepte) ohne Offenlegung politischer Präferenzen.  
+• Identität und politische Haltung sind technisch und logisch getrennt.  
+• Authentifizierung ≠ Offenlegung.
 
 **C. Verifiable Computation**
 
-• Korrekte Aggregation ohne Einsicht in Einzelwerte.  
-• Zero-Knowledge-Proofs / Multi-Party-Computation sichern:  
-Das Ergebnis stimmt – die Einzelstimmen bleiben unsichtbar.
+• Die Auswertung erfolgt durch Verifiable Computation:  
+Das System beweist die Korrektheit der Aggregation, ohne Einzelwerte offenzulegen.  
+• Einsatz von Zero-Knowledge-Proofs oder Multi-Party-Computation (MPC) –  
+Ergebnis ist verifizierbar, Einzelstimmen sind rekonstruktionsunfähig.
 
-**D. Differential Privacy**
+**D. Differential Privacy & minimale Datenspeicherung**
 
-• Schutz kleiner Gruppen, keine Rückschlüsse auf Minderheiten.  
-• Veröffentlichte Ergebnisse sind geglättet, ohne politischen Gehalt zu verzerren.
+• Ergebnisse werden mit Differential-Privacy-Schwellen versehen,  
+sodass auch bei kleinen Gruppen keine Rückschlüsse möglich sind.  
+• Rohdaten werden nicht dauerhaft gespeichert –  
+nur ein gesetzlich begrenztes, ephemeres Speicherfenster ist zulässig.
 
 **E. Föderierte Infrastruktur**
 
 • Keine zentrale Profil-Datenbank.  
-• Verteilte, vertrauensgeteilte Architektur reduziert Angriffsflächen.
+• Verteilte, vertrauensgeteilte Architektur (z. B. Bürger-Wallets + dezentrale Aggregatoren) –  
+reduziert Zielscheiben für staatliche oder institutionelle Angriffe.
 
 **F. Vollständige Auditierbarkeit**
 
-• Jeder Aggregationsprozess ist öffentlich prüfbar.  
-• Es gibt eine nachverfolgbare Revisionskette, ohne Profile offenzulegen.
+• Alle Aggregationsprozesse sind öffentlich auditierbar:  
+Open-Source-Code, nachvollziehbare Revisionsketten, Prüfsummen.  
+• Unabhängige Prüfer (Gericht, Ombudsmann, zivilgesellschaftliche Auditoren)  
+können Korrektheit verifizieren – **ohne Einzelprofile zu sehen**.
 
 ---
 
 ### Rechtliche & organisatorische Schutzschichten
 
 • **Verfassungsrang**  
-Das lebende Stimmrecht und seine Unsichtbarkeit werden als Grundrecht verankert.
+Das lebende Stimmrecht und die Unzugänglichkeit individueller Profile erhalten Verfassungsrang.
 
-• **Strenge Verbotsnormen**  
-Politische Profile dürfen niemals für Verwaltung, Strafverfolgung, Berufsrecht, Überwachung oder Scoring genutzt werden.
+• **Strenge Zweckbindung & Verbotsnormen**  
+Politische Profile dürfen niemals für Verwaltungszwecke, Strafverfolgung, Berufsauflagen, Überwachungsmaßnahmen oder Scoring genutzt werden.
 
 • **Unabhängige Kontrollbehörde**  
-Eine eigenständige Aufsicht mit Prüf- und Sanktionsbefugnissen – kein Anhängsel eines Ministeriums.
+Eine entkoppelte, eigenständige Aufsichtsbehörde mit Prüf- und Sanktionsbefugnissen –  
+kein Anhängsel eines Ministeriums, sondern ein unabhängiger Verfassungswächter.
 
 • **Harte Sanktionen**  
-Persönliche strafrechtliche Verantwortung bei jedem Missbrauchsversuch; zivilrechtlicher Schadenersatz für Betroffene.
+Massive strafrechtliche Folgen für Beamte und Institutionen, die individuelle Profile auslesen oder missbrauchen –  
+zivilrechtlicher Schadenersatz für Betroffene.
 
 • **Sofortige Rechtswege**  
-Bürger haben unmittelbaren Zugang zu Gerichten, Audit-Verfahren und Informationsrechten.
+Jeder Bürger hat unmittelbaren Zugang zu Gerichten, Audit-Verfahren und Herausgaberechten.  
+Missbrauchsfälle werden öffentlich dokumentiert und aufgeklärt.
 
 ---
 
 ### Operative Schutzmechanismen
 
 • **Kein Single-Point-of-Failure**  
-Weder technische noch organisatorische Zentralstellen, die alles wissen könnten.
+Weder technisch noch organisatorisch existiert ein Punkt, an dem Profilwissen zusammengeführt werden könnte.  
+Kryptographische Schlüssel liegen ausschließlich auf Bürgerseite.
 
 • **Nur Mehrheits-Signale sichtbar**  
-Behörden sehen nur, „was die Summe will“ – nie, „wer was wollte“.
+Behörden erhalten nur signalisierte Entscheidungen (z. B. „Mehrheit unterstützt Projekt X“) –  
+niemals individuelle Präferenzen.
 
-• **Schwellwerte gegen Rückschlüsse**  
-Kleine Gruppen werden besonders geschützt; Ergebnisse unterhalb bestimmter Schwellen werden nur eingeschränkt
-veröffentlicht.
+• **Schwellwert-Regeln**  
+Bei kleinen Gruppen (<X Personen) werden Entscheidungen nicht automatisch umgesetzt,  
+sondern einem menschlichen Revisionsmechanismus unterstellt –  
+um Rückschlüsse auf Minderheiten zu verhindern.
 
-• **Dokumentierte Ausnahmen**  
-Jede Ausnahme muss öffentlich begründet, rechtlich genehmigt und im System nachvollziehbar vermerkt werden.
+• **Blinde Protokolle für Ausnahmen**  
+Jede Ausnahme (z. B. Sicherheitsintervention) muss öffentlich begründet,  
+gerichtlich genehmigt und im System reversibel dokumentiert werden.
 
 ---
 
@@ -127,7 +141,7 @@ Jede Ausnahme muss öffentlich begründet, rechtlich genehmigt und im System nac
 
 1. Der Bürger wählt seine Präferenz und signiert sie lokal.
 2. Die Stimme wird anonymisiert und in eine verteilte Rechenumgebung eingespeist.
-3. Ein MPC/ZKP-Protokoll aggregiert die Stimmen und erzeugt ein verifizierbares Ergebnis.
+3. Ein MPC-/ZKP-Protokoll aggregiert die Stimmen und erzeugt ein verifizierbares Ergebnis.
 4. Das Ergebnis wird öffentlich veröffentlicht – ohne Rückschluss auf Einzelne.
 5. Unabhängige Auditoren prüfen die Korrektheit anhand offener Prüfmechanismen.
 
@@ -147,7 +161,7 @@ Ein Bürgerstaat braucht Bürger, die:
 • verstehen, wie sie es selbst kontrollieren,  
 • und wachsam bleiben gegenüber jeder Forderung nach „Ausnahmezugriff“.
 
-Transparenz über Technik + politische Bildung  
+Transparenz über Technik + permanente politische Bildung  
 reduziert das Risiko, dass Angst, Bequemlichkeit oder Ideologie den Schutz aushebeln.
 
 ---
@@ -159,10 +173,8 @@ reduziert das Risiko, dass Angst, Bequemlichkeit oder Ideologie den Schutz aushe
 > • Das lebende Stimmrecht ist ein dauerhaftes politisches Beteiligungsrecht jedes Bürgers.  
 > • Individuelle politische Präferenzen und Profile sind dem Staat inhaltlich nicht zugänglich.  
 > • Die Teilnahme an politischen Entscheidungen erfolgt anonymisiert und darf keiner Person zugeordnet werden.  
-> • Eine Identifikation politischer Haltung zu Zwecken der Überwachung, Diskriminierung oder Repression ist
-> verfassungswidrig.  
-> • Jede Erhebung, Speicherung oder Auswertung individueller politischer Profile durch staatliche Stellen ist verboten
-> und strafbar.  
+> • Eine Identifikation politischer Haltung zu Zwecken der Überwachung, Diskriminierung oder Repression ist verfassungswidrig.  
+> • Jede Erhebung, Speicherung oder Auswertung individueller politischer Profile durch staatliche Stellen ist verboten und strafbar.  
 > • Die Bürger kontrollieren den Staat; der Staat kontrolliert niemals ihre Gesinnung.
 
 Mit diesem einen Artikel ist jede spätere Missbrauchsmöglichkeit verfassungsrechtlich blockiert.
@@ -174,13 +186,13 @@ Mit diesem einen Artikel ist jede spätere Missbrauchsmöglichkeit verfassungsre
 | Schutzebene        | Inhalt                             | Zweck                       |
 |--------------------|------------------------------------|-----------------------------|
 | Primärrecht        | Verfassungsartikel                 | Unantastbarer Kern          |
-| Sekundärrecht      | Schutzgesetz „Lebendes Stimmrecht“ | konkrete Ausgestaltung      |
-| Organisationsrecht | Unabhängige Kontrollbehörde        | externer Wächter            |
+| Sekundärrecht      | Schutzgesetz „Lebendes Stimmrecht“ | Konkrete Ausgestaltung      |
+| Organisationsrecht | Unabhängige Kontrollbehörde        | Externer Wächter            |
 | Sanktionsrecht     | Strafnormen & Haftung              | Abschreckung & Rechtsschutz |
-| Technologierecht   | Kryptographie-Standards            | garantierte Unlesbarkeit    |
+| Technologierecht   | Kryptographie-Standards            | Garantierte Unlesbarkeit    |
 
-Das Sanktionsniveau liegt bewusst über dem normaler Datenschutzverstöße –  
-weil hier der Kern der Demokratie berührt wird.
+**Sanktionsniveau** muss EXPLIZIT höher sein als bei normalem Datenschutzverstoß –  
+weil hier der demokratische Kern berührt wird.
 
 ---
 
@@ -196,9 +208,9 @@ weil hier der Kern der Demokratie berührt wird.
 [ Öffentliches Ergebnis ]
 ```
 
-Kein Punkt im System kennt gleichzeitig:
+**Kein Punkt im System kennt gleichzeitig:**
 
-• **wer** abgestimmt hat
+• **wer** abgestimmt hat  
 • **wie** diese Person abgestimmt hat
 
 Es existiert **kein Rückkanal** – und damit keine Verfolgungsgrundlage.
@@ -207,37 +219,37 @@ Es existiert **kein Rückkanal** – und damit keine Verfolgungsgrundlage.
 
 ### Kurzformel für spätere Wiederverwendung
 
-> **„Das System weiß, was die Bürger gemeinsam wollen –
+> **„Das System weiß, was die Bürger gemeinsam wollen –  
 > aber niemals, was der Einzelne denkt.“**
 
 ---
 
 ## Schlussverdichtung
 
-Ein politisches System, das Zugriff auf Überzeugungen hat, besitzt Macht über Menschen, nicht über Regeln.
-Sichtbare Haltungen werden verwertbare Profile; wer verwertbar ist, ist verwundbar.
+Ein politisches System, das Zugriff auf Überzeugungen hat, besitzt Macht über Menschen, nicht über Regeln.  
+Sichtbare Haltungen werden verwertbare Profile; wer verwertbar ist, ist verwundbar.  
 Privatsphäre ist kein Komfort, sondern die letzte Linie der Freiheit, bevor Zustimmung zur Disziplinierung wird.
 
-Minderheitenschutz beginnt nicht beim Gesetzestext,
-sondern bei der Unmöglichkeit, den Einzelnen politisch zu kartieren.
-Nicht die Mehrheit sichert Freiheit,
-sondern das Unvermögen der Macht, die Abweichenden zu isolieren.
+Minderheitenschutz beginnt nicht beim Gesetzestext,  
+sondern bei der Unmöglichkeit, den Einzelnen politisch zu kartieren.  
+Nicht die Mehrheit sichert Freiheit,  
+sondern das Unvermögen der Macht, die Abweichenden zu isolieren.  
 Wo Gedanken erreichbar sind, wird Freiheit verhandelbar.
 
-Demokratie ohne Wahrung des Unsichtbaren
-wird nicht zur offenen Gesellschaft, sondern zur beobachteten.
-Wer verfolgt werden könnte, ist schon eingeschränkt –
+Demokratie ohne Wahrung des Unsichtbaren  
+wird nicht zur offenen Gesellschaft, sondern zur beobachteten.  
+Wer verfolgt werden könnte, ist schon eingeschränkt –  
 auch wenn niemand verfolgt.
 
-Ein Staat, der nicht weiß, wie du denkst,
-ist gezwungen, dir zu dienen.
-Ein Staat, der es weiß,
+Ein Staat, der nicht weiß, wie du denkst,  
+ist gezwungen, dir zu dienen.  
+Ein Staat, der es weiß,  
 kann wählen, ob er es tut.
 
-Solange Profilwissen möglich ist, bleibt Freiheit kontingent.
-Unkenntnis deiner politischen Identität
-ist nicht Nebenbedingung, sondern Fundament einer Ordnung,
+Solange Profilwissen möglich ist, bleibt Freiheit kontingent.  
+Unkenntnis deiner politischen Identität  
+ist nicht Nebenbedingung, sondern Fundament einer Ordnung,  
 die Menschen schützt, bevor sie Interessen schützt.
 
-Freiheit existiert nicht durch Wohlwollen der Macht,
+Freiheit existiert nicht durch Wohlwollen der Macht,  
 sondern durch die Unzugänglichkeit des Einzelnen.
