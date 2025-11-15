@@ -84,7 +84,7 @@ Der Staat ist **Vertragspartner**,
 der seinen Auftrag **fortlaufend** rechtfertigen muss.
 
 Der Bürger ist nicht Objekt staatlicher Fürsorge,  
-sondern Auftraggeber politischer Ausführung.
+sondern **Auftraggeber** politischer Ausführung.
 
 ---
 
@@ -104,7 +104,7 @@ sondern **im Zentrum**.
 ## Schlussverdichtung
 
 Ein neues System entsteht nicht durch Austausch von Akteuren,  
-sondern durch Austausch der Architektur der Macht.
+sondern durch Austausch der **Architektur der Macht**.
 
 Es genügt nicht, „bessere Menschen“ in alte Strukturen zu setzen.  
 Strukturen formen Verhalten – nicht umgekehrt.  
@@ -114,11 +114,11 @@ reproduziert sie sich unabhängig von Absichten.
 Wer Freiheit sichern will,  
 ersetzt nicht Köpfe, sondern Mechanismen.  
 Er sorgt dafür, dass Macht nicht als Besitz verstanden wird,  
-sondern als ständig zu rechtfertigender Auftrag.  
+sondern als **ständig zu rechtfertigender Auftrag**.  
 Dass Entscheidungen nicht gewährt,  
-sondern gebunden sind.  
+sondern **gebunden** sind.  
 Dass Legitimation nicht vermutet,  
-sondern fortlaufend bestätigt wird.
+sondern **fortlaufend bestätigt** wird.
 
 Das Ziel ist nicht eine moralischere Verwaltung,  
 sondern eine, die keine moralische Ausnahmefähigkeit braucht.  
@@ -127,11 +127,11 @@ weil niemand länger herrschen kann,
 als er von den Bürgern getragen wird.
 
 Nicht Vertrauen in Personen schafft Stabilität,  
-sondern die Unmöglichkeit ihrer Unkontrollierbarkeit.
+sondern die **Unmöglichkeit ihrer Unkontrollierbarkeit**.
 
 Umbruch entsteht dort,  
 wo Verantwortung nicht mehr delegiert,  
-sondern dauerhaft verankert wird.
+sondern **dauerhaft verankert** wird.
 
 Ein politisches Modell verändert sich nicht,  
 wenn es nur modernisiert wird,  
@@ -142,9 +142,9 @@ auch dann, wenn die Funktion wechselt.
 Die Zukunft liegt nicht in Reformversprechen,  
 sondern in **Gestaltungsrechten**.  
 Nicht im besseren Vollzug,  
-sondern in unverlierbarer Entscheidungsmacht.
+sondern in **unverlierbarer Entscheidungsmacht**.
 
 Ein Staat verändert sich nicht, indem er sich erklärt,  
-sondern indem er sich bindet.  
+sondern indem er sich **bindet**.  
 Und Freiheit beginnt dort,  
-wo diese Bindung nicht mehr verhandelbar ist.
+wo diese Bindung **nicht mehr verhandelbar** ist.
