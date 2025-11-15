@@ -28,7 +28,7 @@ sondern weil das System **falsch belohnt**.
 | Macht = Einkommen   | Machterhalt wichtiger als Wahrheit |
 | Amt = Karriere      | Systemloyalität > Bürgerloyalität  |
 | Posten = Versorgung | Politik wird Beruf, nicht Auftrag  |
-| Verlustfrei         | kein Risiko für Fehlentscheidungen |
+| Verlustfrei         | kein Risiko bei Fehlentscheidungen |
 
 Wer nichts zu verlieren hat,  
 hat keinen Grund, etwas zu korrigieren.
@@ -37,12 +37,12 @@ hat keinen Grund, etwas zu korrigieren.
 
 ### Der bürgerfreundliche Gegenentwurf
 
-| Falsche Logik              | Richtige Logik                 |
-|----------------------------|--------------------------------|
-| Amt als Aufstieg           | Amt als Dienst                 |
-| Repräsentation auf Zeit    | Verantwortung mit Rückruf      |
-| Privilegien                | Haftung                        |
-| Netzwerke und Hinterzimmer | Transparenz + Protokollpflicht |
+| Falsche Logik              | Richtige Logik                   |
+|----------------------------|----------------------------------|
+| Amt als Aufstieg           | Amt als Dienst                   |
+| Repräsentation auf Zeit    | Verantwortung mit Rückruf        |
+| Privilegien                | Persönliche Haftung              |
+| Netzwerke und Hinterzimmer | Transparenz und Protokollpflicht |
 
 Politik darf nicht die beste Karriere sein,  
 sondern die **schwerste Verantwortung**.
@@ -52,66 +52,71 @@ sondern die **schwerste Verantwortung**.
 ### Konkrete Strukturveränderungen
 
 1. **Abwahlrecht jederzeit**  
-   Der Wähler gibt nicht nur Macht – er kann sie auch zurückholen.
+   Der Wähler gibt nicht nur Macht – er kann sie jederzeit zurückholen.
 
 2. **Transparente Entscheidungsführung**  
-   KI-gestützte Protokollierung aller Verhandlungen → keine Hinterzimmerlogik.
+   KI-gestützte Protokollierung aller Verhandlungen → Ende der Hinterzimmerlogik.
 
-3. **Verantwortungshaftung**  
-   Wer politisch schweren Schaden verursacht, kann rechtlich belangt werden.
+3. **Persönliche Verantwortungshaftung**  
+   Wer politisch schweren Schaden verursacht, wird rechtlich belangt.
 
 4. **Vergütung begrenzt – Rechenschaft unbegrenzt**  
-   Politik als Dienst, nicht als Selbstversorgung.
+   Politik als öffentlicher Dienst, nicht als Selbstversorgung.
 
 ---
 
-### Rolle der KI (im Positiven)
+### Die Rolle der KI – im Dienst der Transparenz
 
 KI liefert **Beweissicherung statt Gerüchte**:
 
-- Jede Sitzung wird automatisch dokumentiert.
-- Jeder Lobbykontakt ist öffentlich nachvollziehbar.
-- Jede Mittelvergabe lässt sich lückenlos nachverfolgen.
+- Jede Sitzung wird automatisch protokolliert und archiviert
+- Jeder Lobbykontakt ist öffentlich einsehbar
+- Jede Mittelvergabe lässt sich lückenlos nachverfolgen
 
-Transparenz ist nicht Bitte,  
-sondern **Systemstandard**.
+Transparenz ist keine Bitte mehr,  
+sondern **unverrückbarer Systemstandard**.
 
 ---
 
-### Ergebnis
+### Das Ergebnis
 
 Wo es keine politische Beute mehr gibt,  
 schwindet der Anreiz zur Korruption.
 
-Wo Macht überprüfbar ist,  
+Wo Macht permanent überprüfbar ist,  
 kann sie nicht folgenlos entarten.
 
-Wo Bürger Zugriff haben,  
-braucht es keinen „Vertrauensvorschuss“.
+Wo Bürger direkten Zugriff haben,  
+braucht es keinen „Vertrauensvorschuss“ mehr.
 
 ---
 
 ## Schlussverdichtung
 
-Sobald politische Ämter Versorgung garantieren, wird Macht zum Einkommensmodell und Verantwortung zur Nebensache.  
+Sobald politische Ämter Versorgung garantieren, wird Macht zum Einkommensmodell  
+und Verantwortung zur Nebensache.  
 Nicht Charakter entscheidet dann, sondern Kalkül.  
 Ein System, das Politik als Karriere ausstattet, zieht nicht die Fähigsten an,  
 sondern jene, die vom Amt leben wollen – nicht für es wirken.
 
-Wo Privilegien beginnen, endet Gemeinwohl.  
-Wer ohne Risiko Macht ausüben kann, wird sie nicht verantwortungsvoll gebrauchen, sondern sichern.  
+Wo Privilegien beginnen, endet das Gemeinwohl.  
+Wer ohne persönliches Risiko Macht ausüben kann,  
+wird sie nicht verantwortungsvoll gebrauchen, sondern vor allem sichern.  
 Belohnung ohne Haftung produziert Loyalität zum Apparat, nicht zum Bürger.
 
-Transparenz ersetzt kein Gewissen, aber sie entwaffnet Interessen, die verborgen bleiben wollen.  
+Transparenz ersetzt kein Gewissen,  
+aber sie entwaffnet Interessen, die im Verborgenen operieren wollen.  
 Abwahlbarkeit erzwingt Haltung, indem sie Opportunismus teuer macht.  
 Wenn Macht getragen werden muss und nicht besessen werden kann,  
-ist Politik Dienst – nicht Besitzstand.
+wird Politik wieder zum Dienst – nicht zum Besitzstand.
 
-Eine Ordnung, die Ämter schützt, statt sie zu prüfen, verwechselt Stabilität mit Unangreifbarkeit.  
-Und wo Mandate nicht widerrufbar sind, ist das Volk nicht Souverän, sondern Zuschauer,  
-auch wenn es formell stimmen darf.
+Eine Ordnung, die Ämter schützt statt prüft,  
+verwechselt Stabilität mit Unangreifbarkeit.  
+Und wo Mandate nicht widerrufbar sind,  
+ist das Volk nicht Souverän, sondern Zuschauer –  
+auch wenn es formal alle vier Jahre abstimmen darf.
 
 Politische Verantwortung beginnt nicht mit dem Amt,  
-sondern mit der Möglichkeit, es zu verlieren.  
+sondern mit der realen Möglichkeit, es zu verlieren.  
 Wo diese Möglichkeit fehlt, entsteht kein Dienst am Bürger,  
-sondern Selbstverwaltung der Macht.
+sondern bloße Selbstverwaltung der Macht.
