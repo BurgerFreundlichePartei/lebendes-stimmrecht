@@ -6,83 +6,86 @@
 
 ### These
 
-Staatliche Machtstrukturen lassen sich nicht stürzen,
-aber sie lassen sich **entwerten** –
-indem Kontrolle Schritt für Schritt zum Bürger zurückkehrt.
+Staatliche Machtstrukturen lassen sich nicht stürzen –  
+aber sie lassen sich **entwerten**,  
+indem Kontrolle Schritt für Schritt an die Bürger zurückkehrt.
 
-Nicht Umsturz,
+Nicht Umsturz,  
 sondern **Funktionswechsel**.
 
 ---
 
 ### Warum Revolution immer scheitert
 
-Revolution zerstört Systeme,
-aber sie zerstört nie Machtlogik.
+Revolution beseitigt Institutionen,  
+aber nicht die Machtlogik dahinter.
 
-Nach der Revolution entsteht wieder eine Elite,
-die sich an die Spitze setzt.
-Nur mit neuem Namen.
+Nach jeder Revolution entsteht erneut eine Elite,  
+die sich an die Spitze setzt –  
+mit anderem Namen,  
+aber gleicher Struktur.
 
-Aus Unterdrückung A wird Unterdrückung B.
-Staatsform anders,
-Machtstruktur gleich.
+Unterdrückung wechselt ihr Etikett,  
+nicht ihr Prinzip.
 
-Darum reproduziert Revolution
-immer nur ein neues Oben.
+Darum erzeugen Revolutionen  
+kein neues Unten,  
+sondern immer ein neues Oben.
 
 ---
 
 ### Warum Evolution funktioniert
 
-Der Bürgerstaat entsteht nicht,
-weil eine Partei „übernimmt“,
-sondern weil Parteien **an Bedeutung verlieren**.
+Der Bürgerstaat entsteht nicht,  
+weil eine Partei „übernimmt“,  
+sondern weil Parteien **an Einfluss verlieren**.
 
-Nicht Austausch der Verwalter –
-Austausch des **Eigentümers** der Macht.
+Nicht Austausch der Verwalter,  
+sondern **Rückgabe der Macht** an die Bevölkerung.
 
-Die Macht wandert nicht zu einer Partei,
-sondern **zur Bevölkerung selbst**.
+Die politische Steuerung wandert nicht zu einer Organisation,  
+sondern **zu den Bürgern selbst**.
 
 ---
 
 ### Drei-Phasen-Modell des Übergangs
 
-| Phase                | Rolle                                  | Ergebnis                                 |
-|----------------------|----------------------------------------|------------------------------------------|
-| 1. Bewusstseinsphase | Bürger erkennt Machtasymmetrie         | Legitimitätsverlust des alten Systems    |
-| 2. Parallelphase     | Bürgerrechte werden parallel aufgebaut | der Staat verliert die Exklusivkontrolle |
-| 3. Übergabestufe     | Verwaltungslogik wird umgedreht        | der Bürger übernimmt, ohne Bruch         |
+| Phase                | Rolle                                  | Ergebnis                                  |
+|----------------------|----------------------------------------|-------------------------------------------|
+| 1. Bewusstseinsphase | Bürger erkennen die Machtasymmetrie    | Legitimitätsverlust des alten Systems     |
+| 2. Parallelphase     | Bürgerrechte werden parallel aufgebaut | Staat verliert die Exklusivkontrolle      |
+| 3. Übergabestufe     | Verwaltungslogik wird umgekehrt        | Bürger übernimmt – ohne Bruch, ohne Chaos |
 
 ---
 
 ### Die Rolle von BFREI in diesem Prozess
 
-BFREI ist keine klassische „Machtpartei“.
-Sie ist eine **Übergangspartei**,
-deren Ziel nicht Regierung ist,
-sondern **Übertragung der Kontrolle an die Bürger**.
+BFREI ist keine klassische Machtpartei,  
+sondern eine **Übergangspartei**.
 
-Sie ersetzt nicht die herrschende Klasse –
-sie beendet sie.
+Ihr Ziel ist nicht, Regierung auszuüben,  
+sondern **Macht zurückzuführen** –  
+weg von Parteien, hin zum Bürger.
+
+Sie ersetzt keine herrschende Klasse;  
+sie beendet das Prinzip der politischen Zwischenklasse.
 
 ---
 
 ### Die entscheidende Abgrenzung
 
-| Klassische Partei        | Bürgerpartei (BFREI)              |
-|--------------------------|-----------------------------------|
-| will steuern             | will abgeben                      |
-| beansprucht Macht        | überführt Macht                   |
-| spricht für Bürger       | gibt Bürger Rückspracheinstrument |
-| zentriert Aufmerksamkeit | dezentralisiert Verantwortung     |
+| Klassische Partei       | Bürgerpartei (BFREI)           |
+|-------------------------|--------------------------------|
+| will steuern            | will abgeben                   |
+| beansprucht Macht       | überführt Macht                |
+| spricht für Bürger      | gibt Bürger direkten Rückkanal |
+| zentriert Verantwortung | dezentralisiert Verantwortung  |
 
 ---
 
 ### Warum der Bürgerstaat unvermeidlich ist
 
-Politische Systeme haben Zyklen:
+Politische Systeme folgen wiederkehrenden Zyklen:
 
 1. Legitimation
 2. Überlastung
@@ -90,10 +93,10 @@ Politische Systeme haben Zyklen:
 4. schleichende Delegitimierung
 5. Ersatz
 
-Deutschland liegt zwischen Stufe 3 und 4.
+Deutschland befindet sich zwischen Stufe 3 und 4.
 
-Wenn Bürger ihre Stimme nicht mehr im Staat wiederfinden,
-entsteht nicht Apathie,
+Wenn Bürger ihre Stimme im Staat nicht mehr wiederfinden,  
+entsteht nicht Apathie,  
 sondern **Alternativbewusstsein**.
 
 Dieses Buch ist Teil dieser Alternativphase.
@@ -102,40 +105,55 @@ Dieses Buch ist Teil dieser Alternativphase.
 
 ### Sicherer Übergang
 
-Stabilität entsteht nicht durch Machtwechsel,
-sondern durch Machtverteilung.
+Stabilität entsteht nicht durch Machtwechsel,  
+sondern durch **Machtverteilung**.
 
-> Die Lösung ist nicht „neuer Herrscher“,
+> Die Lösung ist kein „neuer Herrscher“,  
 > sondern **keine Herrscherklasse mehr**.
 
 ---
 
-## **Schlussverdichtung**
+## Schlussverdichtung
 
-Der Übergang vom Parteienstaat zum Bürgerstaat ist kein Stimmungswechsel, sondern ein Machtwechsel.
-Er beginnt nicht mit neuen Programmen, sondern mit dem Entzug des Monopols auf politische Wirkung.
-Parteien verlieren nicht ihr Recht zu existieren, sondern ihr Recht, zwischen Bürger und Entscheidung zu stehen.
+Der Übergang vom Parteienstaat zum Bürgerstaat ist kein Stimmungswechsel,  
+sondern ein Machtwechsel.
 
-Solange politische Organisationen die Filter zwischen Volk und Steuerung bilden, bleibt Repräsentation Hierarchie und
-nicht Durchgriff.
-Nicht Wählerwillen regiert, sondern Organisationsinteresse.
-Nicht Freiheit sichert den Prozess, sondern Zugehörigkeit.
+Er beginnt nicht mit neuen Programmen,  
+sondern mit dem Entzug des Monopols auf politische Wirkung.  
+Parteien verlieren nicht das Recht zu existieren,  
+sondern das Recht, zwischen Bürger und Entscheidung zu stehen.
 
-Bürgerstaat bedeutet nicht Zerstörung der Struktur, sondern ihre Unterordnung.
-Institutionen bleiben, aber sie verlieren ihre Vorrangstellung.
-Entscheidungswege bleiben, aber sie verlieren ihr Exklusivrecht.
-Verwaltung bleibt, aber sie verliert ihre Distanz.
+Solange politische Organisationen als Filter dienen,  
+bleibt Repräsentation Hierarchie und nicht Durchgriff.  
+Nicht der Wählerwille regiert,  
+sondern Organisationsinteresse.
 
-Reformen verändern Abläufe.
-Souveränität verändert Eigentumsverhältnisse der Macht.
+Der Bürgerstaat zerstört keine Institutionen –  
+er ordnet sie neu:  
+Institutionen bleiben bestehen,  
+aber sie verlieren ihre Vorrangstellung.  
+Entscheidungswege bleiben,  
+aber sie verlieren ihr Exklusivrecht.  
+Verwaltung bleibt,  
+aber sie verliert ihre Distanz.
 
-Ein System, das Parteimacht als notwendige Vorstufe zur Staatlichkeit behandelt, verwechselt Beteiligung mit Erlaubnis.
-Souveränität entsteht nicht durch Zugehörigkeit zu einer Organisation, sondern durch unmittelbaren Zugriff auf die
-politische Funktion.
+Reformen verändern Abläufe.  
+Souveränität verändert die **Eigentumsverhältnisse** der Macht.
 
-Die Zukunft beginnt nicht mit der Abschaffung des politischen Apparates, sondern mit seiner Rückführung auf seine
-ursprüngliche Aufgabe: Ausführung statt Delegation.
-Der Bürger verliert nicht Struktur, er gewinnt Priorität.
+Ein System, das Parteimacht als notwendige Vorstufe zur politischen Steuerung behandelt,  
+verwechselt Beteiligung mit Erlaubnis.
 
-Ein Staat, der nicht mehr verwaltet, wer sprechen darf, sondern nur noch ausführt, was gesprochen wurde, hat seine Form
-vollzogen, nicht verloren.
+Souveränität entsteht nicht durch Mitgliedschaft in einer Organisation,  
+sondern durch **unmittelbaren Zugriff auf politische Funktion**.
+
+Die Zukunft beginnt nicht mit der Abschaffung des Apparates,  
+sondern mit seiner Rückführung auf seinen Kern:  
+**Ausführung statt Delegation.**
+
+Der Bürger verliert keine Struktur –  
+er erhält **Priorität**.
+
+Ein Staat, der nicht mehr verwaltet, wer sprechen darf,  
+sondern ausführt, was gesprochen wurde,  
+hat seine Form erfüllt –  
+nicht verloren.
