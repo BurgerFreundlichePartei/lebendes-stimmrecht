@@ -5,9 +5,10 @@
 ---
 
 > **Übergang:**  
-> Wenn der Staat Risiko trägt, braucht es ein Instrument, das dieses Risiko **auslöst**:  
-> Nicht alle vier Jahre, sondern jederzeit.  
-> Genau dort beginnt Demokratie als ständige Kontrolle – nicht als Wahlritual.
+> Demokratie darf nicht auf ein Ritual reduziert werden.  
+> Wenn politische Macht Risiko trägt, braucht es ein Instrument, das dieses Risiko **jederzeit auslöst** –  
+> nicht nur alle vier Jahre.  
+> Genau dort beginnt Demokratie als ständige Kontrolle.
 
 ---
 
@@ -57,11 +58,11 @@ wenn sie **nicht entzogen werden kann**.
    – Korrekturrecht statt bloßer Zustimmung im Voraus.
 
 2. **Transparenz-by-default**  
-   – Einsicht ist Standard, kein Gnadenakt auf Antrag.
+   – Einsicht ist Standard, kein Antrag nötig.
 
 3. **Bürgerreferendum bei Widerspruch**  
-   – Wenn ein bestimmter Anteil der Bevölkerung (z. B. x %) widerspricht,  
-   muss Politik neu entscheiden.
+   – Wenn ein qualifizierter Anteil der Bevölkerung widerspricht,  
+   muss die Politik neu entscheiden.
 
 4. **Politische Zwischenbilanz**  
    – nicht alle vier Jahre, sondern kontinuierlich überprüfbare Zielerreichung.
@@ -72,13 +73,13 @@ wenn sie **nicht entzogen werden kann**.
 
 KI macht echte Demokratie **praktisch umsetzbar**, indem sie ermöglicht:
 
-| Anwendung                                     | Nutzen                            |
-|-----------------------------------------------|-----------------------------------|
-| fälschungssichere Online-Abstimmungen         | direkte Beteiligung ohne Hürden   |
-| Bürgerfeedback in Echtzeit                    | Reaktion statt Ignoranz           |
-| öffentliche Stimmregister (anonymisiert)      | nachvollziehbare Beteiligung      |
-| automatische Offenlegung von Lobby-Einflüssen | Macht wird beobachtbar            |
-| Prüfprotokolle                                | Verwaltung kann nicht „vergessen“ |
+| Anwendung                                     | Nutzen                               |
+|-----------------------------------------------|--------------------------------------|
+| fälschungssichere Online-Abstimmungen         | direkte Beteiligung ohne Hürden      |
+| Bürgerfeedback in Echtzeit                    | Reaktion statt Ignoranz              |
+| öffentliche Stimmregister (anonymisiert)      | Transparenz und Nachvollziehbarkeit  |
+| automatische Offenlegung von Lobby-Einflüssen | Macht wird beobachtbar               |
+| Prüfprotokolle                                | Verwaltung kann nicht „vergessen“    |
 
 KI ist Infrastruktur für Demokratie,  
 nicht Kontrollmechanik über Bürger.
