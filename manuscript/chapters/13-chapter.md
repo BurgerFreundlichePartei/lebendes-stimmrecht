@@ -99,10 +99,10 @@ trägt unsere Selbstbestimmung nicht mehr.“
 
 Heute haben wir eine paradoxe Lage:
 
-- formal Souverän,
-- funktional Objekt der Verwaltung,
-- ohne Letztentscheidung,
-- ohne direkte Durchgriffsmacht.
+• formal Souverän,  
+• funktional Objekt der Verwaltung,  
+• ohne Letztentscheidung,  
+• ohne direkte Durchgriffsmacht.  
 
 Souveränität ist zur Formel geworden,  
 nicht zur gelebten Stellung.

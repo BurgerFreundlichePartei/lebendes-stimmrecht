@@ -31,7 +31,7 @@ sondern was **zurückgeholt werden muss**:
 • Verwaltung als Dienstleistung statt als Hürde  
 • Pflege als Schutzraum statt als Last  
 • Politik als Verantwortung statt als Karriere  
-• Technologie als Befreiung statt als Überwachung
+• Technologie als Befreiung statt als Überwachung  
 
 Der entscheidende Schritt ist die **Machtumkehr**:  
 Nicht der Staat über dem Bürger,  

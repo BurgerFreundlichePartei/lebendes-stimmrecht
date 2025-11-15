@@ -84,9 +84,9 @@ sondern dokumentierte **Rechenschaft**.
 Wenn der Staat Risiko trägt,  
 beginnt er wieder wie jeder andere Akteur zu handeln:
 
-- abwägen statt durchregieren
-- verantworten statt verstecken
-- dienen statt dominieren
+• abwägen statt durchregieren  
+• verantworten statt verstecken  
+• dienen statt dominieren  
 
 ---
 

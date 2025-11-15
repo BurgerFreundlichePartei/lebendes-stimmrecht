@@ -23,10 +23,10 @@ Korruption im 21. Jahrhundert
 ist selten ein Umschlag in der Gasse.  
 Sie ist raffinierter – und gefährlicher:
 
-- bewusst verzögertes Verfahren,
-- ein „formaler Hinweis“,
-- eine „ungeklärte Rückfrage“, die erst verschwindet,  
-  wenn der richtige Dienstweg sich „zufällig“ öffnet.
+• bewusst verzögertes Verfahren,  
+• ein „formaler Hinweis“,  
+• eine „ungeklärte Rückfrage“, die erst verschwindet,  
+  wenn der richtige Dienstweg sich „zufällig“ öffnet.  
 
 Der Mechanismus:  
 nicht Mut zum Regelbruch –  
@@ -49,9 +49,9 @@ Das Perfide daran:
 Er bricht das Gesetz nicht „offen“ –  
 er **beutet seine Unangreifbarkeit aus**.
 
-- Niemand kommt an ihm vorbei.
-- Niemand kann ihn ersetzen.
-- Niemand kontrolliert seinen Vorsatz.
+• Niemand kommt an ihm vorbei.  
+• Niemand kann ihn ersetzen.  
+• Niemand kontrolliert seinen Vorsatz.  
 
 Nicht Leistung bestimmt seinen Status,  
 sondern **Unersetzlichkeit**.
@@ -78,10 +78,10 @@ verriet er den Souverän.
 
 Die Konsequenzen waren existenziell:
 
-- Verlust der Ehre → gesellschaftlicher Tod
-- Verlust des Vermögens → wirtschaftlicher Tod
-- Verbannung oder Kerker → sozialer Tod  
-  In schweren Fällen: körperliche Strafen.
+• Verlust der Ehre → gesellschaftlicher Tod  
+• Verlust des Vermögens → wirtschaftlicher Tod  
+• Verbannung oder Kerker → sozialer Tod    
+  In schweren Fällen: körperliche Strafen.  
 
 Damals galt unausgesprochen:  
 **Wer den Bürger betrügt, verrät den Herrscher.**
@@ -99,9 +99,9 @@ und Korruption galt als Entehrung des Amtes.
 
 Ein einziger Vorfall konnte:
 
-- die Pension kosten,
-- lebenslange Ächtung auslösen,
-- gesellschaftliche Rehabilitierung unmöglich machen.
+• die Pension kosten,  
+• lebenslange Ächtung auslösen,  
+• gesellschaftliche Rehabilitierung unmöglich machen.  
 
 Die Strafe begann im Ruf,  
 nicht im Gerichtssaal.

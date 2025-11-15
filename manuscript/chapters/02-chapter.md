@@ -29,8 +29,8 @@ nicht für das, was er erhält, sondern weil der Staat festgelegt hat, dass geza
 
 Die Differenz ist entscheidend:
 
-- Ein **Auftrag** basiert auf Freiwilligkeit und Vereinbarung.
-- Eine **Beschaffung** basiert auf Zwang und Hoheit.
+• Ein **Auftrag** basiert auf Freiwilligkeit und Vereinbarung.  
+• Eine **Beschaffung** basiert auf Zwang und Hoheit.  
 
 Der Staat erhebt Steuern nicht, weil der Bürger ihn dazu ermächtigt hat, sondern weil er die **institutionelle Macht**
 besitzt, dies zu tun. Der Bürger kann nicht ablehnen, nicht kündigen, nicht verhandeln.
@@ -44,10 +44,10 @@ Das Verhältnis ist nicht vertraglich, sondern **herrschaftlich**.
 Natürlich fließt ein Teil der Mittel in Schulen, Straßen, Gesundheit. Doch ein erheblicher Anteil dient nicht direkt der
 Gesellschaft, sondern **der Aufrechterhaltung des Apparats selbst**:
 
-- Verwaltung, die sich selbst verwaltet.
-- Behörden, die Behörden kontrollieren.
-- Gremien, die Gremien koordinieren.
-- Ausschüsse, die Ausschüsse überwachen.
+• Verwaltung, die sich selbst verwaltet.  
+• Behörden, die Behörden kontrollieren.  
+• Gremien, die Gremien koordinieren.  
+• Ausschüsse, die Ausschüsse überwachen.  
 
 Das System ist nicht schlank, sondern **selbsterhaltend**. Es wächst nicht, weil mehr Leistung erbracht wird, sondern
 weil **mehr Verwaltung mehr Verwaltung erzeugt**.
@@ -87,10 +87,10 @@ Drei strukturelle Merkmale machen das sichtbar:
 
 Die entscheidende Frage lautet: **Wer dient wem?**
 
-- Im **Bürgerstaat** dient der Staat dem Menschen. Seine Existenzberechtigung liegt in den Aufträgen, die der Bürger ihm
-  erteilt, und in den Leistungen, die er erbringt.
-- Im **Beschaffungsstaat** dient der Mensch dem Staat. Seine Funktion ist, Mittel bereitzustellen und die Folgen
-  staatlicher Entscheidungen zu tragen – ohne wirkliche Kontrolle über deren Einsatz.
+• Im **Bürgerstaat** dient der Staat dem Menschen. Seine Existenzberechtigung liegt in den Aufträgen, die der Bürger ihm
+  erteilt, und in den Leistungen, die er erbringt.  
+• Im **Beschaffungsstaat** dient der Mensch dem Staat. Seine Funktion ist, Mittel bereitzustellen und die Folgen
+  staatlicher Entscheidungen zu tragen – ohne wirkliche Kontrolle über deren Einsatz.  
 
 Das ist keine Dienstleistung. Es ist die **Versorgung eines Apparats durch seine Bestandteile**.
 
@@ -123,11 +123,11 @@ Es reformiert nicht für den Bürger, sondern für **seine eigene Fortexistenz**
 
 Ein Beschaffungsstaat ist kein Bürgerstaat.
 
-- Der **Bürgerstaat** fragt: „Was brauchst du?“
-- Der **Beschaffungsstaat** fragt: „Was können wir uns nehmen?“
+• Der **Bürgerstaat** fragt: „Was brauchst du?“  
+• Der **Beschaffungsstaat** fragt: „Was können wir uns nehmen?“  
 
-- Der **Bürgerstaat** legitimiert sich durch Leistung, Effizienz, Rechenschaft.
-- Der **Beschaffungsstaat** legitimiert sich durch Hoheit, Notwendigkeit, Alternativlosigkeit.
+• Der **Bürgerstaat** legitimiert sich durch Leistung, Effizienz, Rechenschaft.  
+• Der **Beschaffungsstaat** legitimiert sich durch Hoheit, Notwendigkeit, Alternativlosigkeit.  
 
 Solange der Staat nicht als **beauftragter Dienstleister**, sondern als **Institution mit Selbstzweck** verstanden wird,
 bleibt der Bürger nicht Auftraggeber, sondern **Material zur Aufrechterhaltung des Systems**.

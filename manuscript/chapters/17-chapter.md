@@ -31,7 +31,7 @@ Du zahlst ein Leben lang – besitzt aber nichts.
 Das Ergebnis:
 
 • Stirbst du früher → Gewinn für den Staat  
-• Überlebst du zu lange → Belastung für den Staat
+• Überlebst du zu lange → Belastung für den Staat  
 
 Ein System, das vom Tod profitiert,  
 ist kein Sozialsystem, sondern ein Bilanzsystem.

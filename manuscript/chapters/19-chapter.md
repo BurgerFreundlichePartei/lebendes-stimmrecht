@@ -69,9 +69,9 @@ sondern die **schwerste Verantwortung**.
 
 KI liefert **Beweissicherung statt Gerüchte**:
 
-- Jede Sitzung wird automatisch protokolliert und archiviert
-- Jeder Lobbykontakt ist öffentlich einsehbar
-- Jede Mittelvergabe lässt sich lückenlos nachverfolgen
+• Jede Sitzung wird automatisch protokolliert und archiviert  
+• Jeder Lobbykontakt ist öffentlich einsehbar  
+• Jede Mittelvergabe lässt sich lückenlos nachverfolgen  
 
 Transparenz ist keine Bitte mehr,  
 sondern **unverrückbarer Systemstandard**.

@@ -78,9 +78,9 @@ Dieses Verhältnis ist keine Partnerschaft. Es ist eine Abhängigkeit.
 Man könnte einwenden: „Der Staat gibt doch auch etwas zurück.“  
 Er gibt – aber nicht als Eigentum, sondern als **bedingte Zuteilung**.
 
-- Rentenansprüche sind Erwartungen, kein Eigentum.
-- Sozialleistungen sind politisch verhandelbar, nicht vertraglich garantiert.
-- Infrastruktur ist Nutzungsrecht auf Widerruf, kein Besitz.
+• Rentenansprüche sind Erwartungen, kein Eigentum.  
+• Sozialleistungen sind politisch verhandelbar, nicht vertraglich garantiert.  
+• Infrastruktur ist Nutzungsrecht auf Widerruf, kein Besitz.  
 
 Einzahler erwerben weder Anspruch auf konkrete Beträge noch auf unveränderbare Leistungen. Sie erwerben ein
 Versprechen – eines, das jederzeit angepasst, gekürzt oder an Bedingungen geknüpft werden kann.

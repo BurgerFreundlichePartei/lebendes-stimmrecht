@@ -58,11 +58,11 @@ Es besteht aus drei Ebenen:
 2. **Prioritäten (Ressourcenlenkung)** – Wohin sollen *meine* Steuermittel fließen?  
    Bildung, Pflege, Sicherheit, Digitalisierung, Forschungsförderung, Infrastruktur usw.
 
-3. **Vertretungslogik (Entscheidungsmodus)** – Wie soll gehandelt werden, wenn ich schweige?
+3. **Vertretungslogik (Entscheidungsmodus)** – Wie soll gehandelt werden, wenn ich schweige?  
 
-    - **explizit**: Ich stimme selbst ab.
-    - **implizit**: Das System entscheidet auf Basis meiner Wertehierarchie.
-    - **neutral**: Enthaltung ohne Einfluss.
+    • **explizit**: Ich stimme selbst ab.  
+    • **implizit**: Das System entscheidet auf Basis meiner Wertehierarchie.  
+    • **neutral**: Enthaltung ohne Einfluss.  
 
 Damit entsteht eine permanente Repräsentation ohne Teilnahmezwang:  
 **Abwesenheit ist keine Machtlücke mehr.**
@@ -70,9 +70,9 @@ Damit entsteht eine permanente Repräsentation ohne Teilnahmezwang:
 Wesentlich ist: **Der Bürger bleibt Herr über den Vertretungsmodus.**  
 Er kann festlegen:
 
-- dass er **immer persönlich** explizit entscheidet (Profil nur als Fallback),
-- dass das **Profil automatisch** entscheidet (explizite Teilnahme nur bei Ausnahmen),
-- ein **hybrides Modell**: persönlich bei Grundsatzfragen, automatisiert bei Routinefragen.
+• dass er **immer persönlich** explizit entscheidet (Profil nur als Fallback),  
+• dass das **Profil automatisch** entscheidet (explizite Teilnahme nur bei Ausnahmen),  
+• ein **hybrides Modell**: persönlich bei Grundsatzfragen, automatisiert bei Routinefragen.  
 
 Das lebende Stimmrecht bedeutet:  
 Der Bürger nimmt **immer** teil – auch ohne physische Anwesenheit oder Wahltermin.  
@@ -105,9 +105,9 @@ sondern **strukturell verankert**.
 
 Juristisch verschiebt sich der Charakter der Demokratie:
 
-- nicht mehr *periodische Legitimation*, sondern **kontinuierliche Legitimität**,
-- nicht Repräsentation auf Zeit, sondern **ständiger Anschluss des Ursprungswillens**,
-- nicht Herrschaft über Mandat, sondern **Ausführung eines lebenden Auftrags**.
+• nicht mehr *periodische Legitimation*, sondern **kontinuierliche Legitimität**,  
+• nicht Repräsentation auf Zeit, sondern **ständiger Anschluss des Ursprungswillens**,  
+• nicht Herrschaft über Mandat, sondern **Ausführung eines lebenden Auftrags**.  
 
 Dadurch entsteht keine „Algorithmendemokratie“,  
 sondern eine **willensbasierte Durchschaltung**:  
@@ -137,10 +137,10 @@ sondern der **Bürgerauftrag**.
 KI trifft keine politischen Entscheidungen –  
 sie sorgt für die **Unbestechlichkeit der Umsetzung**:
 
-- fälschungssichere Aggregation der Bürgerprofile
-- automatische Verteilung nach Prioritäten der Wähler
-- nachvollziehbare Mittelströme (öffentliches Geld-Tracking)
-- technische Verhinderung politischer Manipulation
+• fälschungssichere Aggregation der Bürgerprofile  
+• automatische Verteilung nach Prioritäten der Wähler  
+• nachvollziehbare Mittelströme (öffentliches Geld-Tracking)  
+• technische Verhinderung politischer Manipulation  
 
 KI = demokratische Abwicklung,  
 nicht politische Lenkung.
@@ -149,16 +149,16 @@ nicht politische Lenkung.
 
 ### 5. Alltagsebene – Was das für den Bürger bedeutet
 
-- Du zahlst Steuern →  
+• Du zahlst Steuern →  
   **und sie werden so verwendet, wie du es politisch willst.**
 
-- Du nimmst nicht an einer Abstimmung teil →  
+• Du nimmst nicht an einer Abstimmung teil →  
   **dein Profil übernimmt automatisch und vertritt dich.**
 
-- Du änderst deine Meinung →  
+• Du änderst deine Meinung →  
   **dein Profil aktualisiert die Richtung sofort.**
 
-- Politik kann nicht mehr dauerhaft gegen die Mehrheit regieren →  
+• Politik kann nicht mehr dauerhaft gegen die Mehrheit regieren →  
   weil die Mehrheit **ständig sichtbar** ist – nicht nur an Wahltagen.
 
 ---

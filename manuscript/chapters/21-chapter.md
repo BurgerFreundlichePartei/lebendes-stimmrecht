@@ -55,17 +55,17 @@ wenn sie **nicht entzogen werden kann**.
 ### Werkzeuge für echte Kontrolle
 
 1. **Abwahl jederzeit**  
-   – Korrekturrecht statt bloßer Zustimmung im Voraus.
+   • Korrekturrecht statt bloßer Zustimmung im Voraus.
 
 2. **Transparenz-by-default**  
-   – Einsicht ist Standard, kein Antrag nötig.
+   • Einsicht ist Standard, kein Antrag nötig.
 
 3. **Bürgerreferendum bei Widerspruch**  
-   – Wenn ein qualifizierter Anteil der Bevölkerung widerspricht,  
+   • Wenn ein qualifizierter Anteil der Bevölkerung widerspricht,  
    muss die Politik neu entscheiden.
 
 4. **Politische Zwischenbilanz**  
-   – nicht alle vier Jahre, sondern kontinuierlich überprüfbare Zielerreichung.
+   • nicht alle vier Jahre, sondern kontinuierlich überprüfbare Zielerreichung.
 
 ---
 
