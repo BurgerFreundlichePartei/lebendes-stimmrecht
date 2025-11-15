@@ -4,13 +4,13 @@
 
 ---
 
-> **Übergang:**
-> Eine Verwaltung, die dient, schützt deinen Alltag.
+> **Übergang:**  
+> Eine Verwaltung, die dient, schützt deinen Alltag.  
 > Ein Staat, der gerecht ist, schützt deine Lebensleistung.
 >
-> Wenn der Bürger im Verfahren Auftraggeber ist,
-> muss er es auch in seiner Vorsorge sein.
-> Eigentum ist keine Frage der Auszahlung –
+> Wenn der Bürger im Verfahren Auftraggeber ist,  
+> muss er es auch in seiner Vorsorge sein.  
+> Eigentum ist keine Frage der Auszahlung –  
 > sondern der Macht, die dir nicht entzogen werden darf.
 
 ---
