@@ -4,42 +4,48 @@
 
 ---
 
+> **Übergang:**  
+> Wenn der Bürger Eigentümer der Macht ist, muss Verwaltung sein Werkzeug sein –  
+> nicht sein Gatekeeper.
+
+---
+
 ### These
 
-Eine Verwaltung, die Bürger kontrolliert, blockiert Freiheit.
-Eine Verwaltung, die Bürger unterstützt, ermöglicht Freiheit.
+Eine Verwaltung, die Bürger kontrolliert, blockiert Freiheit.  
+Eine Verwaltung, die Bürger unterstützt, ermöglicht Freiheit.  
 Der Unterschied ist nicht technisch, sondern **machtlogisch**.
 
 ---
 
 ### Warum die heutige Verwaltung feindlich wirkt
 
-Sie prüft nicht, *wie sie helfen kann*,
+Sie prüft nicht, *wie sie helfen kann*,  
 sondern ob du **Anspruch hast**.
 
-Das ist ein Schuldverhältnis:
-Du bist der Bittsteller,
-der Staat der Entscheider.
+So entsteht ein Schuldverhältnis:  
+Der Bürger bittet,  
+der Staat entscheidet.
 
-Das ist kein Dienstleistungsverhältnis,
+Das ist kein Dienstleistungsverhältnis,  
 sondern ein Überordnungsverhältnis.
 
 ---
 
 ### Wie Verwaltung aussehen müsste
 
-| Heute             | Bürgerstaat                |
-|-------------------|----------------------------|
-| Antrag stellen    | Anspruch abrufen           |
-| Nachweise bringen | System holt Daten selbst   |
-| Misstrauen        | Standard: Vertrauen        |
-| Obstruktion       | Lösungspflicht             |
-| Verschleppung     | Frist mit Haftung          |
-| Undurchsichtig    | Volltransparenz-by-default |
+| Heute             | Bürgerstaat                 |
+|-------------------|-----------------------------|
+| Antrag stellen    | Anspruch abrufen            |
+| Nachweise bringen | System ruft Daten selbst ab |
+| Misstrauen        | Standard: Vertrauen         |
+| Obstruktion       | Lösungspflicht              |
+| Verschleppung     | Frist mit Haftung           |
+| Undurchsichtig    | Transparenz-by-default      |
 
-Der Staat **weiß** alles über den Bürger –
-aber zwingt den Bürger, alles erneut zu beweisen.
-Das ist nicht Schutz, das ist Macht.
+Der Staat **kennt** die Daten des Bürgers –  
+zwingt ihn aber, alles erneut zu beweisen.  
+Das ist nicht Schutz, sondern Machtausübung.
 
 ---
 
@@ -53,54 +59,57 @@ Eine bürgergelenkte Verwaltung hätte:
 4. **klare Bearbeitungsfristen mit Rechtsfolgen bei Verzug**
 5. **Rückzahlungspflicht bei Fehlbearbeitung der Behörde**
 
-Behörde = Servicecenter
+Behörde = Servicecenter,  
 nicht Kontrollinstanz.
 
 ---
 
 ### Der zentrale Systemwechsel
 
-Heute:
-Du musst dich **rechtfertigen**, um Hilfe zu bekommen.
+Heute:  
+Der Bürger muss sich **rechtfertigen**, um Hilfe zu bekommen.
 
-Bürgerstaat:
+Bürgerstaat:  
 Der Staat muss sich **rechtfertigen**, wenn er nicht hilft.
 
 ---
 
 ### Psychologische Wirkung
 
-Wenn der Bürger unterstützt wird,
-kann er Verantwortung übernehmen.
+Wer unterstützt wird,  
+kann Verantwortung übernehmen.
 
-Wenn er behindert wird,
-wird er abhängig oder erschöpft.
+Wer behindert wird,  
+wird abhängig oder erschöpft.
 
-Freiheit entsteht nicht durch „Erlaubnis“,
+Freiheit entsteht nicht durch „Erlaubnis“,  
 sondern durch **Barrierefreiheit**.
 
 ---
 
-## **Schlussverdichtung**
+## Schlussverdichtung
 
-Eine Verwaltung, die geprüft werden muss, bevor sie hilft, dient nicht dem Menschen, sondern ihrer eigenen Existenz.
-Sie verwaltet Ansprüche, statt sie auszulösen. Sie bewertet Bürger, statt ihnen zu dienen.
-Nicht Bedarf bestimmt den Vorgang, sondern die Pflicht des Bürgers, sich als würdig zu beweisen.
+Eine Verwaltung, die geprüft werden muss, bevor sie hilft, dient nicht dem Menschen,  
+sondern ihrer eigenen Existenz.  
+Sie verwaltet Ansprüche, statt sie auszulösen.  
+Sie bewertet Bürger, statt ihnen zu dienen.
 
-Service, der verteidigt werden muss, ist kein Service.
-Hilfe, die erkämpft werden muss, ist kein Recht.
-Und Unterstützung, die an Misstrauen gebunden ist, ist kein Gemeinwesen, sondern administrative Vorranglogik.
+Service, der erkämpft werden muss, ist kein Service.  
+Hilfe, die an Misstrauen gebunden ist, ist kein Recht.  
+Unterstützung, die zuerst Beweise verlangt, ist keine Solidarität,  
+sondern administrative Machtlogik.
 
-Wo der Staat Dienst verspricht, aber Berechtigung prüft, entsteht kein Vertrauen, sondern Unterordnung.
-Der Bürger wird nicht unterstützt, sondern gefiltert. Nicht begleitet, sondern bewertet.
-Er arbeitet nicht mit dem Staat, sondern gegen seine Hürden.
+Wo der Staat Dienst verspricht, aber Berechtigung prüft,  
+entsteht kein Vertrauen, sondern Unterordnung.  
+Der Bürger wird gefiltert, nicht begleitet.
 
-Rechte, die Antragsbedingungen brauchen, sind formal, nicht real.
-Eine Ordnung, die Beweise verlangt, bevor sie Pflichten erfüllt, verwechselt Schutz mit Kontrolle und Service mit
-Schikane.
+Rechte, die Antragsbedingungen brauchen, sind formal – nicht real.  
+Eine Ordnung, die Beweise verlangt, bevor sie Pflichten erfüllt,  
+verwechselt Schutz mit Kontrolle und Service mit Schikane.
 
-Ein Staat, der helfen will, liefert ohne Kampf.
-Ein Staat, der dominiert, definiert zunächst die Hürde und nennt sie Ordnung.
+Ein Staat, der helfen will, liefert ohne Kampf.  
+Ein Staat, der dominiert, definiert die Hürde und nennt sie Ordnung.
 
-Solange Verwaltung Zugang kontrolliert statt Leistung erbringt, bleibt der Bürger Untertan im Verfahren, nicht
-Auftraggeber im System.
+Solange Verwaltung Zugang kontrolliert statt Leistung erbringt,  
+bleibt der Bürger Untertan im Verfahren –  
+nicht Auftraggeber im System.
