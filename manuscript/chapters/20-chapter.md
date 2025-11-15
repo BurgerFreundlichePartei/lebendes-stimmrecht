@@ -6,8 +6,8 @@
 
 > **Übergang:**  
 > Wenn Politik nicht mehr Beute, sondern Verantwortung ist,  
-> muss diese Verantwortung auch rechtlich und materiell wirken:  
-> Ein Staat ohne eigenes Risiko bleibt immer Versuchslabor – nie Vertragspartner auf Augenhöhe.
+> muss diese Verantwortung auch rechtlich und materiell greifen:  
+> Ein Staat ohne eigenes Risiko bleibt Versuchslabor – nie Vertragspartner auf Augenhöhe.
 
 ---
 
@@ -17,7 +17,7 @@ Heute trägt *ausschließlich* der Bürger Risiko:
 wirtschaftlich, rechtlich, sozial.
 
 Der Staat und seine Funktionsträger tragen **kein persönliches Risiko** –  
-und genau deshalb können sie folgenlos falsch oder gegen die Bürger handeln.
+und genau deshalb können sie folgenlos falsch oder sogar gegen die Bürger handeln.
 
 Ein gerechter Staat braucht **Mithaftung**.  
 Ohne sie gibt es keine echte Verantwortung.
@@ -33,7 +33,7 @@ Ohne sie gibt es keine echte Verantwortung.
 | Verzögerung / Fehler     | Bürger verliert | Staat entschuldigt             |
 | Reformbedarf             | Bürger zahlt    | Staat entscheidet sich dagegen |
 
-Die Botschaft ist indirekt, aber eindeutig:
+Die Botschaft ist unausgesprochen, aber eindeutig:
 
 > „Wir dürfen irren – ihr müsst zahlen.“
 
@@ -41,13 +41,13 @@ Die Botschaft ist indirekt, aber eindeutig:
 
 ### Wie es im Bürgerstaat funktioniert
 
-| Prinzip           | Umsetzung                                              |
-|-------------------|--------------------------------------------------------|
-| Haftung nach oben | Staat trägt Folgen seines Handelns                     |
-| Rückwirkung       | Bürger können Entscheidungen kippen                    |
-| Regress           | Offizielle werden haftbar bei grober Pflichtverletzung |
-| Sorgfaltspflicht  | Dokumentation + KI sichern Nachweisbarkeit             |
-| Risiko-Symmetrie  | Bürger und Staat teilen Konsequenzen                   |
+| Prinzip              | Umsetzung                                                      |
+|----------------------|----------------------------------------------------------------|
+| Haftung nach oben    | Staat trägt Folgen seines Handelns selbst                      |
+| Rückwirkung          | Bürger können fehlerhafte Entscheidungen kippen                |
+| Persönlicher Regress | Funktionsträger haften bei grober Pflichtverletzung persönlich |
+| Sorgfaltspflicht     | Dokumentation + KI sichern Nachweisbarkeit                     |
+| Risiko-Symmetrie     | Bürger und Staat teilen Konsequenzen                           |
 
 ---
 
@@ -57,23 +57,24 @@ Macht ohne Risiko erzeugt **Beliebigkeit**.
 Macht mit Risiko erzwingt **Verantwortung**.
 
 Heute wird Politik **ohne Einsatz** gespielt.  
-Im Bürgerstaat muss sie **unter Einsatz** geführt werden.
+Im Bürgerstaat muss sie **unter Einsatz** geführt werden –  
+mit der Möglichkeit, zu verlieren, wenn man falsch entscheidet.
 
 ---
 
-### Rolle der KI
+### Rolle der KI – Beweisarchiv statt Richter
 
 KI ist hier nicht Entscheidungsträger,  
 sondern **Beweisarchiv**:
 
-1. Jede Entscheidung ist nachvollziehbar.
-2. Jede Abweichung ist prüfbar.
-3. Jede Verschleierung wird erschwert.
-4. Jeder Schaden bleibt rückverfolgbar.
-5. Bürger können auf Basis der Daten Revision einleiten.
+1. Jede Entscheidung ist transparent nachvollziehbar.
+2. Jede Abweichung bleibt prüfbar.
+3. Jede Verschleierung wird technisch erschwert.
+4. Jeder Schaden lässt sich zurückverfolgen.
+5. Bürger können auf Basis dieser Daten Revision einleiten.
 
 So entsteht echte Kontrollmacht:  
-Nicht gefühlte „Demokratie“,  
+Nicht nur gefühlte „Demokratie“,  
 sondern dokumentierte **Rechenschaft**.
 
 ---
@@ -98,7 +99,8 @@ und Macht ohne Konsequenz folgt nicht der Vernunft, sondern der Bequemlichkeit.
 
 Solange Fehler kollektiv bezahlt, aber individuell verursacht werden,  
 bleibt Politik ein folgenloses Experiment auf Kosten derer, die sich nicht entziehen können.  
-Haftung trennt Entscheidung von Beliebigkeit und Verantwortung von persönlicher Vorteilssicherung.  
+Haftung trennt Entscheidung von Beliebigkeit  
+und Verantwortung von persönlicher Vorteilssicherung.  
 Ohne Haftung verliert jedes Amt sein Maß.
 
 Ein System, das Risiken nach unten durchreicht, produziert Gehorsam, nicht Führung.  
@@ -115,4 +117,4 @@ Nur wer nicht geschützt ist, kann dienen.
 Ein Staat, der Verantwortung teilt statt sie abzuwälzen,  
 erkennt den Bürger als Ursprung – nicht als Polster.  
 Dort, wo Herrschaft Risiko trägt,  
-gewinnt Recht seine Bedeutung zurück.
+gewinnt Recht seine ursprüngliche Bedeutung zurück.
