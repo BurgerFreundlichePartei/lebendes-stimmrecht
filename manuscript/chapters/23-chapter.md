@@ -44,7 +44,8 @@ Das lebende Stimmrecht darf niemals als Katalog der Andersdenkenden erscheinen.
 
 • **Keine Einsicht durch den Staat** – individuelle Profile bleiben vollständig privat  
 • **Kryptographische Anonymisierung** – nur aggregierte Signale, nie Einzelpräferenzen  
-• **Unabänderlichkeit durch Signaturen** – Bürger kontrollieren ihr Profil selbst; Änderungen sind nachprüfbar, aber nicht auslesbar  
+• **Unabänderlichkeit durch Signaturen** – Bürger kontrollieren ihr Profil selbst; Änderungen sind nachprüfbar, aber
+nicht auslesbar  
 • **Verfassungsrechtliche Sicherung** – Missbrauch ist nicht nur verboten, sondern strafbar mit Verfassungsrang  
 • **Technische Transparenz** – Algorithmen zur Aggregation sind öffentlich, prüfbar und auditierbar – niemals geheim
 
@@ -61,7 +62,7 @@ Diese Prinzipien bilden den Kern der Schutzarchitektur.
 
 **B. Anonyme Identitätsschicht**
 
-• Starke Authentifizierung (z. B. DID-Konzepte) ohne Offenlegung politischer Präferenzen.  
+• Starke Authentifizierung (z. B. DID-Konzepte) ohne Offenlegung politischer Präferenzen.  
 • Identität und politische Haltung sind technisch und logisch getrennt.  
 • Authentifizierung ≠ Offenlegung.
 
@@ -82,7 +83,7 @@ nur ein gesetzlich begrenztes, ephemeres Speicherfenster ist zulässig.
 **E. Föderierte Infrastruktur**
 
 • Keine zentrale Profil-Datenbank.  
-• Verteilte, vertrauensgeteilte Architektur (z. B. Bürger-Wallets + dezentrale Aggregatoren) –  
+• Verteilte, vertrauensgeteilte Architektur (z. B. Bürger-Wallets + dezentrale Aggregatoren) –  
 reduziert Zielscheiben für staatliche oder institutionelle Angriffe.
 
 **F. Vollständige Auditierbarkeit**
@@ -100,7 +101,8 @@ können Korrektheit verifizieren – **ohne Einzelprofile zu sehen**.
 Das lebende Stimmrecht und die Unzugänglichkeit individueller Profile erhalten Verfassungsrang.
 
 • **Strenge Zweckbindung & Verbotsnormen**  
-Politische Profile dürfen niemals für Verwaltungszwecke, Strafverfolgung, Berufsauflagen, Überwachungsmaßnahmen oder Scoring genutzt werden.
+Politische Profile dürfen niemals für Verwaltungszwecke, Strafverfolgung, Berufsauflagen, Überwachungsmaßnahmen oder
+Scoring genutzt werden.
 
 • **Unabhängige Kontrollbehörde**  
 Eine entkoppelte, eigenständige Aufsichtsbehörde mit Prüf- und Sanktionsbefugnissen –  
@@ -123,7 +125,7 @@ Weder technisch noch organisatorisch existiert ein Punkt, an dem Profilwissen zu
 Kryptographische Schlüssel liegen ausschließlich auf Bürgerseite.
 
 • **Nur Mehrheits-Signale sichtbar**  
-Behörden erhalten nur signalisierte Entscheidungen (z. B. „Mehrheit unterstützt Projekt X“) –  
+Behörden erhalten nur signalisierte Entscheidungen (z. B. „Mehrheit unterstützt Projekt X“) –  
 niemals individuelle Präferenzen.
 
 • **Schwellwert-Regeln**  
@@ -132,7 +134,7 @@ sondern einem menschlichen Revisionsmechanismus unterstellt –
 um Rückschlüsse auf Minderheiten zu verhindern.
 
 • **Blinde Protokolle für Ausnahmen**  
-Jede Ausnahme (z. B. Sicherheitsintervention) muss öffentlich begründet,  
+Jede Ausnahme (z. B. Sicherheitsintervention) muss öffentlich begründet,  
 gerichtlich genehmigt und im System reversibel dokumentiert werden.
 
 ---
@@ -173,8 +175,10 @@ reduziert das Risiko, dass Angst, Bequemlichkeit oder Ideologie den Schutz aushe
 > • Das lebende Stimmrecht ist ein dauerhaftes politisches Beteiligungsrecht jedes Bürgers.  
 > • Individuelle politische Präferenzen und Profile sind dem Staat inhaltlich nicht zugänglich.  
 > • Die Teilnahme an politischen Entscheidungen erfolgt anonymisiert und darf keiner Person zugeordnet werden.  
-> • Eine Identifikation politischer Haltung zu Zwecken der Überwachung, Diskriminierung oder Repression ist verfassungswidrig.  
-> • Jede Erhebung, Speicherung oder Auswertung individueller politischer Profile durch staatliche Stellen ist verboten und strafbar.  
+> • Eine Identifikation politischer Haltung zu Zwecken der Überwachung, Diskriminierung oder Repression ist
+> verfassungswidrig.  
+> • Jede Erhebung, Speicherung oder Auswertung individueller politischer Profile durch staatliche Stellen ist verboten
+> und strafbar.  
 > • Die Bürger kontrollieren den Staat; der Staat kontrolliert niemals ihre Gesinnung.
 
 Mit diesem einen Artikel ist jede spätere Missbrauchsmöglichkeit verfassungsrechtlich blockiert.
@@ -247,9 +251,9 @@ Ein Staat, der es weiß,
 kann wählen, ob er es tut.
 
 Solange Profilwissen möglich ist, bleibt Freiheit kontingent.  
-Unkenntnis deiner politischen Identität  
-ist nicht Nebenbedingung, sondern Fundament einer Ordnung,  
+Unkenntnis deiner politischen Identität ist kein Detail,  
+sondern das Fundament einer Ordnung,  
 die Menschen schützt, bevor sie Interessen schützt.
 
-Freiheit existiert nicht durch Wohlwollen der Macht,  
-sondern durch die Unzugänglichkeit des Einzelnen.
+Freiheit besteht nicht im Wohlwollen der Macht,
+sondern in der Unzugänglichkeit des Einzelnen.
