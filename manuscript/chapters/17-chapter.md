@@ -4,9 +4,14 @@
 
 ---
 
-> **Übergang:**  
-> Wenn Verwaltung Dienstleistung ist, muss Vorsorge Eigentum sein.  
-> Denn ein Staat, der dir gehört, darf deine Lebensleistung nicht verwalten – nur sichern.
+> **Übergang:**
+> Eine Verwaltung, die dient, schützt deinen Alltag.
+> Ein Staat, der gerecht ist, schützt deine Lebensleistung.
+>
+> Wenn der Bürger im Verfahren Auftraggeber ist,
+> muss er es auch in seiner Vorsorge sein.
+> Eigentum ist keine Frage der Auszahlung –
+> sondern der Macht, die dir nicht entzogen werden darf.
 
 ---
 
