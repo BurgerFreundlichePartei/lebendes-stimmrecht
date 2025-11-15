@@ -4,25 +4,31 @@
 
 ---
 
+> **Übergang:**  
+> Wenn Verwaltung Dienstleistung ist, muss Vorsorge Eigentum sein.  
+> Denn ein Staat, der dir gehört, darf deine Lebensleistung nicht verwalten – nur sichern.
+
+---
+
 ### These
 
-Ein Staat, der den Bürger schützt, darf seine Lebensleistung nicht verschwinden lassen.
-Rente muss **Eigentum** sein – nicht verwalteter Anspruch.
+Ein Staat, der den Bürger schützt, lässt seine Lebensleistung nicht verschwinden.  
+Rente muss **Eigentum** sein – nicht verwalteter Anspruch.  
 Das bedeutet: vererbbar, transparent, verfügbar.
 
 ---
 
 ### Warum das heutige System falsch konstruiert ist
 
-Die gesetzliche Rente behandelt Beiträge wie Steuern, nicht wie Ersparnisse.
+Die gesetzliche Rente behandelt Beiträge wie Steuern, nicht wie Ersparnisse.  
 Du zahlst ein Leben lang – besitzt aber nichts.
 
-Die Folge:
+Das Ergebnis:
 
 * Stirbst du früher → Gewinn für den Staat
 * Überlebst du zu lange → Belastung für den Staat
 
-Ein System, das vom Tod profitiert,
+Ein System, das vom Tod profitiert,  
 ist kein Sozialsystem, sondern ein Bilanzsystem.
 
 ---
@@ -41,68 +47,68 @@ ist kein Sozialsystem, sondern ein Bilanzsystem.
 
 ### Rolle der KI im Bürgerstaat
 
-KI ermöglicht **Transparenz + Fairness**, statt Bürokratie + Verschleppung.
+KI schafft **Transparenz und Verfügbarkeit**,  
+statt Bürokratie und Verschleppung.
 
-Konkreter Nutzen:
+• **Echtzeit-Rentenbilanz**  
+Klare Eigentumsübersicht – jederzeit abrufbar.
 
-• **Echtzeit-Rentenübersicht**
-Jeder Bürger sieht seine Ansprüche 24/7 – nicht Schätzung, sondern Bilanz.
+• **Automatische Vererbbarkeit**  
+Beim Tod → sofortige Übertragung ohne Antrag.
 
-• **Automatische Vererbbarkeit**
-Beim Tod → automatische Übertragung an Erben, ohne Antrag, ohne Streit.
+• **Individuelle Absicherung statt Zwangskollektiv**  
+Fair berechnet – frei verfügbar.
 
-• **Individuelle Absicherung statt Pflichtkollektiv**
-KI berechnet faire Beiträge, ohne starre Einheitslogik.
-
-• **Bürgerentlastung, nicht Kontrolle**
-KI ersetzt nicht Menschen – sie ersetzt Bürokratie.
+• **Entlastung statt Kontrolle**  
+KI ersetzt nicht Menschen, sondern Verfahren.
 
 ---
 
 ### KI als Werkzeug, nicht Überwacher
 
-| Falsches Modell (heute befürchtet) | Richtiges Modell (Bürgerstaat) |
-|------------------------------------|--------------------------------|
-| KI zur Überwachung                 | KI zur **Entlastung**          |
-| Kontrolle                          | Befähigung                     |
-| Daten gegen Bürger                 | Daten **für** Bürger           |
-| Staatsmacht                        | Bürgerkompetenz                |
+| Fehlmodell heute   | Bürgerstaat-Modell   |
+|--------------------|----------------------|
+| Überwachung        | Entlastung           |
+| Kontrolle          | Befähigung           |
+| Daten gegen Bürger | Daten **für** Bürger |
+| Staatsmacht        | Bürgerkompetenz      |
 
-KI senkt Hürden
-→ Bürokratie verliert Macht
-→ Bürger gewinnt Zugriff
+Weniger Hürden → weniger Macht der Verwaltung → mehr Zugriffsmacht des Bürgers.
 
 ---
 
 ### Ergebnis
 
-Die Lebensleistung eines Menschen endet nicht mit ihm.
+Die Lebensleistung eines Menschen endet nicht mit ihm.  
 Sie gehört **seiner Familie**, nicht dem Staat.
 
-Rente = Vermögen
+Rente ist Vermögen –  
 nicht Prepaid-Zustimmung.
 
 ---
 
-## **Schlussverdichtung**
+## Schlussverdichtung
 
-Ein Vorsorgesystem, das Beiträge fordert, aber kein Eigentum anerkennt, sichert nicht die Zukunft des Bürgers, sondern
-die Liquidität des Staates.
-Es nennt die Einzahlung Pflicht, den Anspruch aber Gnade.
-Das ist kein Sozialmodell, sondern eine Umlenkung von Verantwortung weg vom Staat hin zum Individuum, ohne dessen Rechte
-zu stärken.
+Ein Vorsorgesystem, das Beiträge fordert, aber kein Eigentum anerkennt, sichert nicht die Zukunft des Bürgers,  
+sondern die Liquidität des Staates.  
+Es nennt die Einzahlung Pflicht, den Anspruch aber Gnade.  
+Das ist kein Sozialmodell, sondern eine Umlenkung von Verantwortung –  
+weg vom Staat, hin zum Individuum, ohne dessen Rechte zu stärken.
 
-Solange Altersvorsorge nicht dir gehört, sondern nur geduldet wird, bist du nicht versorgt, sondern abhängig.
-Solange dein Vermögen mit dir endet, war es niemals dein Vermögen.
-Ein Recht, das stirbt, lohnt das Leben nicht.
-Und wer seine Zukunft nur solange besitzt, wie er keine Kosten verursacht, lebt nicht in einem solidarischen System,
-sondern in einem Abrechnungsmechanismus.
+Solange Altersvorsorge nicht dir gehört, bist du nicht versorgt, sondern abhängig.  
+Solange dein Vermögen mit dir endet, war es nie dein Vermögen.
 
-Eigentum beginnt dort, wo der Staat nicht zugreifen kann.
-Absicherung beginnt dort, wo deine Lebenszeit nicht verfallen kann.
+Ein Recht, das stirbt, lohnt das Leben nicht.  
+Wer seine Zukunft nur so lange besitzt, wie er keine Kosten verursacht,  
+lebt nicht in Solidarität, sondern in einem Abrechnungsmechanismus.
+
+Eigentum beginnt dort, wo der Staat nicht zugreifen kann.  
+Absicherung beginnt dort, wo deine Lebenszeit nicht verfällt.  
 Würde beginnt dort, wo Alter nicht Risiko ist, sondern Anerkennung gelebter Jahre.
 
-Ein System, das deine Arbeit nimmt, aber deinen Anspruch löscht, hat sich nie als Dienstleister verstanden.
-Es war Verwerter, von Anfang an.
+Ein System, das deine Arbeit nimmt, aber deinen Anspruch löscht,  
+hat sich nie als Dienstleister verstanden.  
+Es war Verwerter – von Anfang an.
 
-Solange deine Vorsorge nicht vererbbar ist, bist du Ressource, nicht Eigentümer deines Lebenswegs.
+Solange Vorsorge nicht vererbbar ist,  
+bist du Ressource – nicht Eigentümer deines Lebenswegs.
