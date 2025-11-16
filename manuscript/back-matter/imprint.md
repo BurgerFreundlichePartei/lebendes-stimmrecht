@@ -14,6 +14,10 @@ wissenschaftlichen Arbeiten.
 **Kontakt:**  
 asteri.raptis@gmail.com
 
+**KI-Unterstützung:**  
+Ausgewählte Entwürfe und redaktionelle Unterstützung erfolgten mit Hilfe von KI-Tools. Der gesamte Inhalt wurde vom
+Autor überprüft und finalisiert.
+
 **Haftungsausschluss:**  
 Dieses Buch dient ausschließlich Bildungszwecken und stellt keine rechtliche, finanzielle, medizinische oder
 professionelle Beratung dar. Autor und Verlag übernehmen keine Verantwortung für Fehler oder Auslassungen oder für
@@ -21,10 +25,6 @@ Folgen, die sich aus der Nutzung der hierin enthaltenen Informationen ergeben.
 
 **Markenzeichen:**  
 Alle Produktnamen, Logos und Marken sind Eigentum der jeweiligen Inhaber und dienen ausschließlich der Identifizierung.
-
-**KI-Unterstützung:**  
-Ausgewählte Entwürfe und redaktionelle Unterstützung erfolgten mit Hilfe von KI-Tools. Der gesamte Inhalt wurde vom
-Autor überprüft und finalisiert.
 
 <figure class="logo">
   <img src="assets/logo/conscious-path-publishing-logo.png" 

@@ -2,56 +2,56 @@
 
 ### TEIL III – *Die Rückkehr in den Menschen*
 
-Ein neuer Staat beginnt nicht im Gesetz,
+Ein neuer Staat beginnt nicht im Gesetz,  
 sondern im Bewusstsein des Bürgers.
 
-Denn solange der Mensch sich selbst nur als „Verwalteten“ sieht,
-kann keine Ordnung entstehen,
+Denn solange der Mensch sich selbst nur als „Verwalteten“ sieht,  
+kann keine Ordnung entstehen,  
 in der er wieder Ursprung ist.
 
-Teil III beschreibt nicht das System,
+Teil III beschreibt nicht das System,  
 sondern den **inneren Positionswechsel**:
 
-Von:
-„Ich bitte um Rechte“
-zu
+Von:  
+„Ich bitte um Rechte“  
+zu  
 „Ich übe sie aus.“
 
-Von:
-„Der Staat entscheidet über mich“
-zu
+Von:  
+„Der Staat entscheidet über mich“  
+zu  
 „Der Staat arbeitet für mich.“
 
-Von:
-„Ich bin Objekt“
-zu
+Von:  
+„Ich bin Objekt“  
+zu  
 **„Ich bin Auftraggeber.“**
 
 ---
 
-Dieser Abschnitt ist nicht politisch,
+Dieser Abschnitt ist nicht politisch,  
 sondern zivilisatorisch.
 
-Er beantwortet nicht die Frage:
-„Wie regiert der Staat?“
-sondern:
-**„Welchen Menschen setzt dieses System voraus?“**
+Er beantwortet nicht die Frage:  
+„Wie regiert der Staat?“  
+sondern:  
+**„Welchen Menschen setzt dieser Staat voraus?“**
 
-Denn Souveränität ist kein Gesetz,
+Souveränität ist kein Gesetzestext,  
 sie ist ein Selbstbild.
 
-Kein Bürgerstaat kann stabil existieren,
-solange Menschen weiterhin glauben,
-Freiheit sei ein Entgegenkommen
+Kein Bürgerstaat kann stabil existieren,  
+solange Menschen weiterhin glauben,  
+Freiheit sei ein Entgegenkommen  
 und nicht ihr Eigentum.
 
-Wer sich selbst nicht als Ursprung sieht,
+Wer sich selbst nicht als Ursprung sieht,  
 kann die Welt nicht aus diesem Ursprung heraus gestalten.
 
-Darum ist der letzte Abschnitt
-kein Ausblick nach außen,
-sondern ein Rückblick nach innen:
-auf die Rückgabe von Selbstzugehörigkeit,
+Darum ist der letzte Abschnitt  
+kein Ausblick nach außen,  
+sondern ein Rückblick nach innen:  
+auf die Rückgabe von Selbstzugehörigkeit,  
 und damit von Freiheit.
 
 ---
@@ -62,63 +62,65 @@ und damit von Freiheit.
 
 ---
 
-Wir sind nicht an einem politischen Wendepunkt.
+Wir sind nicht an einem politischen Wendepunkt.  
 Wir sind an einem zivilisatorischen Wendepunkt.
 
-Denn der wahre Gegensatz war nie:
-links gegen rechts,
-arm gegen reich,
+Denn der wahre Gegensatz war nie:  
+links gegen rechts,  
+arm gegen reich,  
 Zivilgesellschaft gegen Regierung.
 
-Der wahre Gegensatz war immer nur:
-**Bürger als Subjekt**
-oder
+Der wahre Gegensatz war immer nur:  
+**Bürger als Subjekt**  
+oder  
 **Bürger als Verfügungsmasse**.
 
-Das alte System hat uns verwaltet.
-Der Bürgerstaat macht uns wieder **eigene Quelle**,
+Das alte System hat uns verwaltet.  
+Der Bürgerstaat macht uns wieder **eigene Quelle**,  
 nicht steuerbares Objekt.
 
-Der Wandel beginnt nicht am Gesetz –
+Der Wandel beginnt nicht am Gesetz –  
 er beginnt am Selbstwert.
 
-Wenn ein Mensch begreift,
-dass er nicht kontrolliert werden muss,
-sondern gefragt werden müsste,
+Wenn ein Mensch begreift,  
+dass er nicht kontrolliert werden muss,  
+sondern gefragt werden müsste,  
 endet die Logik der Unterwerfung.
 
 ---
 
-Freiheit ist kein Geschenk.
-Freiheit ist auch keine Verhandlung.
-Freiheit ist **Rückgabe von Souveränität**,
-dort, wo sie immer hingehörte:
+Freiheit ist kein Geschenk.  
+Freiheit ist auch keine Verhandlung.  
+Freiheit ist **Rückgabe von Souveränität**,  
+dort, wo sie immer hingehörte:  
 beim Menschen selbst.
 
-Der Bürgerstaat ist kein neues System.
-Er ist die Rückkehr zu etwas,
-das immer hinter jeder Verfassung stand,
+Der Bürgerstaat ist kein neues System.  
+Er ist die Rückkehr zu etwas,  
+das immer hinter jeder Verfassung stand,  
 aber nie eingelöst wurde:
 
-> Dass der Mensch Träger von Würde ist –
+> Dass der Mensch Träger von Würde ist –  
 > und der Staat davon nur ein Werkzeug.
 
-Der Staat ist nicht Ersatz für Verantwortung,
+Der Staat ist nicht Ersatz für Verantwortung,  
 sondern Ausdruck der Bürgerwürde.
 
-Ein System ist erst frei,
-wenn der Mensch nicht mehr kontrolliert wird,
+Ein System ist erst frei,  
+wenn der Mensch nicht mehr kontrolliert wird,  
 sondern **anerkannt wird**.
 
 ---
 
-> Freiheit ist kein modernes Konzept – sie ist ein alter Preis.
-> Generationen vor uns haben sie mit ihrem Leben verteidigt.
-> Millionen sind gestorben, nicht für Wohlstand, nicht für Komfort,
+> Freiheit ist kein modernes Konzept – sie ist ein alter Preis.  
+> Generationen vor uns haben sie mit ihrem Leben verteidigt.  
+> Millionen sind gestorben, nicht für Wohlstand, nicht für Komfort,  
 > sondern für **das Recht, sich selbst zu gehören**.
 >
-> Wer Freiheit verliert, verliert nicht Politik –
+> Wer Freiheit verliert, verliert nicht Politik –  
 > er verliert **sich selbst**.
+
+---
 
 # Manifest {#-manifest}
 
@@ -137,9 +139,9 @@ sondern **anerkannt wird**.
 
 ### Abschlusssatz
 
-> „Wir erschaffen keinen neuen Staat –
-> wir beenden den alten,
-> indem wir zum ersten Mal
+> „Wir erschaffen keinen neuen Staat –  
+> wir beenden den alten,  
+> indem wir zum ersten Mal  
 > wirklich Bürger werden.“
 
 ---

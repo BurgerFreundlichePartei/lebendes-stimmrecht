@@ -179,7 +179,6 @@ def run_init_book_project(
         "manuscript/front-matter/toc_print_edition.md",
         "manuscript/back-matter/about-the-author.md",
         "manuscript/back-matter/acknowledgments.md",
-        "manuscript/back-matter/bibliography.md",
         "manuscript/back-matter/epilogue.md",
         "manuscript/back-matter/glossary.md",
         "config/amazon-kdp-info.md",

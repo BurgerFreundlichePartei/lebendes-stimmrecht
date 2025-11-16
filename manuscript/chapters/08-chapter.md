@@ -22,7 +22,7 @@ nicht mündig.
 
 Sie ersetzt Lösung durch Prüfung,  
 Zugang durch Verzögerung,  
-Anspruch durch Misstrauen.  
+Anspruch durch Misstrauen.
 
 | Vorgang     | Ergebnis             |
 |-------------|----------------------|
@@ -60,31 +60,51 @@ politisch nützlich ist.
 
 Ein erschöpfter Bürger fordert nichts,  
 kontrolliert nichts,  
-und wehrt sich nicht.
+wehrt sich nicht.
 
 Bürokratie ist daher keine Panne –  
 sondern **Schutzschild der Macht**.
 
 ---
 
-## **Schlussverdichtung**
+## Schlussverdichtung
 
-Bürokratie behauptet, Ordnung zu schaffen, doch sie erzeugt vor allem Abstand zwischen Mensch und Recht.
-Sie schützt nicht vor Willkür, sondern tarnt sie.
-Wer Anträge stellen muss, bittet nicht um Leistung, sondern um Anerkennung seiner Existenz im System.
+Bürokratie behauptet, Ordnung zu schaffen –  
+doch sie erzeugt vor allem Abstand zwischen Mensch und Recht.  
+Sie schützt nicht vor Willkür,  
+sondern tarnt sie.
 
-Nicht Hilfe wird geprüft, sondern Berechtigung.
-Nicht Bedürfnis zählt, sondern Formularlogik.
-Und wer müde wird, hat nicht verloren, sondern wurde besiegt wie vorgesehen: durch Erschöpfung statt Verbot.
+Wer Anträge stellen muss,  
+bittet nicht um Hilfe,  
+sondern darum, als Mensch gesehen zu werden.
 
-Bürokratie ist die höfliche Form der Verweigerung.
-Sie nimmt dem Bürger nicht seine Rechte, sondern die Kraft, sie zu nutzen.
-So entsteht Unterordnung ohne Gewalt und Akzeptanz ohne Zustimmung.
+Nicht Bedürfnis zählt,  
+sondern Formularlogik.  
+Nicht Hilfe wird geprüft,  
+sondern Berechtigung.
 
-Ein Staat, der dich erst zermürbt, bevor er dir gibt, was dir zusteht, schützt nicht Recht, sondern seine Distanz zu
-dir.
-Er macht aus Anspruch Ermessensspielraum und aus Würde Verwaltungsvorgang.
+Und wer müde wird, hat nicht verloren –  
+er wurde besiegt, wie vorgesehen:  
+durch Erschöpfung, nicht durch Verbot.
 
-Wo das Recht Papierarbeit braucht, ist der Mensch bereits Objekt.
-Und ein System, das auf Erschöpfung baut, existiert nicht zur Ordnung der Freiheit, sondern zur Organisation der
-Unterwerfung.
+Bürokratie ist die höfliche Form der Verweigerung.  
+Sie nimmt dem Bürger nicht seine Rechte,  
+sondern die Kraft, sie zu nutzen.
+
+So entsteht Unterordnung ohne Gewalt  
+und Akzeptanz ohne Zustimmung.
+
+Ein Staat, der dich erst zermürbt,  
+bevor er dir gibt, was dir zusteht,  
+schützt nicht Recht,  
+sondern seine Distanz zu dir.
+
+Er verwandelt Anspruch in Spielraum für Entscheidungen  
+und Würde in einen Aktenordner.
+
+Wo das Recht Papierarbeit braucht,  
+ist der Mensch bereits Objekt.
+
+Ein System, das auf Erschöpfung baut,  
+existiert nicht zur Ordnung der Freiheit,  
+sondern zur Organisation der Unterwerfung.
