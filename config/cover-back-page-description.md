@@ -8,7 +8,7 @@ Dieses Buch zeigt, warum Reformen scheitern und warum ein Bürgerstaat nicht aus
 einem anderen Machtverhältnis.  
 Autorität wird nicht übertragen, sondern behalten.
 
-Im Zentrum steht das lebende Stimmrecht:
+Im Zentrum steht das lebende Stimmrecht:  
 eine dauerhafte, individuelle und aktive Form politischer Mitbestimmung, die nicht übertragbar, nicht einfrierbar und
 nicht entziehbar ist. Entscheidungen bleiben direkt, anonym und überprüfbar, ohne Parteienfilter.
 
