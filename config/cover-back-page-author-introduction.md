@@ -1,8 +1,8 @@
-Asterios Raptis ist Autor und Systemanalytiker. Er entwickelt Modelle für einen Staat, der dem Menschen dient statt ihn
-zu verwalten.
+Asterios Raptis ist Autor, Systemarchitekt und Analytiker politischer Strukturen.
+Er entwickelt Modelle für eine Ordnung, in der der Staat nicht verwaltet, sondern dient, und in der der Bürger Ursprung
+politischer Autorität bleibt.
 
-Als Gründer von **BFREI** setzt er sich für eine politische Kultur ein, in der Macht Verantwortung bleibt und der Bürger
-Ursprung staatlicher Autorität ist.
-
-Seine Arbeit verbindet Philosophie mit Praxis und richtet sich an Menschen, die Selbstbestimmung und Würde als Grundlage
-echter Souveränität verstehen.
+Als Gründer von **BFREI** arbeitet er an einer politischen Kultur, in der Macht nicht akkumuliert, sondern gebunden
+wird.  
+Seine Bücher verbinden philosophische Klarheit mit praktischen Mechanismen und richten sich an Leserinnen und Leser, die
+Freiheit, Verantwortung und Würde als Grundlage echter Souveränität verstehen.

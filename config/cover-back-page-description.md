@@ -1,18 +1,19 @@
-**Das lebende Stimmrecht – Vom Untertan zum Auftraggeber**
+**Das lebende Stimmrecht: Vom Untertan zum Auftraggeber**  
+*Band I der Reihe „Politisches Profil: Die Architektur der Freiheit“*
 
-Der heutige Staat fordert Verantwortung, vermeidet aber eigene.
-Er verwaltet Menschen als Ressource, vererbt Verpflichtungen, nicht Rechte, und behandelt Lebensleistung als fiskalische
-Reserve.
+Der heutige Staat fordert Verantwortung, vermeidet aber eigene.  
+Er verwaltet Bürger als Ressource, vererbt Pflichten statt Rechte und behandelt Lebensleistung als fiskalische Größe.
 
-Dieses Buch zeigt, warum klassische Reformen scheitern und wie ein Bürgerstaat entsteht, in dem Autorität nicht
-delegiert, sondern behalten wird.
+Dieses Buch zeigt, warum Reformen scheitern und warum ein Bürgerstaat nicht aus neuen Programmen entsteht, sondern aus
+einem anderen Machtverhältnis.  
+Autorität wird nicht übertragen, sondern behalten.
 
-Kern ist das Konzept des **lebenden Stimmrechts**:
-eine dauerhafte, aktive und individuelle politische Mitbestimmung, die nicht übertragen, eingefroren oder verloren gehen
-kann. Jeder Mensch entscheidet jederzeit selbst – direkt, anonym, überprüfbar.
+Im Zentrum steht das lebende Stimmrecht:
+eine dauerhafte, individuelle und aktive Form politischer Mitbestimmung, die nicht übertragbar, nicht einfrierbar und
+nicht entziehbar ist. Entscheidungen bleiben direkt, anonym und überprüfbar, ohne Parteienfilter.
 
-Staatliche Macht wird Auftrag, nicht Eigentum.
-Bürger sind nicht zu verwaltende Masse, sondern Quelle politischer Legitimation.
+Staatliche Macht wird zum Auftrag, nicht zum Besitz.  
+Der Bürger ist nicht Objekt der Verwaltung, sondern ihre Quelle und ihre Grenze.
 
-Wer Verantwortung fordert, muss sie auch gewähren.
-Dieses Werk ist eine Anleitung für echte Souveränität im 21. Jahrhundert.
+Wer Verantwortung fordert, muss Souveränität gewähren.  
+Dieses Werk zeigt, wie Freiheit im 21. Jahrhundert wieder praktische Realität wird und nicht bloße Behauptung bleibt.

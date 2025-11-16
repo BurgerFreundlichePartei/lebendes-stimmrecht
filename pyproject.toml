@@ -12,7 +12,6 @@ requires = [ "poetry-core>=2.0.0,<3.0.0",]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
-package-mode = false
 name = "lebendes-stimmrecht"
 description = "Konzept und Grundlagen eines Bürgerstaates, in dem Macht beim Menschen verbleibt: das lebende Stimmrecht als permanente, unverlierbare Form demokratischer Teilhabe. Kein Parteienstaat, sondern echte Souveränität. Analyse des alten Systems und Architektur der Machtumkehr zugunsten der Bürger."
 [[tool.poetry.packages]]
