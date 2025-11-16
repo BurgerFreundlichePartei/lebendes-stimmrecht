@@ -1,50 +1,75 @@
-# 🗳️ Lebendes Stimmrecht
+# **🗳️ Das lebende Stimmrecht – Vom Untertan zum Auftraggeber**
 
-Ein Architekturkonzept für einen Bürgerstaat, in dem Macht nicht delegiert, sondern dauerhaft beim Menschen verbleibt.  
-Statt Wahlritualen: kontinuierliche, unverlierbare Bürgerbeteiligung – anonym, sicher, nicht manipulierbar.
+### *Band I der Reihe „Politisches Profil: Die Architektur der Freiheit“*
 
-## Ziel
+Ein Architekturkonzept für eine neue politische Ordnung, in der Macht nicht verloren, delegiert oder eingefroren wird,
+sondern dauerhaft beim Menschen verbleibt.
+Statt Wahlritualen entsteht eine kontinuierliche, unverlierbare Form der Bürgerbeteiligung: anonym, sicher, überprüfbar.
 
-Dieses Repository dokumentiert die Grundprinzipien, Mechanismen und institutionellen Voraussetzungen eines Staates, in
-dem der Bürger nicht Objekt politischer Verwaltung ist, sondern Auftraggeber staatlichen Handelns.
+---
 
-## Kernidee
+## **Ziel des Projekts**
 
-Das **lebende Stimmrecht** ersetzt punktuelle Wahlen durch eine dauerhaft aktive, kryptographisch geschützte Stimme, die
-niemals erlischt und vom Bürger jederzeit aktualisiert werden kann.
+Dieses Repository dokumentiert die Konzepte, Mechanismen und institutionellen Strukturen einer Ordnung,
+in der der Bürger nicht verwaltet wird, sondern Auftraggeber staatlichen Handelns ist.
+Es bildet die technische, philosophische und organisatorische Grundlage für die gesamte Buchreihe.
 
-## Warum es dieses Projekt gibt
+---
 
-- Die heutige Demokratie ist nur formal.
-- Der Bürger verliert seine Mitsprache zwischen den Wahlen.
-- Der Staat kontrolliert den Bürger, nicht umgekehrt.
-- Dieses Projekt beschreibt die Umkehr: vom Untertan zum Auftraggeber.
+## **Zentrale Idee**
 
-## Grundpfeiler (Kurzüberblick)
+Das **lebende Stimmrecht** ersetzt punktuelle Wahlen durch eine dauerhaft aktive, kryptographisch gesicherte Stimme,
+die jederzeit aktualisiert werden kann und niemals erlischt.
+Souveränität wird nicht gewährt, sondern bleibt beim Menschen.
 
-1. Bürger als Ursprung der Macht
-2. Staat als Dienstleister, nicht Besitzer
-3. Permanente Beteiligung statt Wahlintervallen
-4. Kryptographisch geschützte Privatsphäre
-5. Transparente Mittelverwendung
-6. Institutionelle Unkippbarkeit
-7. KI als Schutzschild – nicht als Überwacher
+---
 
-## Kapitel / Inhalte (coming soon)
+## **Warum dieses Projekt existiert**
 
-- Systemkritik (warum das alte Modell scheitern muss)
-- Architektur des Bürgerstaates
-- Rolle der Technologie
-- Verfassungs- und Rechtsprinzipien
-- Übergangsphasen
-- gesellschaftliche Verankerung
+* Die heutige Demokratie ist strukturell formal, nicht funktional.
+* Zwischen Wahlen verliert der Bürger faktisch seine politische Wirkung.
+* Staatliche Autorität wird nicht gebunden, sondern vorausgesetzt.
+* Dieses Projekt beschreibt die Umkehr:
+  **vom verwalteten Untertan zum souveränen Auftraggeber.**
 
-## Status
+---
 
-📘 In Entwicklung – Grundlage für Buch, Manifest & politische Systemarchitektur.
+## **Grundpfeiler**
 
-## Lizenz
+1. **Bürger als Ursprung der Macht**
+2. **Staat als Dienstleister statt Besitzer**
+3. **Permanente Beteiligung statt Intervallwahlen**
+4. **Kryptographisch garantierte Privatsphäre**
+5. **Transparente Mittelverwendung und verifizierbare Prozesse**
+6. **Institutionelle Unkippbarkeit**
+7. **Technologie als Schutzschild, nicht als Kontrollapparat**
 
-Folgt nach Fertigstellung des Basisteils (CC-BY-SA oder ähnliche Commons-Lizenz geplant).
+---
+
+## **Inhalte von Band I**
+
+* Diagnose: warum das alte System strukturell scheitert
+* Das politische Profil als dauerhaftes Machtinstrument
+* Der Bürgerstaat als Auftraggeber-Modell
+* Kryptographische Grundlagen des lebenden Stimmrechts
+* Schutzmechanismen gegen Missbrauch und Rekonstruktion
+* Institutionelle Architektur, die nicht kippen kann
+* Psychologischer Wandel vom Objekt zum Ursprung
+
+---
+
+## **Status**
+
+📘 **Vollständige Neuauflage**
+Band I bildet die diagnostische Grundlage für die Reihe
+**„Politisches Profil: Die Architektur der Freiheit“**
+und dient gleichzeitig als Referenz für Modelle, Tools und politische Mechanismen.
+
+---
+
+## **Lizenz**
+
+Wird nach Abschluss der finalen Struktur festgelegt
+(geplant: CC-BY-SA oder kompatible Commons-Lizenz).
 
 ---
