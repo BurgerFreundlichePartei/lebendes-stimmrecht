@@ -5,8 +5,8 @@
 ---
 
 > **Übergang:**  
-> Wenn der Bürger Eigentümer der Macht ist, muss Verwaltung sein Werkzeug sein –  
-> nicht sein Gatekeeper.
+> Wenn der Bürger Eigentümer der Macht ist, darf die Verwaltung nicht Hüter der Zugänge sein –  
+> sondern sein Werkzeug.
 
 ---
 
