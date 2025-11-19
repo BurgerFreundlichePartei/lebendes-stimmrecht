@@ -1,8 +1,8 @@
-<p><b>Politisches Profil – Die Architektur der Freiheit</b></p>
+<p><b>Das politische Profil – Die Architektur der Freiheit</b></p>
 
-<p>Diese Reihe zeigt, wie Freiheit zur <i>funktionierenden Struktur</i> wird: 
-ein Staat, der dient statt herrscht; Bürger, die gestalten statt gehorchen; 
-Technologie als Werkzeug der Souveränität – nicht als Kontrollapparat. 
+<p>Diese Reihe zeigt, wie Freiheit zur <i>funktionierenden Struktur</i> wird:  
+ein Staat, der dient statt herrscht; Bürger, die gestalten statt gehorchen;  
+Technologie als Werkzeug der Souveränität – nicht als Kontrollapparat.  
 Eine klare Architektur für eine moderne, transparente und bürgerzentrierte Demokratie.</p>
 
 <p><b>Band I – Das lebende Stimmrecht</b><br>
@@ -18,7 +18,7 @@ effiziente digitale Verwaltung und ein neuer Gesellschaftsvertrag zwischen Mensc
 <p><b>Kernthemen der Reihe</b></p>
 
 <ul>
-  <li>Politisches Profil & konfigurierbare Bürgerbeteiligung</li>
+  <li>Das politische Profil & konfigurierbare Bürgerbeteiligung</li>
   <li>Digitale Souveränität, Datenschutz & Privatsphäre-by-Design</li>
   <li>Gesundheitssystem: Health Wallet statt Bürokratie</li>
   <li>Bildung als Werkzeug für Urteilskraft & Freiheit</li>
