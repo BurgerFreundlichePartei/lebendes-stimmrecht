@@ -1,4 +1,4 @@
-# Politisches Profil – Die Architektur der Freiheit
+# Das politische Profil – Die Architektur der Freiheit
 
 Diese Reihe zeigt, wie Freiheit zur **funktionierenden Struktur** wird:  
 ein Staat, der dient statt herrscht; Bürger, die gestalten statt gehorchen;  
@@ -23,7 +23,7 @@ ein neuer Gesellschaftsvertrag zwischen Mensch, Technologie und Bewusstsein.
 
 ## **Kernthemen der Reihe**
 
-- Politisches Profil & konfigurierbare Beteiligung
+- Das politische Profil & konfigurierbare Beteiligung
 - Digitale Souveränität & Privatsphäre-by-Design
 - Gesundheit: Health Wallet statt Aktenbürokratie
 - Bildung als Souveränitätsmaschine
@@ -46,6 +46,6 @@ ein neuer Gesellschaftsvertrag zwischen Mensch, Technologie und Bewusstsein.
 ## **Serieneinstellungen (Meta)**
 
 **Sprache:** Deutsch  
-**Serientitel:** *Politisches Profil – Die neue Architektur demokratischer Selbstbestimmung*  
+**Serientitel:** *Das politische Profil – Die Architektur der Freiheit*  
 **Lesereihenfolge:** *Geordnet* (empfohlene Reihenfolge sichtbar)  
 **Serienbild:** Wird automatisch aus den ersten drei Covern generiert.

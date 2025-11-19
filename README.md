@@ -1,6 +1,6 @@
 # **🗳️ Das lebende Stimmrecht – Vom Untertan zum Auftraggeber**
 
-### *Band I der Reihe „Politisches Profil: Die Architektur der Freiheit“*
+### *Band I der Reihe „Das politische Profil: Die Architektur der Freiheit“*
 
 Ein Architekturkonzept für eine neue politische Ordnung, in der Macht nicht verloren, delegiert oder eingefroren wird,
 sondern dauerhaft beim Menschen verbleibt.
@@ -62,7 +62,7 @@ Souveränität wird nicht gewährt, sondern bleibt beim Menschen.
 
 📘 **Vollständige Neuauflage**
 Band I bildet die diagnostische Grundlage für die Reihe
-**„Politisches Profil: Die Architektur der Freiheit“**
+**„Das politische Profil: Die Architektur der Freiheit“**
 und dient gleichzeitig als Referenz für Modelle, Tools und politische Mechanismen.
 
 ---

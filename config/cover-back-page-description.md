@@ -1,5 +1,5 @@
 **Das lebende Stimmrecht: Vom Untertan zum Auftraggeber**  
-*Band I der Reihe „Politisches Profil: Die Architektur der Freiheit“*
+*Band I der Reihe „Das politische Profil: Die Architektur der Freiheit“*
 
 Der heutige Staat fordert Verantwortung, vermeidet aber eigene.  
 Er verwaltet Bürger als Ressource, vererbt Pflichten statt Rechte und behandelt Lebensleistung als fiskalische Größe.
