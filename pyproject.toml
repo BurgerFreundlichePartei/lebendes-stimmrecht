@@ -1,17 +1,18 @@
 [project]
 name = "lebendes-stimmrecht"
 version = "0.1.0"
-escription = "Konzept und Grundlagen eines Bürgerstaates, in dem Macht beim Menschen verbleibt: das lebende Stimmrecht als permanente, unverlierbare Form demokratischer Teilhabe. Kein Parteienstaat, sondern echte Souveränität. Analyse des alten Systems und Architektur der Machtumkehr zugunsten der Bürger."
+description = "Konzept und Grundlagen eines Bürgerstaates, in dem Macht beim Menschen verbleibt: das lebende Stimmrecht als permanente, unverlierbare Form demokratischer Teilhabe. Kein Parteienstaat, sondern echte Souveränität. Analyse des alten Systems und Architektur der Machtumkehr zugunsten der Bürger."
+authors = [
+    { name = "Asterios Raptis", email = "asteri.raptis@gmail.com" }
+]
 readme = "README.md"
-[[project.authors]]
-name = "Asterios Raptis"
-email = "asteri.raptis@gmail.com"
 
 [tool.poetry]
 name = "lebendes-stimmrecht"
 description = "Konzept und Grundlagen eines Bürgerstaates, in dem Macht beim Menschen verbleibt: das lebende Stimmrecht als permanente, unverlierbare Form demokratischer Teilhabe. Kein Parteienstaat, sondern echte Souveränität. Analyse des alten Systems und Architektur der Machtumkehr zugunsten der Bürger."
-[[tool.poetry.packages]]
-include = "scripts"
+packages = [
+    { include = "scripts" }
+]
 
 [tool.poetry.dependencies]
 python = ">=3.9,<4.0"
