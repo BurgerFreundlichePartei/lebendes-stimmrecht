@@ -245,12 +245,11 @@ def ensure_metadata_file():
         print(f"⚠️ Metadata file missing! Creating default {METADATA_FILE}.")
         os.makedirs(os.path.dirname(METADATA_FILE), exist_ok=True)
         with open(METADATA_FILE, "w", encoding="utf-8") as f:
-            # TODO: Replace with your data
             f.write(
-                'title: "CHANGE TO YOUR TITLE"\n'
-                'author: "YOUR NAME"\n'
+                'title: "Das lebende Stimmrecht – Vom Untertan zum Auftraggeber"\n'
+                'author: "Asterios Raptis"\n'
                 'date: "2025"\n'
-                'lang: "en"\n'
+                'lang: "de"\n'
             )
 
 
