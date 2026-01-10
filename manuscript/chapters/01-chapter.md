@@ -3,7 +3,7 @@
 ### TEIL I – *Die Entblößung*
 
 Bevor ein neues System entstehen kann, muss sichtbar werden, wie das bestehende in seiner Tiefe funktioniert – nicht an
-der rhetorischen Oberfläche, sondern in seiner verborgenen Machtlogik.
+der rhetorischen Oberfläche, sondern in der verborgenen Machtlogik des Systems.
 
 Der heutige Staat inszeniert sich als Schutzinstanz für seine Bürger, doch seine innere Struktur zeigt, dass er primär
 sich selbst schützt. Der Bürger wird offiziell als „Souverän“ angesprochen, doch in der Praxis ist er ein
@@ -80,7 +80,7 @@ Er gibt – aber nicht als Eigentum, sondern als **bedingte Zuteilung**.
 
 • Rentenansprüche sind Erwartungen, kein Eigentum.  
 • Sozialleistungen sind politisch verhandelbar, nicht vertraglich garantiert.  
-• Infrastruktur ist Nutzungsrecht auf Widerruf, kein Besitz.  
+• Infrastruktur ist Nutzungsrecht auf Widerruf, kein Besitz.
 
 Einzahler erwerben weder Anspruch auf konkrete Beträge noch auf unveränderbare Leistungen. Sie erwerben ein
 Versprechen – eines, das jederzeit angepasst, gekürzt oder an Bedingungen geknüpft werden kann.

@@ -1,6 +1,6 @@
 # KAPITEL 7 {#-kapitel-7}
 
-**„Zwei Klassen – Bürger vs. Beamte“**
+## Zwei Klassen – Bürger vs. Beamte
 
 ---
 

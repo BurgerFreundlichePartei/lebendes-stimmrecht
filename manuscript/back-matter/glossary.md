@@ -147,6 +147,10 @@ notwendigerweise abgebildet wird.
 Ein Staatsmodell, in dem Macht nicht abgegeben, sondern beauftragt wird und der Staat nur als Werkzeug der Bürger
 fungiert.
 
+**Lebensleistung** 
+Der akkumulierte Wert von Arbeit, Zeit, Beiträgen und Engagement eines Bürgers über sein Leben
+hinweg – unabhängig davon, ob das System ihn anerkennt.
+
 **Souveränität**
 Die ursprüngliche Entscheidungs- und Verfügungsgewalt über sich selbst, aus der staatliche Ordnung abgeleitet ist –
 nicht umgekehrt.

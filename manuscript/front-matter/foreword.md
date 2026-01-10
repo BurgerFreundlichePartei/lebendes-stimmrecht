@@ -39,27 +39,27 @@ doch nicht länger verdrängt werden kann:
 
 > **Was geschieht, wenn der Bürger seine Macht nicht mehr abgibt — sondern behält?**
 
-Was wäre, wenn Demokratie kein Ereignis mehr wäre,
+Was wäre, wenn Demokratie kein Ereignis mehr wäre,  
 sondern **dauerhafter Zustand**?
 
 Wenn der Staat kein Vormund mehr wäre, sondern Werkzeug?
 
-Wenn die Stimme nicht flüchtig wäre,
+Wenn die Stimme nicht flüchtig wäre,  
 sondern **unveräußerliches Eigentum**?
 
 ---
 
-Dieses Buch beschreibt keinen Protest der Unzufriedenen.
+Dieses Buch beschreibt keinen Protest der Unzufriedenen.  
 Es beschreibt die Rückkehr des Eigentümers.
 
-Nicht Revolution.
+Nicht Revolution.  
 **Rückführung.**
 
-Nicht Hoffnung.
+Nicht Hoffnung.  
 **Anspruch.**
 
-Nicht Bitte.
-**Macht.**
+Nicht Bitte.  
+**Souveränität.**
 
 ---
 

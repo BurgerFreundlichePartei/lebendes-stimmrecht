@@ -119,7 +119,7 @@ Es reformiert nicht für den Bürger, sondern für **seine eigene Fortexistenz**
 
 ---
 
-### Schlussverdichtung
+### Bürgerstaat vs. Beschaffungsstaat
 
 Ein Beschaffungsstaat ist kein Bürgerstaat.
 

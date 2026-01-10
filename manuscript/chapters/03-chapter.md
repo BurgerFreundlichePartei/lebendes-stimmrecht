@@ -1,6 +1,6 @@
 # KAPITEL 3 {#-kapitel-3}
 
-## „Regulierung als versteckte Steuer: Die Einpreisung des Bürgers“
+## Regulierung als versteckte Steuer: Die Einpreisung des Bürgers
 
 ---
 

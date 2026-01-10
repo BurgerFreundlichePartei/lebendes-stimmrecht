@@ -6,10 +6,11 @@
 **Ausgabe:** Erste Auflage (2025)
 
 © 2025 Asterios Raptis. Alle Rechte vorbehalten.  
-Kein Teil dieses Buches darf in irgendeiner Form oder mit irgendwelchen Mitteln **elektronisch oder mechanisch,
-Fotokopieren, Aufzeichnen oder durch ein Informationsspeicher- und -abrufsystem**, ohne vorherige schriftliche
-Genehmigung des Autors reproduziert oder übertragen werden, außer in Form kurzer Zitate in Rezensionen oder
-wissenschaftlichen Arbeiten.
+
+Kein Teil dieses Buches darf in irgendeiner Form oder mit irgendwelchen Mitteln – einschließlich elektronischer oder
+mechanischer Vervielfältigung, Fotokopieren, Aufzeichnen oder durch ein Informationsspeicher- und -abrufsystem – ohne
+vorherige schriftliche Genehmigung des Autors reproduziert oder übertragen werden, außer in Form kurzer Zitate in
+Rezensionen oder wissenschaftlichen Arbeiten.
 
 **Kontakt:**  
 asteri.raptis@gmail.com
@@ -28,5 +29,6 @@ Alle Produktnamen, Logos und Marken sind Eigentum der jeweiligen Inhaber und die
 
 <figure class="logo">
   <img src="assets/logo/conscious-path-publishing-logo.png" 
-       alt="Conscious Path Publishing Logo (Mandala-Symbol)" />
+       alt="Logo des Verlags Conscious Path Publishing: ein stilisiertes Mandala-Symbol, das den Weg zum bewussten 
+            Selbst symbolisiert" />
 </figure>

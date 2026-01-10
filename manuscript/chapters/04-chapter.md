@@ -1,6 +1,6 @@
 # KAPITEL 4 {#-kapitel-4}
 
-**„Schulden vererbbar – Rechte nicht“**
+## Schulden vererbbar – Rechte nicht
 
 ---
 
