@@ -6,6 +6,7 @@ from pathlib import Path
 import subprocess
 from unittest.mock import patch, ANY
 from scripts.full_export_book import prepare_output_folder, run_script, compile_book
+from scripts.enums.book_type import BookType
 
 TEST_OUTPUT_DIR = "test_output"
 TEST_BACKUP_DIR = "test_output_backup"
@@ -48,6 +49,26 @@ def test_run_script_failure(mock_run):
 
 @patch("scripts.full_export_book.OUTPUT_DIR", TEST_OUTPUT_DIR)
 @patch("scripts.full_export_book.BACKUP_DIR", TEST_BACKUP_DIR)
+def test_prepare_output_folder():
+    """Test backup logic in prepare_output_folder"""
+    # Write dummy file to simulate content
+    dummy_file = os.path.join(TEST_OUTPUT_DIR, "dummy.md")
+    with open(dummy_file, "w") as f:
+        f.write("# Dummy")
+
+    prepare_output_folder()
+
+    # Output folder has been emptied/recreated
+    assert os.path.exists(TEST_OUTPUT_DIR)
+    assert not os.path.exists(os.path.join(TEST_OUTPUT_DIR, "dummy.md"))
+
+    # Backup exists and contains the old file
+    assert os.path.exists(TEST_BACKUP_DIR)
+    assert os.path.exists(os.path.join(TEST_BACKUP_DIR, "dummy.md"))
+
+
+@patch("scripts.full_export_book.OUTPUT_DIR", TEST_OUTPUT_DIR)
+@patch("scripts.full_export_book.BACKUP_DIR", TEST_BACKUP_DIR)
 def test_prepare_output_folder_moves_and_recreates_output():
     # Arrange: create output/ with a file
     Path(TEST_OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
@@ -83,7 +104,7 @@ def test_compile_book(mock_run):
     Path("tests/fixtures/metadata.yaml").write_text("title: Test\n", encoding="utf-8")
 
     # Act
-    compile_book("pdf", ["chapters"])
+    compile_book("pdf", ["chapters"], BookType.EBOOK)
 
     # Assert
     mock_run.assert_called()

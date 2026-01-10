@@ -9,14 +9,16 @@
 .idea/libraries
 .idea/codeStyles
 .idea/shelf
-.idea/*.*
 .idea/easycode
+.idea/dataSources
+.idea/*.*
 
 #####################
 # Book build output #
 #####################
 output
 output_backup
+dist
 
 ######################
 # eBook build output #
@@ -47,3 +49,4 @@ logs/
 # Ignore coverage test output #
 ###############################
 /.coverage
+/coverage.xml

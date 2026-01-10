@@ -1,7 +1,7 @@
-# scripts/shortcuts_translate.py
+# scripts/shortcuts_translate_lms.py
 
 import argparse
-from scripts.translate_book_deepl import main as export_translate_book_deepl_main
+from scripts.translate_book_lmstudio import main as export_translate_book_lmstudio_main
 import sys
 
 # Supported language codes (extend as needed)
@@ -66,7 +66,7 @@ def translate():
         "--target-lang",
         args.target,
     ]
-    export_translate_book_deepl_main()
+    export_translate_book_lmstudio_main()
 
 
 def translate_manuscript(source: str, target: str, base_dir: str):
@@ -86,10 +86,10 @@ def translate_manuscript(source: str, target: str, base_dir: str):
         "--target-lang",
         target,
     ]
-    export_translate_book_deepl_main()
+    export_translate_book_lmstudio_main()
 
 
-def translate_manuscript_to_german():
+def translate_manuscript_from_english_to_german():
     """
     Shortcut: Translate the default manuscript folder from English to German
     """
@@ -110,8 +110,8 @@ def translate_manuscript_from_english_to_spanish():
     translate_manuscript(source="EN", target="ES", base_dir="manuscript")
 
 
-def translate_manuscript_from_german_to_spanish():
+def translate_manuscript_from_english_to_french():
     """
-    Shortcut: Translate the default manuscript folder from German to Spanish
+    Shortcut: Translate the default manuscript folder from English to French
     """
-    translate_manuscript(source="DE", target="ES", base_dir="manuscript")
+    translate_manuscript(source="EN", target="FR", base_dir="manuscript")
