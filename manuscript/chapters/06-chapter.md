@@ -1,4 +1,4 @@
-# KAPITEL 6
+# KAPITEL 6 {#-kapitel-6}
 
 ## Von der Verfügungsmasse zur Unangreifbarkeit
 

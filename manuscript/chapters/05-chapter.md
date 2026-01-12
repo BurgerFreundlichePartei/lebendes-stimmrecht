@@ -1,4 +1,4 @@
-# KAPITEL 5
+# KAPITEL 5 {#-kapitel-5}
 
 ## Der Mensch als Rohstoff im Selbsterhaltungsapparat
 

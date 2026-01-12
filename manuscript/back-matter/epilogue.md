@@ -1,4 +1,4 @@
-# EPILOG
+# EPILOG {#-epilog}
 
 ## Was wir zurückholen, ist nicht der Staat – sondern unsere Würde
 

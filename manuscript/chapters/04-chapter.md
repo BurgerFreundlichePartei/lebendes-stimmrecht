@@ -1,4 +1,4 @@
-# KAPITEL 4
+# KAPITEL 4 {#-kapitel-4}
 
 ## Zwei Klassen – Bürokratie als Schutzwall der Macht
 

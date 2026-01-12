@@ -1,4 +1,4 @@
-# KAPITEL 12
+# KAPITEL 12 {#-kapitel-12}
 
 ## Das lebende Stimmrecht – Souveränität als unveräußerliches Eigentum
 

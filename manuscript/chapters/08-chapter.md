@@ -1,4 +1,4 @@
-# EINLEITUNG ZU TEIL II
+# EINLEITUNG ZU TEIL II {#teil-2}
 
 ## Die Umkehr
 
@@ -182,7 +182,7 @@ legitimieren. Demokratie ist kein Ereignis – sie ist ein Zustand.
 
 Teil II beschreibt diesen Zustand.
 
-# KAPITEL 8
+# KAPITEL 8 {#-kapitel-8}
 
 ## Souveränität als Besitz – Der Staat von unten nach oben
 
