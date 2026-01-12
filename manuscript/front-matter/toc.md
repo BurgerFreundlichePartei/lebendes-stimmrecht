@@ -4,7 +4,7 @@
 
 ## [TEIL I – DIE ENTBLÖSSUNG](#teil-1)
 
-[Einleitung zu Teil I](#einleitung-teil-1)
+### Einleitung zu Teil I
 
 1. [Der Staat als Miteigentümer und Selbstzweck](#kapitel-1)
 2. [Regulierung als versteckte Steuer](#kapitel-2)
@@ -16,7 +16,7 @@
 
 ## [TEIL II – DIE UMKEHR](#teil-2)
 
-[Einleitung zu Teil II](#einleitung-teil-2)
+### Einleitung zu Teil II
 
 8. [Souveränität als Besitz – Der Staat von unten](#kapitel-8)
 9. [Verwaltung und Vorsorge als Dienst](#kapitel-9)

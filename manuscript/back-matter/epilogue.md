@@ -1,4 +1,4 @@
-# EPILOG {#-epilog}
+# EPILOG {#epilog}
 
 ## Was wir zurückholen, ist nicht der Staat – sondern unsere Würde
 
@@ -12,8 +12,6 @@ ihn verfügt.
 
 Aber dieses Buch endet auch mit einer Hoffnung. Denn was von Menschen gemacht wurde, kann von Menschen geändert werden.
 Was verdreht wurde, kann zurückgedreht werden. Was entzogen wurde, kann zurückgeholt werden.
-
-------------------------------------------------------------------------
 
 ### Der zivilisatorische Wendepunkt
 
@@ -32,8 +30,6 @@ Nicht zum Empfänger von Gnade, sondern zum Träger von Macht.
 Der Wandel beginnt nicht am Gesetz. Er beginnt am Selbstwert. Wenn ein Mensch begreift, dass er nicht kontrolliert
 werden muss, sondern gefragt werden müsste, endet die Logik der Unterwerfung.
 
-------------------------------------------------------------------------
-
 ### Die Rückgabe der Souveränität
 
 Freiheit ist kein Geschenk. Niemand kann sie dir geben, der sie dir nicht vorher genommen hat. Freiheit ist auch keine
@@ -49,8 +45,6 @@ Ausführende.
 Der Staat ist nicht Ersatz für Verantwortung. Er ist Ausdruck der Bürgerwürde. Ein System ist erst frei, wenn der Mensch
 nicht mehr kontrolliert wird, sondern anerkannt wird.
 
-------------------------------------------------------------------------
-
 ### Das Vermächtnis der Freiheit
 
 Freiheit ist kein modernes Konzept. Sie ist ein alter Preis.
@@ -64,8 +58,6 @@ wir aufrecht stehen oder uns beugen. Ob wir Bürger sind oder Untertanen.
 
 Wer Freiheit verliert, verliert nicht Politik. Er verliert sich selbst. Er verliert das, was ihn zum Menschen macht: die
 Fähigkeit, über sein eigenes Leben zu bestimmen. Die Würde, nicht verfügbar zu sein. Das Recht, Nein zu sagen.
-
-------------------------------------------------------------------------
 
 ### Ein Bekenntnis
 
@@ -102,8 +94,6 @@ Wer missbraucht, haftet.
 Demokratie endet nicht nach der Wahl – sie beginnt dort erst. Sie ist kein Ereignis, sondern ein Zustand. Kein Ritual,
 sondern Realität. Keine Fassade, sondern Substanz.
 
-------------------------------------------------------------------------
-
 ### Der Moment der Entscheidung
 
 Jeder Mensch steht irgendwann vor einem Moment der Entscheidung. Einem Moment, in dem er wählen muss, wer er sein will.
@@ -118,8 +108,6 @@ oder bestimmst.
 Dieses Buch kann diese Entscheidung nicht für dich treffen. Es kann nur zeigen, dass es sie gibt. Dass es eine
 Alternative gibt zur Ohnmacht. Dass der Weg vom Untertan zum Auftraggeber möglich ist – nicht durch Revolution, nicht
 durch Gewalt, nicht durch Umsturz. Sondern durch eine Veränderung im Inneren, die sich nach außen fortsetzt.
-
-------------------------------------------------------------------------
 
 ### Schlusswort
 

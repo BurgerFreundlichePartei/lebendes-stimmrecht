@@ -1,4 +1,4 @@
-# KAPITEL 9 {#-kapitel-9}
+# KAPITEL 9 {#kapitel-9}
 
 ## Verwaltung und Vorsorge als Dienst
 

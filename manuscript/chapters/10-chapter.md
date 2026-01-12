@@ -1,4 +1,4 @@
-# KAPITEL 10 {#-kapitel-10}
+# KAPITEL 10 {#kapitel-10}
 
 ## Pflege und Politik ohne Beute
 

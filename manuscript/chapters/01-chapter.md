@@ -1,4 +1,4 @@
-# EINLEITUNG ZU TEIL I {#-teil-1}
+# EINLEITUNG ZU TEIL I {#teil-1}
 
 ## Die Entblößung
 
@@ -89,7 +89,7 @@ sein? Oder kann es auch anders gehen?
 Die Antwort – das sei hier schon verraten – lautet: Es kann anders gehen. Aber dazu später. Zunächst muss gesehen
 werden, was ist.
 
-# KAPITEL 1 {#-kapitel-1}
+# KAPITEL 1 {#kapitel-1}
 
 ## Der Staat als Miteigentümer und Selbstzweck
 

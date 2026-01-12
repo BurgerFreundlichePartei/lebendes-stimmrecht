@@ -1,4 +1,4 @@
-# Impressum {#-imprint}
+# Impressum {#imprint}
 
 **Titel:** _Das lebende Stimmrecht – Vom Untertan zum Auftraggeber_  
 **Autor:** Asterios Raptis  

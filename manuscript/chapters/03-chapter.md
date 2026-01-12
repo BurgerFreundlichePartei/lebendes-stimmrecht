@@ -1,4 +1,4 @@
-# KAPITEL 3 {#-kapitel-3}
+# KAPITEL 3 {#kapitel-3}
 
 ## Lebensleistung ohne Eigentum – Schulden, Rente und Pflege
 

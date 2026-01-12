@@ -1,4 +1,4 @@
-# KAPITEL 11 {#-kapitel-11}
+# KAPITEL 11 {#kapitel-11}
 
 ## Der Staat mit Risiko – Demokratie als ständige Kontrolle
 

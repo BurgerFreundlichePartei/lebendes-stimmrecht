@@ -1,4 +1,4 @@
-# KAPITEL 13 {#-kapitel-13}
+# KAPITEL 13 {#kapitel-13}
 
 ## Vom Parteienstaat zum Bürgerstaat im Alltag
 

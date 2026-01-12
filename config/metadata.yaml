@@ -1,21 +1,41 @@
+# Titel & Autor
 title: "Das lebende Stimmrecht – Vom Untertan zum Auftraggeber"
 subtitle: "Die Wiederherstellung echter Souveränität"
+author: "Asterios Raptis"
+date: "2025"
+edition: "1. Auflage"
+
+# Serie
 series: "Das politische Profil – Die Architektur der Freiheit"
 volume: 1
-author: "Asterios Raptis"
-isbn:
-  ebook: ""
-  paperback: "9798272289292"
-  hardcover: "9798274737272"
-edition: "1. Auflage"
+
+# Sprache
+lang: de-DE
+
+# Identifikation
+identifier: https://consciouspath.pub/lebendes-stimmrecht
+identifiers:
+  isbn_paperback: "9798272289292"
+  isbn_hardcover: "9798274737272"
+  # isbn_ebook bleibt bewusst leer, da nicht vergeben
+
+# Verlag
 publisher: "Conscious Path Publishing"
-date: "2025"
-language: "de"
+publisher_city: "Ludwigsburg"
+
+# Inhalt
 description: >
   Konzept und Grundlagen eines Bürgerstaates, in dem Macht beim Menschen verbleibt:
   das lebende Stimmrecht als permanente, unverlierbare Form demokratischer Teilhabe.
   Kein Parteienstaat, sondern echte Souveränität.
   Analyse des alten Systems und Architektur der Machtumkehr zugunsten der Bürger.
+
+# Kategorien & Stichwörter
+subject:
+  - Politische Philosophie
+  - Staatskritik
+  - Demokratietheorie
+  - Bürgerrechte
 keywords:
   - Souveränität
   - Bürgerstaat
@@ -29,8 +49,16 @@ keywords:
   - politische Entmachtung
   - Staatsversagen
   - Reformarchitektur
+
+# Technik
 cover_image: "assets/covers/cover.png"
-output_formats: [ "pdf", "epub", "docx" ]
-kdp_enabled: false
 css:
   - config/styles.css
+output_formats:
+  - pdf
+  - epub
+  - docx
+kdp_enabled: false
+
+# Rechte
+rights: "© Alle Rechte vorbehalten."
