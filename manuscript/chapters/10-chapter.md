@@ -14,8 +14,6 @@ beiden Fällen ist das Ergebnis dasselbe: Der Bürger verliert.
 Dieses Kapitel zeigt, wie es anders sein könnte. Wie Pflege zum Schutzraum werden kann statt zum Rückholsystem. Und wie
 Politik zum Dienst werden kann statt zur Beute.
 
-------------------------------------------------------------------------
-
 ### Die Perversion der Pflege
 
 Teil I hat gezeigt, wie Pflege im gegenwärtigen System funktioniert. Sie ist kein Schutzsystem. Sie ist ein
@@ -37,8 +35,6 @@ es. Statt zu helfen, bewertet es – und fragt nicht nach Bedürftigkeit, sonder
 Der Staat entlastet sich, indem er Familien belastet. Er nennt das Solidarität. In Wahrheit ist es die Verlagerung von
 Verantwortung auf die Schwächsten.
 
-------------------------------------------------------------------------
-
 ### Die bürgerfreundliche Gegenlösung
 
 In einem Bürgerstaat wäre Pflege anders strukturiert. Der Grundsatz wäre: Pflege als Absicherung, nicht als Zugriff. Das
@@ -58,8 +54,6 @@ Mensch würde begleitet, nicht bilanziert.
 In einem gerechten System würde gelten: Versorgung ist Menschenrecht. Vermögen ist Familienschutz. Der Staat ist Garant,
 nicht Gläubiger.
 
-------------------------------------------------------------------------
-
 ### Die psychologische Dimension der Pflege
 
 Es gibt auch eine psychologische Dimension. Wenn Pflege bedeutet „Ich werde beschützt" statt „Ich werde ausgezogen",
@@ -75,8 +69,6 @@ Gemeinwesen, das Menschen am Ende ihres Lebens auskleidet, hat ihre Lebensleistu
 
 Pflege, die Vermögen aufzehrt, schützt nicht den Menschen. Sie schützt das Budget. Ein Staat, der im Alter zugreift, hat
 im Leben nie gedient.
-
-------------------------------------------------------------------------
 
 ### Die Perversion der Politik
 
@@ -97,8 +89,6 @@ Reformer.
 Man könnte einwenden, dass es auch heute engagierte Politiker gibt, die für ihre Überzeugungen kämpfen. Das stimmt. Aber
 sie kämpfen gegen ein System, das sie bestraft, wenn sie zu aufrichtig sind. Sie kämpfen gegen Strukturen, die Anpassung
 belohnen und Widerstand sanktionieren. Sie sind die Ausnahme, die die Regel bestätigt.
-
-------------------------------------------------------------------------
 
 ### Der bürgerfreundliche Gegenentwurf
 
@@ -122,8 +112,6 @@ Fehler gemacht hat.
 Es würde bedeuten: Vergütung begrenzt, Rechenschaft unbegrenzt. Politik als öffentlicher Dienst, nicht als
 Selbstversorgung. Wer in die Politik geht, tut es, um zu dienen, nicht um reich zu werden.
 
-------------------------------------------------------------------------
-
 ### Die Rolle der Technologie
 
 Die Technologie kann bei dieser Transformation helfen. Künstliche Intelligenz kann Beweissicherung leisten statt
@@ -140,8 +128,6 @@ Hinterzimmer mehr gibt – nur noch transparente Räume.
 Das ist keine Überwachung. Das ist Rechenschaft. Der Unterschied ist fundamental: Überwachung richtet sich gegen die
 Bürger. Rechenschaft richtet sich gegen die Macht. Überwachung stärkt den Staat. Rechenschaft stärkt den Souverän.
 
-------------------------------------------------------------------------
-
 ### Das Ende der Beute
 
 Wo es keine politische Beute mehr gibt, schwindet der Anreiz zur Korruption. Wo Macht permanent überprüfbar ist, kann
@@ -157,8 +143,6 @@ Kontrolle besser wäre. Der Bürger müsste nicht mehr hoffen, dass die Macht ri
 sie eingesetzt wird. Er könnte eingreifen, wenn sie falsch eingesetzt wird. Er wäre nicht mehr Zuschauer, sondern
 Aufseher.
 
-------------------------------------------------------------------------
-
 ### Die Verbindung der beiden Bereiche
 
 Pflege und Politik hängen zusammen. Die Frage, wie ein Gemeinwesen mit seinen Schwächsten umgeht, wird in der Politik
@@ -173,8 +157,6 @@ werden Menschen nicht bilanziert, sondern begleitet.
 Die Transformation der Politik ist daher nicht nur eine abstrakte Forderung nach besserer Regierung. Sie ist die
 Voraussetzung für bessere Pflege, bessere Verwaltung, bessere Vorsorge. Sie ist die Voraussetzung für einen Staat, der
 tatsächlich dem Bürger dient.
-
-------------------------------------------------------------------------
 
 ### Schlussverdichtung
 

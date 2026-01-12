@@ -11,8 +11,6 @@ Architektur des Staates eingebaut ist: Der Bürger trägt die Lasten, aber er be
 letzten Atemzug hinausreichen. Seine Schulden werden vererbt, seine Ansprüche nicht. Seine Beiträge werden eingezogen,
 aber nie sein Eigentum. Seine Pflege wird gewährt, aber nur, nachdem geprüft wurde, was noch zurückgeholt werden kann.
 
----
-
 ### Die Vererbung der Pflichten
 
 Der Staat verhält sich gegenüber dem Bürger wie ein Gläubiger, nicht wie ein Garant. Er erkennt dich als
@@ -38,8 +36,6 @@ Andere Länder zeigen, dass es anders geht. Kapitalgedeckte Rentensysteme mit in
 Systemen gehört das Eingezahlte dem Einzahler – es kann vererbt werden, es kann übertragen werden, es bleibt Eigentum.
 Dass Deutschland sich für ein anderes Modell entschieden hat, ist keine Naturgesetzlichkeit. Es ist eine politische
 Entscheidung, die bestimmten Interessen dient – und dem Interesse des Bürgers an echtem Eigentum offenbar nicht.
-
----
 
 ### Die stille Wahrheit der Rente
 
@@ -76,8 +72,6 @@ werden. Die Berechnungsformeln können geändert werden. Die Kaufkraft kann durc
 geschieht regelmäßig, und der Bürger hat keine Handhabe dagegen, weil er nie Eigentümer war. Er war immer nur Gläubiger
 eines Schuldners, der seine eigenen Schulden definiert.
 
----
-
 ### Die tiefere Mechanik des Versprechens
 
 Die Rente ist kein Vermögen, denn Vermögen gehört dir. Die Rente gehört dem System – bis es sie dir zurückgibt. Sie ist
@@ -100,8 +94,6 @@ Diese Unterscheidung ist keine technische Feinheit. Sie ist der Kern des Problem
 Beiträge umwandelt, diese Beiträge aber nicht als Eigentum anerkennt, behandelt den Menschen nicht als Subjekt, sondern
 als Material. Es extrahiert Wert aus seinem Leben, ohne ihm einen entsprechenden Anspruch zu gewähren. Es nimmt, ohne zu
 schulden.
-
----
 
 ### Wenn Fürsorge zur Bilanz wird
 
@@ -129,8 +121,6 @@ Rückholmechanik. Das Narrativ spricht von sozialem Ausgleich. Die Funktion ist 
 Man nennt dies Solidarität. Man nennt dies sozialen Ausgleich. Man nennt dies Fürsorge. In Wahrheit ist es die
 Verlagerung staatlicher Verantwortung auf private Schultern, verpackt in die Sprache der Gemeinschaft.
 
----
-
 ### Würde als Bilanzgröße
 
 Pflege ist heute nicht Absicherung, sondern Verwertungsschleife. Und das ist möglich, weil der Bürger keinen verankerten
@@ -149,8 +139,6 @@ Solange Fürsorge an Bedingungen geknüpft ist, dient sie nicht dem Menschen –
 zugreift, hat im Leben nicht unterstützt. Wer am Ende als Rechnung behandelt wird, war nie Ziel des Systems – nur
 Mittel.
 
----
-
 ### Die fehlende Gegenmacht
 
 All diese Konstruktionen sind nur möglich, weil der Bürger kein dauerhaftes politisches Gewicht seiner Stimme besitzt.
@@ -165,8 +153,6 @@ erlöschen.
 Die Abwesenheit dieser Gegenmacht ist der Schlüssel zum Verständnis. Nicht böser Wille einzelner Politiker hat diese
 Systeme geschaffen. Strukturen haben sie geschaffen – Strukturen, in denen der Bürger keine dauerhafte Position hat. Wo
 er keine Position hat, kann er auch nichts verteidigen. Und wo er nichts verteidigen kann, wird genommen.
-
----
 
 ### Ein anderes Modell ist denkbar
 
@@ -183,8 +169,6 @@ Und hier liegt der eigentliche Befund: Das bestehende System ist nicht Ergebnis 
 Entscheidungen. Es wurde so konstruiert, weil es dem Staat maximale Flexibilität und minimale Verbindlichkeit gewährt.
 Der Bürger trägt das Risiko. Der Staat behält die Kontrolle. Das nennt man nicht Fürsorge. Das nennt man
 Machtasymmetrie.
-
----
 
 ### Schlussverdichtung
 

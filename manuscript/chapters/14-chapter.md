@@ -17,8 +17,6 @@ Untertanen begreifen, sondern als Auftraggeber.
 Beide Fragen hängen zusammen. Die Architektur schafft den Rahmen. Die Psychologie füllt ihn mit Leben. Ohne das eine ist
 das andere unvollständig.
 
-------------------------------------------------------------------------
-
 ### Warum Demokratien kippen
 
 Demokratien scheitern nicht an Wahlen. Sie scheitern an Institutionen ohne Rückbindung.
@@ -39,8 +37,6 @@ Konzentration.
 Wenn es keine Gegenkräfte gibt, setzen sich diese Tendenzen durch. Die Demokratie wird zur Fassade. Die Souveränität
 wird zur Rhetorik. Der Bürger wird zum Zuschauer.
 
-------------------------------------------------------------------------
-
 ### Das Prinzip der Unkippbarkeit
 
 Ein Bürgerstaat ist nur dann stabil, wenn seine Institutionen nicht wieder in Machtapparate kippen können. Das Ziel ist
@@ -53,8 +49,6 @@ Menschen. Sondern durch Mechanismen, die Entartung strukturell verhindern.
 Das klingt ambitioniert. Aber es ist möglich. Die Frage ist nicht, ob perfekte Institutionen existieren können – sie
 können nicht. Die Frage ist, ob Institutionen so gestaltet werden können, dass ihre Schwächen begrenzt und ihre Stärken
 verstärkt werden.
-
-------------------------------------------------------------------------
 
 ### Die Architektur eines unkippbaren Staates
 
@@ -83,8 +77,6 @@ Akteur. Ein gelebtes Souveränitätsbewusstsein ist der Mechanismus, der dieses 
 All diese Ebenen wirken zusammen. Keine allein reicht aus. Aber gemeinsam bilden sie ein System, das gegen Kippen
 resistent ist.
 
-------------------------------------------------------------------------
-
 ### Warum dieses System nicht wieder kippen kann
 
 Es gibt fünf strukturelle Gründe, warum ein so gebauter Staat nicht wieder in einen Parteienstaat zurückfallen kann.
@@ -107,8 +99,6 @@ Existenz an ihre Funktion gebunden ist.
 Der fünfte Grund ist: Technologie als Wächter. Automatisierte Prüf- und Revisionslogiken erschweren schleichende
 Korruption und Machtkonzentration. Was früher Jahre brauchte, um aufzufallen, wird jetzt sofort sichtbar.
 
-------------------------------------------------------------------------
-
 ### Der Staat als Dienstvertrag
 
 Das Leitmotiv eines unkippbaren Staates lässt sich in einem Begriff zusammenfassen: Dienstvertrag.
@@ -122,8 +112,6 @@ Fürsorge, sondern Auftraggeber politischer Ausführung.
 
 Dieser Perspektivwechsel ist fundamental. Er verändert alles – wie Gesetze geschrieben werden, wie Verwaltung
 funktioniert, wie Politik gemacht wird. Er verändert das Selbstverständnis des Staates von Grund auf.
-
-------------------------------------------------------------------------
 
 ### Der mentale Wandel
 
@@ -144,8 +132,6 @@ gelernt, dass man Anträge stellt und hofft. Sie haben gelernt, dass Politik etw
 Dieser Habitus des Untertanen muss überwunden werden. Nicht durch Belehrung, nicht durch Propaganda, nicht durch Zwang.
 Sondern durch Erfahrung. Menschen werden zu Bürgern, wenn sie erleben, dass sie Macht haben. Wenn sie sehen, dass ihre
 Stimme zählt. Wenn sie spüren, dass der Staat ihnen dient.
-
-------------------------------------------------------------------------
 
 ### Die drei mentalen Schritte
 
@@ -170,8 +156,6 @@ Nicht Kommentator. Sondern Akteur. Ich gestalte mit. Ich trage Verantwortung. Ic
 Dieser Schritt ist der entscheidende. Erkennen und Zurückholen sind Voraussetzungen. Aber erst das Einsetzen macht den
 Bürger wirklich zum Bürger.
 
-------------------------------------------------------------------------
-
 ### Verantwortung statt Bitte
 
 Ein Bürgerstaat setzt voraus, dass Bürger Verantwortung besitzen, nicht nur Erwartungen. Das ist vielleicht der tiefste
@@ -188,8 +172,6 @@ Diese Verschiebung von der Bitte zur Verantwortung ist fundamental. Sie verände
 Sie verändert das Verhältnis zu sich selbst. Der Mensch, der Verantwortung trägt, ist ein anderer Mensch als der, der
 nur Erwartungen hat.
 
-------------------------------------------------------------------------
-
 ### Der kulturelle Durchbruch
 
 Ein Staat verändert sich nicht, weil Politiker andere Entscheidungen treffen. Ein Staat verändert sich, weil Bürger
@@ -205,20 +187,6 @@ Staates. Ich bin Auftraggeber des Staates.
 
 Wenn genug Menschen dieses Selbstverständnis haben, dann werden die Strukturen folgen. Dann wird der Bürgerstaat nicht
 mehr Utopie sein, sondern Wirklichkeit. Dann wird die Souveränität nicht mehr Rhetorik sein, sondern Realität.
-
-------------------------------------------------------------------------
-
-### Der Übergang zu Teil III
-
-Teil II endet hier, aber das Buch endet nicht. Teil III wird sich dem inneren Wandel widmen – dem Wandel im Menschen
-selbst, der Voraussetzung ist für jeden äußeren Wandel.
-
-Denn der Bürgerstaat ist nicht nur eine politische Ordnung. Er ist auch eine Haltung. Eine Art zu denken, zu fühlen, zu
-handeln. Eine Weise, in der Welt zu stehen – aufrecht, selbstbewusst, verantwortungsvoll.
-
-Diese Haltung kann nicht verordnet werden. Sie muss wachsen. Und Teil III zeigt, wie sie wachsen kann.
-
-------------------------------------------------------------------------
 
 ### Schlussverdichtung
 

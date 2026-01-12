@@ -13,8 +13,6 @@ Versprechen erhalten hat, das nie eingelöst wurde.
 Dieses Kapitel öffnet diesen Schlüssel. Es zeigt, was Artikel 146 tatsächlich bedeutet, warum er politisch neutralisiert
 wurde und warum er der Ausgangspunkt für alles sein könnte, was in Teil II dieses Buches entworfen wird.
 
-------------------------------------------------------------------------
-
 ### Was dort geschrieben steht
 
 Artikel 146 des Grundgesetzes lautet:
@@ -31,8 +29,6 @@ Grundgesetz ist nicht das letzte Wort. Es ist ein Übergangsdokument, das auf se
 
 Doch dieser Artikel wurde politisch neutralisiert, ohne aufgehoben zu werden. Er liegt offen auf dem Tisch, wie ein
 Schlüssel, den niemand benutzen soll. Jeder kann ihn sehen. Niemand greift danach.
-
-------------------------------------------------------------------------
 
 ### Was dieser Artikel tatsächlich bedeutet
 
@@ -53,8 +49,6 @@ ihr leben wollt?
 Diese Frage wurde nicht gestellt. Es gab keinen Volksentscheid, keine verfassungsgebende Versammlung, keine neue direkte
 Legitimation. Stattdessen wurde das Grundgesetz auf das Gebiet der ehemaligen DDR ausgedehnt. Der politische Trick: Aus
 „zu erfüllen" wurde „gelten lassen".
-
-------------------------------------------------------------------------
 
 ### Warum dieser Moment versäumt wurde
 
@@ -78,8 +72,6 @@ Ein Dokument, das von Experten geschrieben und von Parlamenten beschlossen wurde
 das das Volk selbst in freier Entscheidung beschlossen hat. Die Qualität mag dieselbe sein. Die Legitimation ist es
 nicht.
 
-------------------------------------------------------------------------
-
 ### Das unvollendete Verfassungsversprechen
 
 Wenn das Volk nie selbst eine Verfassung beschlossen hat, ist seine politische Mündigkeit unvollständig. Das ist keine
@@ -98,8 +90,6 @@ Anspruch nimmt.
 
 Dieser Moment kam nicht. Die Tür blieb offen, aber niemand ging hindurch.
 
-------------------------------------------------------------------------
-
 ### Wann ist der richtige Zeitpunkt?
 
 Artikel 146 wird nicht automatisch wirksam. Er wird aktiviert, sobald wir ihn in Anspruch nehmen. Nicht die Regierung,
@@ -116,8 +106,6 @@ erfasst. Das Gefühl, dass der Staat nicht mehr für die Bürger arbeitet, sonde
 Dieses Gefühl ist kein Beweis. Aber es ist ein Hinweis. Und Artikel 146 bietet einen Weg, mit diesem Gefühl umzugehen –
 nicht durch Protest, nicht durch Revolution, sondern durch den verfassungsrechtlich vorgesehenen Mechanismus.
 
-------------------------------------------------------------------------
-
 ### Was auf dem Spiel steht
 
 Die Konsequenz von Artikel 146 ist tiefgreifend. Wenn das Volk nie selbst eine Verfassung beschlossen hat, dann ist die
@@ -132,8 +120,6 @@ Bürger verleiht dem Staat Existenz. Diese Reihenfolge ist fundamental, und Arti
 Die Wiederherstellung echter Souveränität ist daher kein politisches Projekt im üblichen Sinne. Sie ist kein
 Programmpunkt einer Partei, keine Reform, die beschlossen werden könnte. Sie ist ein verfassungsrechtlicher Auftrag, der
 seit Jahrzehnten auf seine Erfüllung wartet.
-
-------------------------------------------------------------------------
 
 ### Der Ausblick
 
@@ -151,8 +137,6 @@ als lebendes Stimmrecht.
 
 Aber zunächst muss verstanden werden: Der Weg dorthin ist nicht verbaut. Er ist offen. Er steht im Grundgesetz selbst,
 als Einladung, die nie angenommen wurde.
-
-------------------------------------------------------------------------
 
 ### Schlussverdichtung
 

@@ -13,8 +13,6 @@ entscheiden. Ein Staat, der immer weiter existiert, egal wie sehr er versagt, ha
 Dieses Kapitel zeigt, wie es anders sein könnte. Wie der Staat ins Risiko genommen werden kann. Wie Demokratie von einem
 Ritual zu einer ständigen Kontrolle werden kann. Wie der Bürger vom Zuschauer zum Aufseher wird.
 
-------------------------------------------------------------------------
-
 ### Die Asymmetrie der Haftung
 
 Betrachten wir, wie Risiko im gegenwärtigen System verteilt ist. Wenn eine Fehlentscheidung getroffen wird, haftet der
@@ -34,8 +32,6 @@ Diese Asymmetrie ist nicht nur ungerecht. Sie ist dysfunktional. Denn sie erzeug
 verlieren hat, entscheidet anders als jemand, der etwas zu verlieren hat. Wer keine Konsequenzen fürchten muss, wird
 riskanter handeln, oberflächlicher prüfen, leichter Fehler machen.
 
-------------------------------------------------------------------------
-
 ### Haftung als Korrektiv
 
 In einem Bürgerstaat wäre diese Asymmetrie aufgehoben. Der Grundsatz wäre: Haftung nach oben. Der Staat trägt die Folgen
@@ -52,8 +48,6 @@ Der Gedanke dahinter ist einfach: Macht ohne Risiko erzeugt Beliebigkeit. Macht 
 wird Politik ohne Einsatz gespielt. Im Bürgerstaat müsste sie unter Einsatz geführt werden – mit der Möglichkeit, zu
 verlieren, wenn man falsch entscheidet.
 
-------------------------------------------------------------------------
-
 ### Warum Haftung Wahrheit sichert
 
 Es gibt einen tieferen Zusammenhang zwischen Haftung und Wahrheit. Wer keine Konsequenzen fürchten muss, kann lügen. Er
@@ -68,8 +62,6 @@ gehandelt.
 
 Rechenschaft ist daher kein moralischer Luxus. Sie ist Organisationsprinzip der Freiheit. Nur wer Folgen trägt, wägt ab.
 Nur wer verlieren kann, entscheidet ernsthaft. Nur wer nicht geschützt ist, kann dienen.
-
-------------------------------------------------------------------------
 
 ### Demokratie als Ritual
 
@@ -90,8 +82,6 @@ Kontrolle hat.
 Die heutige Demokratie ist Fassade. Formal existiert sie. Funktional nicht. Sie endet dort, wo Kontrolle beginnen
 müsste.
 
-------------------------------------------------------------------------
-
 ### Echte Demokratie als ständige Kontrolle
 
 Echte Demokratie wäre anders. Sie wäre nicht Stimmabgabe, sondern Machtkontrolle in Echtzeit. Sie wäre nicht ein
@@ -107,8 +97,6 @@ er Zugriffsmacht.
 Bürgerbeteiligung ist nur dann wirksam, wenn sie nicht entzogen werden kann. Das ist der entscheidende Test. Kann der
 Bürger eingreifen, wenn etwas schiefläuft? Kann er korrigieren, was falsch entschieden wurde? Kann er Macht entziehen,
 die missbraucht wird? Wenn ja, ist er Souverän. Wenn nein, ist er Zuschauer.
-
-------------------------------------------------------------------------
 
 ### Die Werkzeuge echter Kontrolle
 
@@ -129,8 +117,6 @@ All diese Werkzeuge zusammen würden einen Systemwechsel bedeuten. Der Bürger s
 stünde über ihm – faktisch, nicht nur symbolisch. Demokratie wäre kein Event mehr, sondern eine Dauerschranke gegen
 Machtmissbrauch.
 
-------------------------------------------------------------------------
-
 ### Die Rolle der Technologie
 
 Die Technologie kann diese Transformation ermöglichen. Sie macht echte Demokratie praktisch umsetzbar, was früher
@@ -147,8 +133,6 @@ dem Apparat. Sie macht transparent, was heute verborgen ist. Sie ermöglicht Kon
 Das ist keine Zukunftsmusik. Die Technologie existiert. Was fehlt, ist der politische Wille, sie einzusetzen. Und dieser
 Wille wird nicht von oben kommen. Er muss von unten kommen – vom Souverän selbst.
 
-------------------------------------------------------------------------
-
 ### Die Verbindung von Haftung und Kontrolle
 
 Haftung und Kontrolle gehören zusammen. Ohne Kontrolle gibt es keine Haftung, denn niemand sieht, wer was getan hat.
@@ -163,8 +147,6 @@ bei der Haftung. Erst wenn alle drei Elemente zusammenwirken, entsteht ein Syste
 
 Ein Staat, der Verantwortung teilt statt sie abzuwälzen, erkennt den Bürger als Ursprung – nicht als Polster. Dort, wo
 Herrschaft Risiko trägt, gewinnt Recht seine ursprüngliche Bedeutung zurück.
-
-------------------------------------------------------------------------
 
 ### Schlussverdichtung
 

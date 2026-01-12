@@ -17,8 +17,6 @@ durchschritten. Aber sie steht offen.
 
 Teil II schreitet hindurch.
 
-------------------------------------------------------------------------
-
 ### Von der Analyse zur Gestaltung
 
 Es gibt einen Moment in jeder ernsthaften Kritik, in dem die Frage unvermeidlich wird: Und was stattdessen? Diese Frage
@@ -35,8 +33,6 @@ soll, wie müsste dann der Mechanismus beschaffen sein, der diese Macht dauerhaf
 
 Diese Fragen sind nicht rhetorisch. Sie haben Antworten. Und diese Antworten sind nicht beliebig – sie ergeben sich aus
 der Logik der Sache selbst.
-
-------------------------------------------------------------------------
 
 ### Die Machtumkehr
 
@@ -55,8 +51,6 @@ rechtfertigen.
 Das klingt selbstverständlich – ist es doch angeblich schon so? Alle Staatsgewalt geht vom Volke aus, so steht es im
 Grundgesetz. Aber zwischen dem Anspruch und der Wirklichkeit liegt ein Abgrund. Teil II baut die Brücke über diesen
 Abgrund. Er zeigt, wie aus dem Anspruch Wirklichkeit werden kann.
-
-------------------------------------------------------------------------
 
 ### Was zurückgeholt werden muss
 
@@ -96,8 +90,6 @@ Der siebte und letzte Bereich ist die Sicherung. Kapitel 14 zeigt, wie die neuen
 werden können. Wie Institutionen „unkippbar" gemacht werden. Und es leitet über zu Teil III, der den mentalen Wandel
 behandelt, der all dem zugrunde liegen muss.
 
-------------------------------------------------------------------------
-
 ### Keine Revolution, sondern Rekonstruktion
 
 Es ist wichtig zu verstehen, was Teil II nicht ist. Er ist kein Aufruf zur Revolution. Er fordert keinen Umsturz, keine
@@ -115,8 +107,6 @@ Volkes zu machen, die sie sein sollte.
 
 Das ist keine radikale Forderung. Es ist die konservativste Forderung, die man stellen kann: dass die Verfassung
 bedeutet, was sie sagt.
-
-------------------------------------------------------------------------
 
 ### Der Unterschied zwischen Reform und Umkehr
 
@@ -139,8 +129,6 @@ Staat ist das Mittel. Und sie zeigt, wie ein Staat aussehen müsste, der nach di
 Das ist der Unterschied. Reform repariert. Umkehr rekonstruiert. Reform fragt: Wie machen wir das bestehende System
 besser? Umkehr fragt: Wie bauen wir ein System, das tatsächlich dem Bürger dient?
 
-------------------------------------------------------------------------
-
 ### Ein anderes Menschenbild
 
 Hinter der Umkehr steht ein anderes Menschenbild. Das gegenwärtige System beruht auf der Annahme, dass der Bürger im
@@ -158,8 +146,6 @@ rechtfertigt nicht, sie zu Objekten einer Verwaltung zu machen, die über sie ve
 Der Bürger ist kein Rohstoff. Er ist der Souverän. Und ein Staat, der diesen Namen verdient, muss ihn als solchen
 behandeln.
 
-------------------------------------------------------------------------
-
 ### Was auf dem Spiel steht
 
 Teil II ist kein akademisches Gedankenspiel. Was hier entworfen wird, hat praktische Konsequenzen. Es geht um die Frage,
@@ -175,8 +161,6 @@ Was von Menschen gemacht wurde, kann von Menschen geändert werden.
 
 Teil II zeigt einen Weg, wie es geändert werden könnte. Nicht den einzigen Weg. Aber einen Weg, der konsequent ist, der
 durchdacht ist, der die Probleme an der Wurzel angreift.
-
-------------------------------------------------------------------------
 
 ### Der Beginn der Gestaltung
 
@@ -215,8 +199,6 @@ Dieses Kapitel zeigt, dass es anders sein könnte. Dass Souveränität nicht Lei
 nicht abgegeben werden muss, sondern behalten werden kann. Dass der Staat nicht von oben nach unten funktionieren muss,
 sondern von unten nach oben.
 
-------------------------------------------------------------------------
-
 ### Die Richtung der Macht
 
 Ein Staat ist immer nur so menschlich wie sein Machtfluss. Das ist keine Metapher, das ist eine strukturelle
@@ -235,8 +217,6 @@ Das ist keine utopische Fantasie. Es ist die konsequente Anwendung dessen, was D
 Staatsgewalt vom Volke ausgeht, dann muss das Volk die Quelle sein, aus der diese Gewalt strömt – nicht ein Becken, in
 dem sie aufgefangen wird.
 
-------------------------------------------------------------------------
-
 ### Der fundamentale Unterschied
 
 Es gibt zwei Modelle, wie ein Staat funktionieren kann. Im Parteienstaat fließt Macht vom Staat zum Bürger. Der
@@ -254,8 +234,6 @@ Macht verteilt wird. Er bestimmt die Spielregeln, nach denen gespielt wird. Er i
 Ein Bürgerstaat würde durch Zustimmung existieren. Er hätte keine andere Legitimation als den fortwährenden Willen
 derjenigen, denen er dient. Nicht einmalige Zustimmung, die dann vergessen wird. Sondern dauerhafte Zustimmung, die
 jederzeit überprüft und entzogen werden kann.
-
-------------------------------------------------------------------------
 
 ### Warum Parteien zwangsläufig entgleisen
 
@@ -279,8 +257,6 @@ Position im System. Sie vertreten ihre Mitglieder, ihre Funktionäre, ihre Karri
 Gleichung nur noch als Wähler vor – als jemand, der alle paar Jahre überzeugt werden muss, damit das Spiel weitergehen
 kann.
 
-------------------------------------------------------------------------
-
 ### Was Souveränität wirklich bedeutet
 
 Es ist Zeit, den Begriff der Souveränität ernst zu nehmen. Nicht als rhetorische Floskel, nicht als Sonntagsrede, nicht
@@ -299,8 +275,6 @@ er vergibt, ist vergeben – bis zum nächsten Wahltermin, und selbst dann entsc
 überlässt.
 
 Das ist keine Souveränität. Das ist Zuschauen mit gelegentlicher Beteiligung.
-
-------------------------------------------------------------------------
 
 ### Die Werkzeuge echter Bürger-Souveränität
 
@@ -332,8 +306,6 @@ gegen den Zugriff derer, die sie einschränken wollen.
 All diese Werkzeuge zusammen würden einen Systemwechsel bedeuten. Heute bewertet der Staat den Bürger. Im Bürgerstaat
 würde der Bürger den Staat bewerten. Das ist der Unterschied zwischen Untertan und Souverän.
 
-------------------------------------------------------------------------
-
 ### Die juristische Logik des Wandels
 
 Souveränität bedeutet nicht abstrakte Volksherrschaft. Sie bedeutet Rechtsanspruch auf Einfluss, nicht Gnadenrecht auf
@@ -353,8 +325,6 @@ vorgelagert – ursprünglich, unveräußerlich, nicht verhandelbar.
 Das ist die juristische Logik des Wandels. Der Bürger ist nicht Empfänger von Rechten, die der Staat ihm gnädig gewährt.
 Er ist Träger von Rechten, die dem Staat vorausgehen. Der Staat existiert, weil der Bürger es so will – nicht umgekehrt.
 
-------------------------------------------------------------------------
-
 ### Die psychologische Dimension
 
 Es gibt auch eine psychologische Dimension dieses Wandels. Solange der Bürger nur bestätigt, verwaltet der Staat Macht
@@ -372,8 +342,6 @@ der, der nur gehorchen kann. Er steht aufrechter. Er denkt weiter. Er handelt be
 Die Demokratie, die wir haben, erzeugt Passivität. Sie sagt dem Bürger: Gib deine Stimme ab und warte. Die Demokratie,
 die wir brauchen, würde Aktivität erzeugen. Sie würde sagen: Deine Stimme gehört dir. Behalte sie. Nutze sie. Lass sie
 niemals los.
-
-------------------------------------------------------------------------
 
 ### Der Systemwechsel
 
@@ -394,8 +362,6 @@ getan wird.
 
 Politische Autorität ohne Abrufbarkeit ist kein Mandat. Sie ist Besitzstand. Und Besitzstand wird verteidigt – gegen
 jeden, der ihn in Frage stellt. Auch gegen den Bürger.
-
-------------------------------------------------------------------------
 
 ### Schlussverdichtung
 

@@ -11,8 +11,6 @@ So entsteht systematische Finanzierung ohne demokratische Legitimation und struk
 Zustimmung. Das Geld verschwindet in Gebühren, Auflagen und Verfahrenskosten – und niemand nennt es Steuer, obwohl es
 genau wie eine wirkt.
 
----
-
 ### Der Unterschied, der keiner ist
 
 Eine klassische Steuer ist sichtbar. Sie steht auf der Lohnabrechnung, im Steuerbescheid, in den Nachrichten. Der Bürger
@@ -28,8 +26,6 @@ weil der Staat es verlangt. Nur nennst du es nicht Steuer, sondern Gebühr, Beit
 Zertifizierungsaufwand.
 
 Die Steuer erscheint transparent. Die Regulierung verschleiert ihre Abgabennatur.
-
----
 
 ### Die Ökonomie der Erlaubnis
 
@@ -55,8 +51,6 @@ Aber die Frage ist nicht, ob jede einzelne Regulierung Sinn macht. Die Frage ist
 profitiert. Und hier zeigt sich ein Muster: Regulierung wächst. Sie wird komplexer, nicht einfacher. Sie erzeugt Bedarf
 an Verwaltung, an Kontrolle, an Expertise – und damit an Geld.
 
----
-
 ### Die Rationierung der Freiheit
 
 Was der Staat durch Regulierung tut, lässt sich präzise beschreiben: Er rationiert Freiheit. Er nimmt sie zunächst weg –
@@ -75,8 +69,6 @@ dass du etwas kannst, sondern dass du einen staatlich anerkannten Nachweis hast.
 Der Staat gewährt also kein grundlegendes Recht. Er vermietet temporären Handlungsspielraum. Freiheit wird nicht
 vorausgesetzt, sondern muss „gestattet" werden. Die Genehmigung ist das Produkt, das der Staat verkauft. Und wie jedes
 Produkt hat sie einen Preis.
-
----
 
 ### Warum das System dies benötigt
 
@@ -102,8 +94,6 @@ immer mehr Regulierung führen. Wer eine neue Vorschrift einführt, gilt als akt
 eine Vorschrift abschafft, gilt als nachlässig, als riskant, als verantwortungslos. Also wachsen die Vorschriften – und
 mit ihnen die versteckten Kosten.
 
----
-
 ### Die unsichtbare Steuer in Zahlen
 
 Es ist schwer, die genauen Kosten der Regulierung zu beziffern, weil sie per Definition versteckt sind. Aber es gibt
@@ -118,8 +108,6 @@ niemand darüber abstimmt.
 Dazu kommen die indirekten Kosten: die Innovation, die nicht stattfindet, weil die Hürden zu hoch sind; die Unternehmen,
 die nicht gegründet werden, weil der Aufwand zu groß ist; die Ideen, die in Schubladen verschwinden, weil die Zulassung
 zu teuer wäre. Diese Kosten sind noch schwerer zu messen, aber sie sind real.
-
----
 
 ### Kontrolle, verpackt als Schutz
 
@@ -140,8 +128,6 @@ schwächen".
 Diese rhetorische Verschmelzung ist wirksam, aber sie ist unredlich. Denn sie verwechselt zwei verschiedene Dinge: den
 berechtigten Schutz vor echten Gefahren und die bürokratische Kontrolle um ihrer selbst willen.
 
----
-
 ### Der Erlaubnisraum
 
 Was durch Regulierung entsteht, ist kein Rechtsraum im eigentlichen Sinne. Es ist ein Erlaubnisraum. Der Unterschied ist
@@ -160,8 +146,6 @@ Beweislast ist verschoben – und mit ihr das Machtverhältnis.
 Ein Staat, der Rechte in Genehmigungen verwandelt, verschiebt die Achse der Macht. Bürger werden Antragsteller, nicht
 Eigentümer ihrer Freiheit. Sie bitten um Erlaubnis, wo sie eigentlich ein Recht haben sollten. Und wer seine Freiheit
 nur auf Bewilligung hin ausüben darf, besitzt sie nicht wirklich.
-
----
 
 ### Schlussverdichtung
 

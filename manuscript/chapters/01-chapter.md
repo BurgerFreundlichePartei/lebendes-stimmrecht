@@ -101,8 +101,6 @@ Geschichte, und sie wird so oft wiederholt, dass sie kaum noch hinterfragt wird.
 Doch diese Erzählung verschleiert eine strukturelle Wahrheit, die weitaus unbequemer ist: Der Staat nimmt nicht nur
 einen Teil des Erwirtschafteten. Er erhebt Anspruch auf das Erwirtschaftbare selbst.
 
----
-
 ### Die Verfügung über das Ungelebte
 
 Steuerhoheit bedeutet nicht bloß, dass ein Prozentsatz des Einkommens abgezogen wird. Sie bedeutet die Macht, jederzeit
@@ -127,8 +125,6 @@ Der Staat nimmt, was er für notwendig hält, und der Bürger hat kein Einspruch
 Wahlen hinausginge. In diesem Sinne ist das gegenwärtige Steuersystem keine Partnerschaft, sondern ein
 Abhängigkeitsverhältnis.
 
----
-
 ### Der stille Teilhaber
 
 Der Staat ist damit etwas, das selten so benannt wird: stiller Miteigentümer. Er sitzt unsichtbar mit am Tisch, bei
@@ -147,8 +143,6 @@ theoretische Größe auf einer Abrechnung. Der Staat hat sich bedient, bevor der
 
 Man könnte argumentieren, dass der Staat ja auch etwas zurückgibt: Infrastruktur, Sicherheit, soziale Absicherung. Und
 das stimmt – in gewissem Umfang. Aber was er zurückgibt, ist kein Eigentum. Es ist bedingte Zuteilung.
-
----
 
 ### Das unsichtbare Eigentum
 
@@ -170,8 +164,6 @@ Der Staat formuliert es anders: „Du erhältst Rente, weil du eingezahlt hast."
 wir festlegen – zu Bedingungen, die wir bestimmen." Das ist kein Vertrag im rechtlichen Sinne. Es ist ein einseitiges
 Versprechen, dessen Einhaltung nicht einklagbar ist.
 
----
-
 ### Die Asymmetrie der Haftung
 
 Diese Struktur wird besonders deutlich, wenn man die Haftungsverhältnisse betrachtet. Der Bürger haftet für
@@ -188,8 +180,6 @@ gilt. Er ist Richter in eigener Sache.
 
 Das Verhältnis ist fundamental asymmetrisch: Der Bürger steht in Verpflichtung, der Staat in Verfügung. Der eine
 schuldet, der andere gewährt. Der eine haftet, der andere entscheidet.
-
----
 
 ### Vom Werkzeug zum Selbstzweck
 
@@ -215,8 +205,6 @@ Auch dieser Einwand ist nicht falsch, aber er übersieht den entscheidenden Punk
 existieren soll, sondern wem sie dient. Dient sie dem Bürger, der sie beauftragt? Oder dient sie sich selbst, indem sie
 ihre eigene Notwendigkeit perpetuiert?
 
----
-
 ### Der Bürger als Finanzierungsquelle
 
 In der Logik des heutigen Systems ist der Bürger nicht Auftraggeber, sondern Finanzierungsquelle. Er ist ein Input, der
@@ -238,8 +226,6 @@ beliebig erhöhen kann, ohne Leistung zu erbringen, würde als ausbeuterisch bez
 verlangt, ohne Rechenschaft abzulegen, würde als unseriös gelten. Nur beim Staat wird dieses Verhältnis als
 selbstverständlich akzeptiert – weil wir es nicht anders kennen.
 
----
-
 ### Die fundamentale Frage
 
 Das erste Kapitel endet mit einer Frage, die das gesamte System trifft: Wer ist Eigentümer des Lebens, das gelebt wird?
@@ -258,8 +244,6 @@ der Bürger nicht Auftraggeber, sondern Material zur Aufrechterhaltung des Syste
 
 Dies ist die fundamentale Verschiebung, die sichtbar werden muss, bevor ein anderes System denkbar wird: Der Staat ist
 kein Werkzeug mehr. Er ist eine Maschine, die sich selbst antreibt – indem sie den Menschen als Treibstoff verbraucht.
-
----
 
 ### Schlussverdichtung
 

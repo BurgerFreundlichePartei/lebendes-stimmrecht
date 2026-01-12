@@ -11,8 +11,6 @@ die innerhalb des Apparats stehen, und diejenigen, die außerhalb stehen. Die ei
 bekommen ein Risiko. Die einen haben Garantien, die anderen haben Versprechen. Und zwischen beiden Welten liegt eine
 Mauer aus Formularen, Verfahren und institutionalisiertem Misstrauen.
 
-------------------------------------------------------------------------
-
 ### Das unfreiwillige Geständnis
 
 Betrachten wir die Altersvorsorge – jenen Bereich, von dem behauptet wird, er sichere alle gleichermaßen ab.
@@ -42,8 +40,6 @@ seine eigenen Leute ein paralleles System – sicher, risikofrei, mit echten Ans
 
 Dieses System zeigt unmissverständlich, dass nicht Solidarität, sondern Selbsterhalt das Fundament ist.
 
-------------------------------------------------------------------------
-
 ### Die Funktionsarchitektur der Ungleichheit
 
 Es ist kein Fehler, dass Beamte besser abgesichert sind. Es ist die Funktionsarchitektur des Systems: eine Schicht, die
@@ -60,8 +56,6 @@ Bürger, sondern dem Apparat; nicht der Leistung, sondern der Zugehörigkeit.
 
 Wer innerhalb steht, ist versorgt. Wer außerhalb steht, ist austauschbar. Solange die Verwaltung mehr Zukunft hat als
 der Bürger, ist Macht nicht delegiert, sondern abgezogen.
-
-------------------------------------------------------------------------
 
 ### Die Mauer aus Papier
 
@@ -81,8 +75,6 @@ ein System, das nicht hilft, sondern hinhält.
 
 Der Antrag führt zu Entmutigung. Der Nachweis ist ein Misstrauensprotokoll. Die Prüfung bedeutet Zeitverlust. Die
 Bearbeitung erzeugt Abhängigkeit. Ein System, das helfen wollte, würde dich nicht zuerst aushöhlen.
-
-------------------------------------------------------------------------
 
 ### Kontrolle durch Erschöpfung
 
@@ -104,8 +96,6 @@ die Daten längst besitzt. Es erklärt nicht, warum Verfahren Monate dauern, die
 Die Erklärung liegt nicht im Sachzwang. Sie liegt im Interesse. Bürokratie ist so gestaltet, weil Überforderung beim
 Bürger politisch nützlich ist.
 
-------------------------------------------------------------------------
-
 ### Die politische Funktion der Überforderung
 
 Ein erschöpfter Bürger fordert nichts. Er kontrolliert nichts. Er wehrt sich nicht. Er nimmt, was man ihm gibt, und ist
@@ -122,8 +112,6 @@ Antrags. Würde der Antrag vereinfacht, wäre die Stelle überflüssig. Also wir
 Die Bürokratie schafft sich ihre eigene Notwendigkeit. Und der Bürger zahlt – nicht nur mit Geld, sondern mit Zeit, mit
 Energie, mit Würde.
 
-------------------------------------------------------------------------
-
 ### Wer Anträge stellen muss, bittet um Menschsein
 
 Es gibt einen Moment in jedem bürokratischen Verfahren, der selten so benannt wird, aber von jedem gespürt wird: Der
@@ -139,8 +127,6 @@ Verzögerung, nicht durch Ablehnung. Durch Komplexität, nicht durch offene Verw
 Bürokratie ist die höfliche Form der Verweigerung. Sie nimmt dem Bürger nicht seine Rechte, sondern die Kraft, sie zu
 nutzen. So entsteht Unterordnung ohne Gewalt und Akzeptanz ohne Zustimmung.
 
-------------------------------------------------------------------------
-
 ### Die doppelte Funktion der Distanz
 
 Die Bürokratie hat also eine doppelte Funktion. Einerseits schützt sie die privilegierte Klasse – denn für Beamte und
@@ -155,8 +141,6 @@ politisch erwünscht.
 Das ist keine Unterstellung bösen Willens. Es ist eine Beschreibung von Anreizstrukturen. Das System belohnt Komplexität
 und bestraft Einfachheit. Es belohnt Zugangsbarrieren und bestraft Zugänglichkeit. Also entsteht, was entsteht: ein
 Labyrinth, das nur Eingeweihte durchqueren können.
-
-------------------------------------------------------------------------
 
 ### Der historische Kontrast
 
@@ -177,8 +161,6 @@ heute Verstoß. Und ein Verstoß lässt sich verwalten, verschieben, relativiere
 Der Staat wechselte die Perspektive. Früher war der Bürger der Souverän, und wer ihn betrog, verriet die Grundlage der
 Ordnung. Heute ist der Staat der Souverän, und wer ihn betrügt, begeht ein internes Fehlverhalten. Das Opfer – der
 Bürger – verschwindet aus der Definition.
-
-------------------------------------------------------------------------
 
 ### Schlussverdichtung
 

@@ -13,8 +13,6 @@ Er ist Souverän in der Theorie und Verfügungsmasse in der Wirklichkeit.
 Dieses Kapitel zeigt, wie diese Neutralisierung funktioniert – und warum diejenigen, die sie vollziehen, dabei selbst
 unangreifbar bleiben.
 
-------------------------------------------------------------------------
-
 ### Die drei Ebenen der Neutralisierung
 
 Die Entmächtigung des Bürgers vollzieht sich auf drei Ebenen, die zusammenwirken und sich gegenseitig verstärken.
@@ -33,8 +31,6 @@ keine Instanz, die Würde durchsetzt. Die Würde steht in der Präambel und vers
 
 Der Bürger verliert also nichts direkt. Er verliert den Hebel, es zu sichern. Er verliert nicht seine Rechte, sondern
 die Kraft, sie zu nutzen. Er verliert nicht seine Würde, sondern ihre Durchsetzungskraft.
-
-------------------------------------------------------------------------
 
 ### Entmachtung durch Verwaltbarkeit
 
@@ -55,8 +51,6 @@ Im gegenwärtigen System gibt es diese Macht nicht. Der Bürger kann nein sagen,
 widersprechen, aber der Widerspruch versandet in Verfahren. Er kann fordern, aber die Forderung wird abgewogen gegen
 andere Interessen – und verliert meistens.
 
-------------------------------------------------------------------------
-
 ### Die delegierte Souveränität
 
 Der Bürger besitzt heute keine dauerhafte Eigenmacht. Er verfügt nur über delegierte Macht – und Delegation endet immer
@@ -73,8 +67,6 @@ begrenzen vorgibt.
 Der Bürger glaubt, er sei der Souverän, weil es in der Verfassung steht. Aber Souveränität besteht nicht im Anspruch.
 Sie besteht in der Unmöglichkeit, entmachtet zu werden. Solange der Staat definieren kann, wann der Bürger wirken darf,
 ist der Bürger kein Ursprung der Ordnung, sondern Bestandteil ihrer Funktionslogik.
-
-------------------------------------------------------------------------
 
 ### Der historische Kontrast
 
@@ -97,8 +89,6 @@ Ruf, nicht im Gerichtssaal.
 Das System schützte den Bürger, nicht den Täter. Wer seine Macht missbrauchte, verlor alles – nicht weil das Gesetz es
 so vorsah, sondern weil die Gesellschaft es so erwartete.
 
-------------------------------------------------------------------------
-
 ### Die Transformation zur Unangreifbarkeit
 
 Heute ist dieser moralische Charakter der Tat entfernt worden. Was früher Verrat war, ist heute ein Verstoß. Und ein
@@ -113,8 +103,6 @@ Diese Verschiebung hat Konsequenzen. Wenn der Bürger nicht mehr als Opfer gilt,
 Wiedergutmachung. Wenn der Staat sich selbst als Geschädigten betrachtet, dann geht es nicht mehr um den Schaden am
 Menschen, sondern um den Schaden am System. Und das System verzeiht seinen eigenen Leuten leichter als den
 Außenstehenden.
-
-------------------------------------------------------------------------
 
 ### Die Architektur der Unangreifbarkeit
 
@@ -131,8 +119,6 @@ Dienstweg sich zufällig öffnet. Der Mechanismus ist nicht Mut zum Regelbruch, 
 
 Ein Vorgang könnte in drei Tagen erledigt sein. Drei Monate machen ihn wertvoll. Nicht das Ergebnis kostet – die
 Wartezeit ist die Währung. In einem System ohne Konkurrenz wird Wartezeit zur strukturellen Erpressbarkeit.
-
-------------------------------------------------------------------------
 
 ### Warum der Täter nicht stürzt
 
@@ -151,8 +137,6 @@ Korruption ist heute kein individueller Absturz mehr. Sie ist ein strukturelles 
 ohne Wirkung. Nicht Moral begrenzt den Täter, sondern das minimale Risiko, ertappt zu werden. Und selbst dieses Risiko
 liegt in den Händen desselben Apparats, dem er angehört.
 
-------------------------------------------------------------------------
-
 ### Die doppelte Entmachtung
 
 So entsteht eine doppelte Entmachtung. Der Bürger verliert seine Wirkmacht, weil er keine dauerhaften Hebel besitzt. Und
@@ -164,8 +148,6 @@ Herrschaftsform ist nicht Verbot, sondern Wirkungslosigkeit. Nicht Zwang, sonder
 Ein Mensch, dem die Möglichkeit zur Durchsetzung fehlt, besitzt nichts dauerhaft, auch wenn Gesetze ihm Rechte
 aufzählen. Ein Bürger, der gegen unangreifbare Strukturen anrennt, wird nicht unterdrückt – er wird erschöpft. Das
 Ergebnis ist dasselbe, aber die Methode ist unsichtbarer.
-
-------------------------------------------------------------------------
 
 ### Schlussverdichtung
 

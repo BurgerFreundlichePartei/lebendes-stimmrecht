@@ -11,8 +11,6 @@ Dieses Kapitel beantwortet diese Frage. Es zeigt den Bürgerstaat nicht von oben
 sondern von unten, aus der Perspektive des Menschen, der in ihm lebt. Und es zeigt den Weg dorthin – nicht als
 Revolution, die alles umstürzt, sondern als Evolution, die Schritt für Schritt verändert.
 
-------------------------------------------------------------------------
-
 ### Ein anderer Morgen
 
 Stellen wir uns vor, der Bürgerstaat sei Wirklichkeit geworden. Wie würde ein gewöhnlicher Tag aussehen?
@@ -39,8 +37,6 @@ Wille zählt, jeden Tag, nicht nur alle vier Jahre.
 
 Keine Partei repräsentiert dich, weil du dich selbst repräsentierst.
 
-------------------------------------------------------------------------
-
 ### Die Abwesenheit von Ohnmacht
 
 Was du im Alltag spürst, ist die Abwesenheit von Ohnmacht. Das ist vielleicht das Wichtigste an diesem Bild. Nicht die
@@ -55,8 +51,6 @@ nicht sein Objekt. Du bist sein Auftraggeber. Und ein Auftraggeber ist niemals o
 
 Der Bürgerstaat erzwingt keinen Gehorsam. Er ermöglicht Souveränität. Das ist der fundamentale Unterschied. Im alten
 System fragst du: Was erlaubt mir der Staat? Im Bürgerstaat fragst du: Was beauftrage ich den Staat?
-
-------------------------------------------------------------------------
 
 ### Der Alltag als Test der Demokratie
 
@@ -80,8 +74,6 @@ Loyalitätspflicht, ohne Unterordnungsgeste, ohne Kampf um das, was bereits zust
 
 Der Staat wird nicht am Feiertag gemessen, sondern am Montagmorgen.
 
-------------------------------------------------------------------------
-
 ### Der Weg dorthin
 
 Aber wie gelangt man von der heutigen Ordnung zu dieser Form von Staat? Diese Frage ist entscheidend. Eine Alternative
@@ -90,8 +82,6 @@ ist nur dann stark, wenn auch der Übergang stark ist.
 Die Antwort beginnt mit einer Einsicht: Staatliche Machtstrukturen lassen sich nicht stürzen, aber sie lassen sich
 entwerten. Die Kontrolle kann Schritt für Schritt an die Bürger zurückkehren. Nicht durch Umsturz, sondern durch
 Funktionswechsel.
-
-------------------------------------------------------------------------
 
 ### Warum Revolution immer scheitert
 
@@ -112,8 +102,6 @@ System kämpft, wird selbst zum System.
 Das ist kein Argument gegen Veränderung. Es ist ein Argument gegen eine bestimmte Art von Veränderung. Revolution
 zerstört, aber sie baut nicht auf. Sie beseitigt das Alte, aber sie schafft nicht das Neue. Sie hinterlässt ein Vakuum,
 das von den Skrupellosesten gefüllt wird.
-
-------------------------------------------------------------------------
 
 ### Warum Evolution funktioniert
 
@@ -139,8 +127,6 @@ Die dritte Phase ist die Übergabestufe. Die Verwaltungslogik wird umgekehrt. Wa
 Standard. Der Bürger übernimmt – ohne Bruch, ohne Chaos. Die alten Strukturen werden nicht zerstört. Sie werden
 überflüssig.
 
-------------------------------------------------------------------------
-
 ### Warum der Bürgerstaat unvermeidlich ist
 
 Politische Systeme folgen wiederkehrenden Zyklen. Erst kommt die Legitimation – das System wird akzeptiert, weil es
@@ -157,8 +143,6 @@ Menschen beginnen zu fragen: Muss es so sein? Könnte es anders sein?
 
 Dieses Buch ist Teil dieser Alternativphase. Es zeigt, dass es anders sein könnte. Es beschreibt, wie es anders sein
 könnte. Es argumentiert, warum es anders sein sollte.
-
-------------------------------------------------------------------------
 
 ### Die psychologische Veränderung
 
@@ -178,8 +162,6 @@ engagierter, verantwortungsbewusster. Er wartet nicht darauf, dass andere für i
 
 Das ist vielleicht die tiefste Veränderung, die der Bürgerstaat bringen würde. Nicht nur eine andere Struktur. Sondern
 andere Menschen – Menschen, die aufrecht stehen, weil sie wissen, dass sie der Souverän sind.
-
-------------------------------------------------------------------------
 
 ### Schlussverdichtung
 

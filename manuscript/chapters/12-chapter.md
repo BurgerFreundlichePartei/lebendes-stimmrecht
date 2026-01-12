@@ -15,8 +15,6 @@ Die Antwort ist das lebende Stimmrecht: eine Stimme, die niemals verfällt, niem
 wird. Eine Stimme, die dem Bürger gehört wie sein Name, seine Würde, seine Freiheit. Eine Stimme, die nicht abgegeben
 wird, sondern behalten – und die fortwirkt, kontinuierlich, als dauerhafter Ausdruck des Bürgerwillens.
 
-------------------------------------------------------------------------
-
 ### Das Problem der sterblichen Stimme
 
 Um zu verstehen, was das lebende Stimmrecht ist, muss man zunächst verstehen, was es nicht ist. Es ist nicht das, was
@@ -36,8 +34,6 @@ nächste Wahl ist.
 
 Dazwischen regiert der Apparat. Dazwischen entscheiden andere. Dazwischen geschieht, was die Mächtigen für richtig
 halten – nicht was der Souverän will. Denn der Souverän hat keine Stimme mehr. Sie ist tot.
-
-------------------------------------------------------------------------
 
 ### Die Idee des lebenden Stimmrechts
 
@@ -59,8 +55,6 @@ Abwesenheit ist keine Machtlücke mehr.
 Aber – und das ist entscheidend – der Bürger behält die Kontrolle. Er kann sein Profil jederzeit ändern. Er kann bei
 wichtigen Fragen persönlich abstimmen. Er kann festlegen, wann das Profil automatisch wirkt und wann er selbst
 entscheidet. Er ist Herr über den Vertretungsmodus. Das Profil ist sein Werkzeug, nicht sein Ersatz.
-
-------------------------------------------------------------------------
 
 ### Die drei Ebenen des politischen Profils
 
@@ -89,8 +83,6 @@ Er kann auch ein hybrides Modell wählen: persönlich bei Grundsatzfragen, autom
 Trigger-Regeln definieren: Bei bestimmten Themen will er immer persönlich abstimmen, bei anderen überlässt er die
 Entscheidung seinem Profil.
 
-------------------------------------------------------------------------
-
 ### Das Profil als fortgesetzter Volkswille
 
 Das Profil wirkt nicht nur als statische Einstellung. Es wirkt als dauerhafte Machtausübung. Es ist nicht Abbild der
@@ -110,8 +102,6 @@ Legitimität. Nicht mehr Repräsentation auf Zeit, sondern ständiger Anschluss 
 Der Staat ist nicht mehr Interpret des Volkswillens. Er ist Exekutor des Volksauftrags. Er führt aus, was die Bürger
 wollen – nicht was er selbst für richtig hält. Und wenn die Bürger ihre Meinung ändern, ändert sich der Auftrag. Sofort.
 Nicht erst bei der nächsten Wahl.
-
-------------------------------------------------------------------------
 
 ### Die praktische Umsetzung
 
@@ -133,8 +123,6 @@ Momentaufnahme von vor vier Jahren.
 Und wenn der Bürger seine Meinung ändert? Dann ändert er sein Profil. Sofort. Ohne auf die nächste Wahl zu warten. Die
 Änderung wirkt unmittelbar. Seine neue Position fließt in alle künftigen Entscheidungen ein.
 
-------------------------------------------------------------------------
-
 ### Die Wirkung auf das Steuersystem
 
 Eine der revolutionärsten Konsequenzen des lebenden Stimmrechts betrifft das Steuersystem. Steuern sind heute
@@ -152,8 +140,6 @@ der Bürgerprofile bestimmt. Die Regierung würde ausführen, nicht entscheiden.
 Die Konsequenz wäre tiefgreifend. Politik könnte nicht mehr dauerhaft gegen die Mehrheit regieren, weil die Mehrheit
 ständig sichtbar wäre. Nicht nur an Wahltagen, sondern jeden Tag. Jede Entscheidung könnte gemessen werden am
 tatsächlichen Bürgerwillen. Abweichungen wären erkennbar – und korrigierbar.
-
-------------------------------------------------------------------------
 
 ### Der Schutz der Privatsphäre
 
@@ -174,8 +160,6 @@ Server. Wenn es in eine Abstimmung einfließt, wird es durch ein Verfahren gesch
 trennt. Das Ergebnis ist verifizierbar – man kann prüfen, dass die Stimme korrekt gezählt wurde –, aber die Einzelstimme
 ist nicht rekonstruierbar. Das System weiß, was die Bürger gemeinsam wollen. Es weiß niemals, was der Einzelne denkt.
 
-------------------------------------------------------------------------
-
 ### Die technische Architektur
 
 Die Technologie, die das ermöglicht, existiert bereits. Sie heißt Zero-Knowledge-Proofs, Multi-Party-Computation,
@@ -194,8 +178,6 @@ Angriffe.
 Unabhängige Auditoren können die Korrektheit des Verfahrens prüfen – aber auch sie sehen keine Einzelprofile. Sie sehen
 nur, dass das System korrekt funktioniert. Die Transparenz gilt dem Verfahren, nicht den Inhalten.
 
-------------------------------------------------------------------------
-
 ### Die rechtliche Absicherung
 
 Technischer Schutz allein reicht nicht. Er muss rechtlich abgesichert sein, mit Verfassungsrang, mit harten Sanktionen,
@@ -210,8 +192,6 @@ Bürger kontrollieren den Staat; der Staat kontrolliert niemals ihre Gesinnung.
 
 Mit diesem einen Artikel wäre jede spätere Missbrauchsmöglichkeit verfassungsrechtlich blockiert. Nicht durch Vertrauen
 in die Regierung, sondern durch strukturelle Unmöglichkeit.
-
-------------------------------------------------------------------------
 
 ### Der Schutz der Minderheiten
 
@@ -231,8 +211,6 @@ Der Grundsatz lautet: Nicht die Mehrheit sichert Freiheit, sondern das Unvermög
 isolieren. Minderheitenschutz beginnt nicht beim Gesetzestext, sondern bei der Unmöglichkeit, den Einzelnen politisch zu
 kartieren.
 
-------------------------------------------------------------------------
-
 ### Was sich verändert
 
 Wenn das lebende Stimmrecht Wirklichkeit würde, veränderte sich das Verhältnis zwischen Bürger und Staat grundlegend.
@@ -247,8 +225,6 @@ Der Staat ist nicht mehr Interpret des Volkswillens. Er ist Exekutor des Volksau
 Das ist keine kleine Reform. Das ist eine andere Art von Demokratie. Eine Demokratie, in der Souveränität kein Wort ist,
 sondern Wirklichkeit. In der der Bürger nicht Zuschauer ist, sondern Akteur. In der Macht nicht verliehen wird, sondern
 behalten.
-
-------------------------------------------------------------------------
 
 ### Schlussverdichtung
 

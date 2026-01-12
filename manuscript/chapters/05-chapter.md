@@ -13,8 +13,6 @@ sondern eine Bilanzposition, deren Wert sich nach ihrer Verwertbarkeit bemisst.
 
 Das klingt hart. Aber es beschreibt präzise, was das System tut – nicht was es sagt.
 
-------------------------------------------------------------------------
-
 ### Die vier Lebensphasen der Verwertung
 
 Betrachten wir, wie das System einen Menschen sieht, wenn man die rhetorische Oberfläche abzieht und nur auf die
@@ -41,8 +39,6 @@ Diese Darstellung ist keine Karikatur. Sie ist die logische Konsequenz aus der A
 System, das Menschen nach Phasen ihrer Verwertbarkeit sortiert, erkennt sie nicht als Ursprung politischer Ordnung,
 sondern als Glieder in einer Wertschöpfungskette.
 
-------------------------------------------------------------------------
-
 ### Die Frage, die nicht gestellt wird
 
 Der Staat fragt nicht: Wer bist du? Er fragt: Was trägst du bei?
@@ -63,8 +59,6 @@ beitragen? Und wenn er nicht mehr beitragen kann, fragt sie: Wie können wir die
 
 Das ist keine böse Absicht einzelner Politiker. Es ist die Logik eines Systems, das sich selbst zum Zweck erklärt hat.
 
-------------------------------------------------------------------------
-
 ### Der Apparat, der sich selbst erhält
 
 Hier liegt der Schlüssel zum Verständnis: Der Staat ist nicht mehr Mittel, sondern Zweck. Er existiert nicht mehr, um
@@ -83,8 +77,6 @@ innerhalb der bestehenden Ordnung, nicht außerhalb.
 Der Bürger steht außerhalb dieser Kette. Er darf beobachten, aber nicht eingreifen. Er darf wählen, aber nicht
 korrigieren. Er darf kritisieren, aber nicht sanktionieren. Er ist Zuschauer eines Spiels, dessen Regeln er nicht ändern
 kann.
-
-------------------------------------------------------------------------
 
 ### Warum echte Korrektur unmöglich ist
 
@@ -107,8 +99,6 @@ Und selbst wenn sie abgewählt werden, bleiben die Strukturen dieselben. Die Par
 
 Korrektur ohne Außenmacht ist keine Korrektur. Sie ist Simulation.
 
-------------------------------------------------------------------------
-
 ### Die demokratische Fassade
 
 Demokratie existiert in diesem System formal, aber nicht funktional. Die Fassade steht, die Substanz fehlt.
@@ -129,8 +119,6 @@ Diese Kluft zwischen Form und Funktion ist das eigentliche Problem. Nicht die De
 vollständig verwirklicht. Was existiert, ist eine Simulation von Demokratie, eine Oberfläche ohne Tiefe, ein Versprechen
 ohne Einlösung.
 
-------------------------------------------------------------------------
-
 ### Der geschlossene Kreislauf der Macht
 
 Das System hat einen geschlossenen Kreislauf geschaffen, in dem Macht zirkuliert, ohne je nach außen zu dringen. Die
@@ -149,8 +137,6 @@ Vor der Möglichkeit, dass jemand von außen kommt und sagt: So nicht. Das ände
 Diese Möglichkeit existiert nicht. Und solange sie nicht existiert, bleibt der Bürger, was er ist: Rohstoff für eine
 Maschine, die sich selbst am Laufen hält.
 
-------------------------------------------------------------------------
-
 ### Das anthropologische Fundament
 
 Hinter all dem steht ein Menschenbild, das selten explizit gemacht wird, aber das gesamte System durchzieht. Es ist ein
@@ -166,8 +152,6 @@ entscheiden dürfen und der Bürger nicht. Es begründet die Hierarchie, die den
 
 Aber es ist falsch. Der Mensch ist kein Rohstoff. Er ist kein Objekt. Er ist der Ursprung jeder legitimen Ordnung. Ohne
 seine Zustimmung – seine echte, dauerhafte, wirksame Zustimmung – ist jede Herrschaft nur Gewalt mit höflicher Fassade.
-
-------------------------------------------------------------------------
 
 ### Schlussverdichtung
 

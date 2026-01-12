@@ -14,8 +14,6 @@ ist kein Auftraggeber. Er ist Antragsteller. Er bittet um etwas, das ihm zusteht
 Dieses Kapitel zeigt, wie es anders sein könnte. Wie Verwaltung zum Dienstleister werden kann. Und wie Vorsorge – jener
 Bereich, in dem der Staat das Leben der Bürger am tiefsten berührt – vom Versprechen zum Eigentum werden kann.
 
-------------------------------------------------------------------------
-
 ### Das Grundproblem der heutigen Verwaltung
 
 Eine Verwaltung, die Bürger kontrolliert, blockiert Freiheit. Eine Verwaltung, die Bürger unterstützt, ermöglicht
@@ -39,8 +37,6 @@ Der Staat kennt die Daten des Bürgers. Er weiß, was er verdient, was er besitz
 zwingt er ihn, all das erneut zu beweisen. Das ist nicht Schutz vor Missbrauch. Das ist Machtausübung. Es zeigt dem
 Bürger, wer hier das Sagen hat.
 
-------------------------------------------------------------------------
-
 ### Wie Verwaltung aussehen müsste
 
 In einem Bürgerstaat wäre Verwaltung anders strukturiert. Der Grundsatz wäre nicht Misstrauen, sondern Vertrauen. Nicht
@@ -60,8 +56,6 @@ bearbeitet, warum es dauert.
 Der zentrale Systemwechsel lässt sich in einem Satz zusammenfassen: Heute muss der Bürger sich rechtfertigen, um Hilfe
 zu bekommen. Im Bürgerstaat müsste der Staat sich rechtfertigen, wenn er nicht hilft.
 
-------------------------------------------------------------------------
-
 ### Die psychologische Dimension
 
 Es gibt auch eine psychologische Dimension. Wer unterstützt wird, kann Verantwortung übernehmen. Wer behindert wird,
@@ -79,8 +73,6 @@ nur praktisch, sondern psychologisch. Sie erzeugt Ohnmacht, Frustration, Resigna
 Freiheit entsteht nicht durch Erlaubnis. Freiheit entsteht durch Barrierefreiheit. Ein Mensch, der frei ist, muss nicht
 um Erlaubnis bitten. Er muss nicht Nachweise erbringen. Er muss nicht warten, bis jemand entscheidet. Er kann handeln –
 und der Staat unterstützt ihn dabei, statt ihm Steine in den Weg zu legen.
-
-------------------------------------------------------------------------
 
 ### Vorsorge als Eigentum
 
@@ -103,8 +95,6 @@ eingezahlt hat, was daraus geworden ist, was er erwarten kann. Echtzeit-Transpar
 Und vor allem: Die Beiträge wären vererbbar. Wenn ein Mensch stirbt, bevor er seine Rente aufgebraucht hat, geht der
 Rest an seine Familie. Nicht an den Staat, nicht ins System, nicht ins Nichts. An die Menschen, die ihm nahestanden.
 Seine Lebensleistung würde nicht verschwinden. Sie würde weiterleben.
-
-------------------------------------------------------------------------
 
 ### Die Technologie als Ermöglicher
 
@@ -130,8 +120,6 @@ zur Stärkung seiner Position.
 
 Der Unterschied ist nicht technisch. Er ist politisch. Er ist eine Frage der Macht.
 
-------------------------------------------------------------------------
-
 ### Daten für den Bürger, nicht gegen ihn
 
 Es gibt ein Grundproblem mit Daten im modernen Staat. Der Staat sammelt enorme Mengen an Informationen über seine
@@ -153,8 +141,6 @@ Im Bürgerstaat würde dieses Prinzip gelten: Daten sind Eigentum des Bürgers. 
 dienen. Er darf sie nicht nutzen, um ihn zu kontrollieren. Die Macht über die Daten liegt beim Bürger, nicht beim
 Apparat.
 
-------------------------------------------------------------------------
-
 ### Das Ergebnis: Lebensleistung als Familienvermögen
 
 Wenn all das umgesetzt würde, wäre das Ergebnis fundamental anders als heute. Die Lebensleistung eines Menschen würde
@@ -169,8 +155,6 @@ Budget des Staates, nicht die Liquidität des Systems, nicht die Interessen des 
 
 Und die Verwaltung würde dienen, was sie zu dienen vorgibt: dem Bürger, seinen Bedürfnissen, seinen Rechten. Nicht sich
 selbst, nicht ihrer eigenen Existenz, nicht ihrer eigenen Macht.
-
-------------------------------------------------------------------------
 
 ### Schlussverdichtung
 
