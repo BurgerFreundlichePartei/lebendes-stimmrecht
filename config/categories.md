@@ -2,6 +2,6 @@
 
 ## ebook
 
-- Kindle-Bücher › Politik & Sozialwissenschaften › 9036199010 – Allgemein 
-- Kindle-Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Öffentliche Angelegenheiten & Politik › Öffentliche Politik 
-- Kindle-Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Öffentliche Angelegenheiten & Politik › Sozialpolitik 
+- Kindle-Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Ideologien & Lehren › Demokratie 
+- Kindle-Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Spezifische Themen › Bürgerrechte & Freiheiten 
+- Kindle-Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Politikwissenschaft › Verfassungen 
