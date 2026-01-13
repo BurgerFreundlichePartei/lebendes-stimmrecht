@@ -63,7 +63,7 @@ FORMATS = {
     "pdf": "pdf",  # PDF format
     "epub": "epub",  # EPUB eBook format
     "docx": "docx",  # Microsoft Word format
-    "html": "html",  # html format
+    "html": "html",  # HTML format
 }
 
 # Default section order (customizable)
@@ -97,8 +97,22 @@ PAPERBACK_SECTION_ORDER = [
     "back-matter/imprint.md",
 ]
 
-# Hardcover section order (customizable)
+# Hardcover section order (same as paperback)
 HARDCOVER_SECTION_ORDER = PAPERBACK_SECTION_ORDER
+
+# TOC files that should be skipped for EPUB (Pandoc generates TOC automatically)
+# This prevents epubcheck errors caused by manual TOC links like #anchor
+# that don't include the correct file references (chXXX.xhtml#anchor)
+EPUB_SKIP_TOC_FILES = [
+    "front-matter/toc.md",
+    "front-matter/toc_print_edition.md",
+]
+
+# Default TOC depth for auto-generated TOCs
+# - Depth 2 (# ##): Recommended for most books, keeps TOC clean and navigable
+# - Depth 3 (# ## ###): Good for technical/academic books with many subsections
+# - Depth 1: Too shallow for most use cases
+DEFAULT_TOC_DEPTH = 2
 
 
 def pick_section_order(book_type: "BookType", fmt: str) -> list[str]:
@@ -115,7 +129,7 @@ def pick_section_order(book_type: "BookType", fmt: str) -> list[str]:
         return PAPERBACK_SECTION_ORDER
     if book_type.value == "hardcover":
         return HARDCOVER_SECTION_ORDER
-    # fallback
+    # Fallback
     return DEFAULT_SECTION_ORDER
 
 
@@ -153,7 +167,7 @@ def get_project_name_from_pyproject(pyproject_path="pyproject.toml"):
 
 
 def get_metadata_language():
-    """Read and return the 'lang' field from metadata.yaml if present, else return None"""
+    """Read and return the 'lang' field from metadata.yaml if present, else return None."""
     if not METADATA_FILE.exists():
         print(f"⚠️ Metadata file not found at: {METADATA_FILE}")
         return None
@@ -178,7 +192,7 @@ def run_script(script_path, arg=None):
         print(f"✅ Successfully executed: {script_path} {arg if arg else ''}")
     except subprocess.CalledProcessError as e:
         print(f"❌ Error running script {script_path}: {e}")
-        raise  # <--- This is needed so tests detect the failure!
+        raise  # Needed so tests detect the failure
 
 
 def prepare_output_folder(verbose=False):
@@ -231,37 +245,80 @@ def ensure_metadata_file():
         print(f"⚠️ Metadata file missing! Creating default {METADATA_FILE}.")
         os.makedirs(os.path.dirname(METADATA_FILE), exist_ok=True)
         with open(METADATA_FILE, "w", encoding="utf-8") as f:
-            # TODO replace with your data
             f.write(
-                'title: "CHANGE TO YOUR TITLE"\n'
-                'author: "YOUR NAME"\n'
+                'title: "Das lebende Stimmrecht – Vom Untertan zum Auftraggeber"\n'
+                'author: "Asterios Raptis"\n'
                 'date: "2025"\n'
-                'lang: "en"\n'
+                'lang: "de"\n'
             )
+
+
+def filter_section_order_for_epub(section_order: list[str]) -> list[str]:
+    """
+    Remove manual TOC files from section order for EPUB ebook builds.
+
+    Pandoc will generate the TOC automatically with the --toc flag,
+    which creates proper cross-file links (chXXX.xhtml#anchor) that
+    pass epubcheck validation.
+
+    Note: This is only used for ebook EPUBs. Paperback/hardcover EPUBs
+    use the existing toc_print_edition.md file.
+    """
+    filtered = [s for s in section_order if s not in EPUB_SKIP_TOC_FILES]
+    return filtered
 
 
 def compile_book(
     format,
     section_order,
+    book_type,
     cover_path=None,
     force_epub2=False,
     lang="en",
     custom_ext=None,
+    toc_depth=DEFAULT_TOC_DEPTH,
+    use_manual_toc=False,
 ):
     """
     Compiles the book into a specific format using Pandoc.
 
     Parameters:
-    - format: Format to compile (e.g. pdf, docx)
+    - format: Format to compile (e.g. pdf, docx, epub)
     - section_order: Ordered list of sections to include
+    - book_type: BookType enum (ebook, paperback, hardcover)
+    - cover_path: Optional path to cover image (for EPUB)
+    - force_epub2: Force EPUB 2 format
+    - lang: Language code (e.g. en, de, fr)
+    - custom_ext: Custom file extension for markdown output
+    - toc_depth: Depth of auto-generated TOC (default: 2)
+    - use_manual_toc: Use existing toc.md instead of auto-generating for EPUB
     """
     ext = resolve_ext(format, custom_ext)
     output_path = os.path.join(OUTPUT_DIR, f"{OUTPUT_FILE}.{ext}")
 
+    # Determine if this is a print build (paperback/hardcover)
+    is_print_build = book_type.value in ("paperback", "hardcover")
+
+    # For EPUB + ebook only: filter out manual TOC files (Pandoc generates TOC automatically)
+    # Unless --use-manual-toc is set, then use your existing toc.md
+    # For EPUB + paperback/hardcover: use your existing toc_print_edition.md
+    if format == "epub" and not is_print_build and not use_manual_toc:
+        effective_order = filter_section_order_for_epub(section_order)
+        if len(effective_order) < len(section_order):
+            print(
+                "ℹ️  EPUB (ebook): Skipping manual TOC. Pandoc will generate TOC automatically."
+            )
+    elif format == "epub" and not is_print_build and use_manual_toc:
+        effective_order = section_order
+        print("ℹ️  EPUB (ebook): Using your existing toc.md (--use-manual-toc).")
+    else:
+        # PDF, DOCX, HTML, Markdown, or EPUB for print: use your existing files unchanged
+        effective_order = section_order
+
     md_files = []
 
     # Gather markdown files from the specified order
-    for section in section_order:
+    for section in effective_order:
         section_path = os.path.join(BOOK_DIR, section)
         if os.path.isdir(section_path):
             # Include all .md files in directory, sorted
@@ -291,18 +348,28 @@ def compile_book(
         f"--metadata-file={METADATA_FILE}",
     ] + md_files  # Append all markdown files to compile
 
+    # EPUB-specific options
     if format == "epub":
         pandoc_cmd.extend(["--metadata", f"lang={lang}"])
+        # Only auto-generate TOC for ebook type when --use-manual-toc is NOT set
+        if not is_print_build and not use_manual_toc:
+            pandoc_cmd.extend(
+                [
+                    "--toc",  # Generate table of contents
+                    f"--toc-depth={toc_depth}",  # TOC depth (default: 2)
+                    "--epub-chapter-level=1",  # Each H1 becomes a new XHTML file
+                ]
+            )
         if force_epub2:
             pandoc_cmd.extend(["--metadata", "epub.version=2"])
         if cover_path:
             pandoc_cmd.append(f"--epub-cover-image={cover_path}")
 
-    # For PDF output, specify the PDF engine and font options
+    # PDF-specific options
     if format == "pdf":
         pandoc_cmd.extend(
             [
-                "--pdf-engine=lualatex",  # xelatex, lualatex, pdflatex
+                "--pdf-engine=xelatex",  # Options: xelatex, lualatex, pdflatex
                 "-V",
                 "mainfont=DejaVu Sans",
                 "-V",
@@ -310,18 +377,21 @@ def compile_book(
             ]
         )
 
-    # For Markdown output: prevent line breaks in links and paragraphs
+    # Markdown-specific options
     if format == "markdown":
-        pandoc_cmd.append("--wrap=none")
+        pandoc_cmd.append("--wrap=none")  # Prevent line breaks in links and paragraphs
 
+    # HTML-specific options
     if format == "html":
         pandoc_cmd.extend(
             [
-            "--standalone",  # Erzeugt vollständiges HTML-Dokument
-            "--css=assets/style.css",  # Optional: CSS-Datei einbinden (muss existieren)
-            "--metadata", f"lang={lang}",
+                "--standalone",  # Generate complete HTML document
+                "--css=assets/style.css",  # Optional: Include CSS file (must exist)
+                "--metadata",
+                f"lang={lang}",
             ]
         )
+
     # Run Pandoc and log output
     try:
         with open(LOG_FILE, "a") as log_file:
@@ -331,8 +401,13 @@ def compile_book(
         print(f"❌ Error compiling {format}: {e}")
 
 
-# Step 1a: Normalize TOC (only if it's the web/ebook ToC 'toc.md')
 def normalize_toc_if_needed(toc_path: Path, args):
+    """
+    Normalize TOC links (only for web/ebook ToC 'toc.md').
+
+    This step is mainly for non-EPUB/non-print formats where the manual
+    TOC is included in the output.
+    """
     try:
         if toc_path.exists() and toc_path.name == "toc.md":
             toc_mode = "strip-to-anchors"
@@ -370,10 +445,9 @@ def main():
     parser.add_argument(
         "--order",
         type=str,
-        default=None,  # was: ",".join(DEFAULT_SECTION_ORDER)
+        default=None,
         help="Specify document order (comma-separated). If omitted, a sane default is chosen based on --book-type.",
     )
-
     parser.add_argument(
         "--cover", type=str, help="Optional path to cover image (for EPUB export)."
     )
@@ -395,7 +469,7 @@ def main():
         type=str,
         choices=[bt.value for bt in BookType],
         default=BookType.EBOOK.value,
-        help="Specify the book type (ebook, paperback, etc.). Affects output file naming.",
+        help="Specify the book type (ebook, paperback, hardcover). Affects TOC generation and output naming.",
     )
     parser.add_argument(
         "--output-file",
@@ -406,6 +480,18 @@ def main():
         "--no-type-suffix",
         action="store_true",
         help="Do not append '-{book_type}' to the output base name.",
+    )
+    parser.add_argument(
+        "--toc-depth",
+        type=int,
+        default=DEFAULT_TOC_DEPTH,
+        help=f"Depth of auto-generated TOC for EPUB and print PDF (default: {DEFAULT_TOC_DEPTH}). "
+        "Use 2 for most books, 3 for technical books with many subsections.",
+    )
+    parser.add_argument(
+        "--use-manual-toc",
+        action="store_true",
+        help="Use your existing toc.md instead of auto-generating TOC for EPUB ebook.",
     )
 
     group = parser.add_mutually_exclusive_group()
@@ -424,13 +510,12 @@ def main():
 
     # Book type handling
     book_type = BookType(args.book_type)
+
     # Decide section order: CLI > auto by book type
     if args.order:
         section_order = args.order.split(",")
     else:
-        # we don’t know the format yet (could be multiple), so we pass a callable down
-        # and re-pick per format later, OR pick a single order now:
-        # We’ll pick later per format to allow mixed builds like: --format=epub,pdf
+        # We'll pick later per format to allow mixed builds like: --format=epub,pdf
         section_order = None
 
     # Set global output filename
@@ -440,11 +525,10 @@ def main():
         # User provided name: use the stem, extension is added per-format later
         op = Path(args.output_file)
         OUTPUT_FILE = op.stem
-    elif OUTPUT_FILE is None:
+    elif OUTPUT_FILE is None or OUTPUT_FILE == "":
         # Fall back to project name
         project_name = get_project_name_from_pyproject()
         OUTPUT_FILE = project_name
-    # else: keep pre-set global OUTPUT_FILE as-is
 
     if add_type_suffix:
         OUTPUT_FILE = f"{OUTPUT_FILE}_{book_type.value}"
@@ -471,11 +555,10 @@ def main():
         lang = "en"
         print("⚠️ No language set in CLI or metadata.yaml. Defaulting to 'en'")
 
-    # Step 1a: Normalize TOC (recommended: pure anchors, robust for single-file Markdown)
+    # Step 1a: Normalize TOC (for non-EPUB/non-print formats where manual TOC is used)
+    # Note: For EPUB and print PDF, the manual TOC is skipped anyway
     try:
         if TOC_FILE.exists():
-            # Choice: "strip-to-anchors" is safest.
-            # If you want to keep paths, use mode=replace-ext instead and specify the extension.
             toc_mode = "strip-to-anchors"
             toc_ext = args.extension if args.extension else "md"
             subprocess.run(
@@ -516,8 +599,6 @@ def main():
         METADATA_FILE
     )  # Make sure metadata exists
 
-    # Step 3: Compile book in requested formats
-    # Determine formats to export
     # Step 3: Compile the book in requested formats
     selected_formats = args.format.split(",") if args.format else FORMATS.keys()
 
@@ -532,32 +613,47 @@ def main():
             else pick_section_order(book_type, fmt)
         )
 
-        # Warnen, falls die Print-ToC-Datei fehlt
+        # Warning if print TOC file is missing (only relevant for non-auto-TOC builds)
         if "front-matter/toc_print_edition.md" in effective_order:
             toc_print_path = Path(BOOK_DIR) / "front-matter" / "toc_print_edition.md"
             if not toc_print_path.exists():
                 print(
                     "⚠️ Print ToC file missing: manuscript/front-matter/toc_print_edition.md "
-                    "(fallback to ebook toc.md)"
+                    "(will use auto-generated TOC instead)"
                 )
-                # Fallback: ersetze durch toc.md, falls vorhanden
+                # Remove the missing file from order
                 idx = effective_order.index("front-matter/toc_print_edition.md")
                 effective_order = effective_order.copy()
-                effective_order[idx] = "front-matter/toc.md"
+                effective_order.pop(idx)
 
-        # TOC normalisieren NUR wenn es toc.md ist (ebook)
-        toc_candidate = (
-            Path(BOOK_DIR)
-            / "front-matter"
-            / (
-                "toc.md"
-                if "front-matter/toc.md" in effective_order
-                else "toc_print_edition.md"
+        # TOC normalization only for formats that use manual TOC
+        # (EPUB and print PDF use auto-generated TOC, so this is skipped for them)
+        if fmt not in ("epub",) and not (
+            fmt == "pdf" and book_type.value in ("paperback", "hardcover")
+        ):
+            toc_candidate = (
+                Path(BOOK_DIR)
+                / "front-matter"
+                / (
+                    "toc.md"
+                    if "front-matter/toc.md" in effective_order
+                    else "toc_print_edition.md"
+                )
             )
-        )
-        normalize_toc_if_needed(toc_candidate, args)
+            if toc_candidate.exists():
+                normalize_toc_if_needed(toc_candidate, args)
 
-        compile_book(fmt, effective_order, args.cover, args.epub2, lang, args.extension)
+        compile_book(
+            fmt,
+            effective_order,
+            book_type,
+            args.cover,
+            args.epub2,
+            lang,
+            args.extension,
+            args.toc_depth,
+            args.use_manual_toc,
+        )
 
     # Step 4: Restore original image paths
     # Revert any image/URL changes made before compilation unless we kept relative paths
@@ -622,12 +718,12 @@ def main():
         thread.start()
         threads.append(thread)
 
-    # Optional: wait a moment for fast checks to finish (e.g. markdown)
-    # But don't block long — let slow ones (epubcheck) continue
+    # Final messages
     print("\n🚀 Export completed. Background validation in progress...")
     print("📁 Outputs: ./output/")
     print("📄 Logs: ./export.log")
     print("🔍 Validation results will appear shortly.")
+
     if _is_temp_metadata:
         try:
             METADATA_FILE.unlink(missing_ok=True)
