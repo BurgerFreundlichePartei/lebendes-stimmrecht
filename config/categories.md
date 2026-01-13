@@ -14,6 +14,6 @@
 
 ## hardcover
 
-Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Staatsführung ↗
-Bücher › Politik & Geschichte › Allgemein ↗
-Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Politische Ideologien › Demokratie ↗
+- Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Politische Ideologien › Demokratie
+- Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Spezielle Themen › Bürgerrechte
+- Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Politikwissenschaft › Verfassungen 
