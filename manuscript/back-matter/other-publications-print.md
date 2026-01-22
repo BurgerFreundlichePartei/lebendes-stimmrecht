@@ -2,15 +2,19 @@
 
 ### Bücher von Asterios Raptis
 
-* **Die souveräne Zivilisation – Architektur der Freiheit**  
+* **Die souveräne Zivilisation**
 
-* **Die Währung des Geistes**  
+* **Globale Souveränität**
 
-* **Die Formbare Ewigkeit – Bewusstsein, Realität und das Paradox der Unendlichkeit**  
+* **Das Politische Profil**
 
-* **KI für Einsteiger (Prompts gestalten ohne Programmierkenntnisse)**  
+* **Die Währung des Geistes**
 
-* **Mit den Augen eines Vaters (Ein Vater. Ein Sohn. Und die Liebe, die bleibt.)**  
+* **Die Formbare Ewigkeit**
+
+* **KI für Einsteiger**
+
+* **Mit den Augen eines Vaters**
 
 ---
 

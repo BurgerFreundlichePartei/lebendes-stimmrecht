@@ -2,19 +2,25 @@
 
 ### Bücher von Asterios Raptis
 
-* **Die souveräne Zivilisation – Architektur der Freiheit**  
+* **Die souveräne Zivilisation**
   [eBook](https://www.amazon.com/dp/B0G15TCWQK) | [Paperback](https://www.amazon.com/dp/B0G1C7L2HD) | [Hardcover](https://www.amazon.com/dp/B0G1GRVM8R)
 
-* **Die Währung des Geistes**  
+* **Globale Souveränität**
+  [eBook](https://www.amazon.com/dp/B0G4X9XFH4) | [Paperback](https://www.amazon.com/dp/B0G51MSDCQ) | [Hardcover](https://www.amazon.com/dp/B0G51CLM26)
+
+* **Das Politische Profil**
+  [eBook](https://www.amazon.com/dp/B0GHBN1TKK) | [Paperback](https://www.amazon.com/dp/B0GJ3Q35S3) | [Hardcover](https://www.amazon.com/dp/B0GJ334VLR)
+
+* **Die Währung des Geistes**
   [eBook](https://www.amazon.com/dp/B0FF5FGWRQ) | [Paperback](https://www.amazon.com/dp/B0FFH2HDPH) | [Hardcover](https://www.amazon.com/dp/B0FL78THT7)
 
-* **Die Formbare Ewigkeit – Bewusstsein, Realität und das Paradox der Unendlichkeit**  
+* **Die Formbare Ewigkeit**
   [eBook](https://www.amazon.com/dp/B0DWVHDDF2) | [Paperback](https://www.amazon.com/dp/B0F8ZWZV1B) | [Hardcover](https://www.amazon.com/dp/B0FRS31Y1M)
 
-* **KI für Einsteiger (Prompts gestalten ohne Programmierkenntnisse)**  
+* **KI für Einsteiger**
   [eBook](https://www.amazon.com/dp/B0F3XZWVGW) | [Paperback](https://www.amazon.com/dp/B0F43H6T2M) | [Hardcover](https://www.amazon.com/dp/B0FRF6D13Q)
 
-* **Mit den Augen eines Vaters (Ein Vater. Ein Sohn. Und die Liebe, die bleibt.)**  
+* **Mit den Augen eines Vaters**
   [eBook](https://www.amazon.com/dp/B0F88D4ZLT) | [Paperback](https://www.amazon.com/dp/B0FK3J47RR) | [Hardcover](https://www.amazon.com/dp/B0FM235M7M)
 
 ---
