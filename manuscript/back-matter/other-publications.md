@@ -1,4 +1,4 @@
-## Weitere Veröffentlichungen unseres Verlages  {#other-publications}
+# Weitere Veröffentlichungen unseres Verlages  {#other-publications}
 
 ### Bücher von Asterios Raptis
 
