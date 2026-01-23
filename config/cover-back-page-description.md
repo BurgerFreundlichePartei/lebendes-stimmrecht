@@ -1,4 +1,5 @@
-**Das lebende Stimmrecht: Vom Untertan zum Auftraggeber**
+**Das lebende Stimmrecht: Vom Untertan zum Auftraggeber**  
+*Band I der Reihe „Das politische Profil: Die Architektur der Freiheit"*
 
 Alle Staatsgewalt geht vom Volke aus – so steht es im Grundgesetz. Aber was bedeutet das, wenn der Bürger seine Stimme
 abgibt und dann verschwindet? Wenn er alle vier Jahre wählen darf und dazwischen verwaltet wird?

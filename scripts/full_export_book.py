@@ -93,7 +93,7 @@ PAPERBACK_SECTION_ORDER = [
     "back-matter/glossary.md",
     "back-matter/acknowledgments.md",
     "back-matter/about-the-author.md",
-    "back-matter/other-publications.md",
+    "back-matter/other-publications-print.md",
     "back-matter/imprint.md",
 ]
 
