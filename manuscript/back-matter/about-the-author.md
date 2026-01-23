@@ -16,5 +16,3 @@ sind kein Protest, sondern eine Rückforderung: der Zuständigkeit des Menschen 
 Dieses Buch ist kein politisches Programm, sondern ein Fundament:
 die Rückführung von Würde in Verantwortung
 – und von Staatlichkeit in Auftrag.
-
----

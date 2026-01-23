@@ -125,7 +125,7 @@ export-all-nc: ## Export all formats WITHOUT cover
 
 # Frequently used export flows
 ebook: ## Export E-Book (EPUB, NOT EPUB2)
-	@$(POETRY) run export-epub-safe $(ARGS)
+	$(POETRY) run export-epub-safe $(ARGS) --use-manual-toc
 
 paperback: ## Export print version (paperback)
 	@$(POETRY) run export-print-version-paperback-safe $(ARGS)
