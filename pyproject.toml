@@ -25,6 +25,7 @@ toml = "^0.10.2"
 ftfy = "^6.3.1"
 questionary = "^2.1.1"
 pymupdf = "^1.26.4"
+beautifulsoup4 = "^4.12"
 
 [tool.poetry.group.dev.dependencies]
 hypothesis = "^6.138.13"
@@ -44,6 +45,7 @@ pytest = "^8.2"
 pytest-mock = "^3.10.0"
 
 [tool.poetry.scripts]
+extract-kdp-errors = "scripts.extract_kdp_errors:main"
 replace-md-bullet-points = "scripts.replace_md_bullet_points:main"
 unbold-md-headers = "scripts.unbold_md_headers:main"
 init-book-project = "scripts.init_book_project:main"
