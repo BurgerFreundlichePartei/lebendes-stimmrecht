@@ -50,3 +50,6 @@ logs/
 ###############################
 /.coverage
 /coverage.xml
+
+/scripts/__pycache__/
+/scripts/enums/__pycache__/

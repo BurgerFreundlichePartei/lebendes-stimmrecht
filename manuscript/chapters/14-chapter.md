@@ -1,4 +1,4 @@
-# Kapitel 14 {#kapitel-14}
+# KAPITEL 14 {#kapitel-14}
 
 ## Unkippbare Institutionen – Vom Untertan zum Auftraggeber
 
